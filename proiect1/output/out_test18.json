@@ -1,0 +1,889 @@
+[ [ {
+  "id" : 0,
+  "lastName" : "Cantemir",
+  "firstName" : "Miruna",
+  "age" : 5,
+  "city" : "Cluj-Napoca",
+  "niceScore" : 3.0,
+  "giftsPreferences" : [ "Toys", "Board Games", "Books", "Clothes" ],
+  "averageScore" : 0.0,
+  "niceScoreHistory" : [ 0.0, 3.0, 3.0, 3.0, 5.0, 3.0, 3.0 ],
+  "assignedBudget" : 0.0,
+  "receivedGifts" : [ {
+    "productName" : "Castle",
+    "price" : 15.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Puzzle",
+    "price" : 50.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Castle",
+    "price" : 15.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Puzzle",
+    "price" : 50.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Castle",
+    "price" : 15.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Puzzle",
+    "price" : 50.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Diary of a Wimpy Kid",
+    "price" : 25.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Castle",
+    "price" : 15.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Puzzle",
+    "price" : 50.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Diary of a Wimpy Kid",
+    "price" : 25.0,
+    "category" : "Books"
+  } ]
+}, {
+  "id" : 1,
+  "lastName" : "Mihalache",
+  "firstName" : "Miruna",
+  "age" : 18,
+  "city" : "Timisoara",
+  "niceScore" : 10.0,
+  "giftsPreferences" : [ "Technology", "Toys", "Clothes" ],
+  "averageScore" : 0.0,
+  "niceScoreHistory" : [ 0.0, 10.0 ],
+  "assignedBudget" : 0.0,
+  "receivedGifts" : [ ]
+} ], [ {
+  "id" : 0,
+  "lastName" : "Cantemir",
+  "firstName" : "Miruna",
+  "age" : 6,
+  "city" : "Cluj-Napoca",
+  "niceScore" : 3.0,
+  "giftsPreferences" : [ "Toys", "Board Games", "Books", "Clothes" ],
+  "averageScore" : 1.5,
+  "niceScoreHistory" : [ 0.0, 3.0, 3.0, 3.0, 5.0, 3.0, 3.0 ],
+  "assignedBudget" : 249.0,
+  "receivedGifts" : [ {
+    "productName" : "Castle",
+    "price" : 15.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Puzzle",
+    "price" : 50.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Castle",
+    "price" : 15.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Puzzle",
+    "price" : 50.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Castle",
+    "price" : 15.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Puzzle",
+    "price" : 50.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Diary of a Wimpy Kid",
+    "price" : 25.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Castle",
+    "price" : 15.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Puzzle",
+    "price" : 50.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Diary of a Wimpy Kid",
+    "price" : 25.0,
+    "category" : "Books"
+  } ]
+}, {
+  "id" : 2,
+  "lastName" : "Mihalache",
+  "firstName" : "Miruna",
+  "age" : 15,
+  "city" : "Braila",
+  "niceScore" : 7.0,
+  "giftsPreferences" : [ "Toys", "Board Games", "Technology" ],
+  "averageScore" : 4.666666666666667,
+  "niceScoreHistory" : [ 0.0, 7.0, 7.0, 7.0, 7.0, 7.0 ],
+  "assignedBudget" : 188.43243243243245,
+  "receivedGifts" : [ {
+    "productName" : "Castle",
+    "price" : 15.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Puzzle",
+    "price" : 50.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Castle",
+    "price" : 15.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Puzzle",
+    "price" : 50.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Castle",
+    "price" : 15.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Puzzle",
+    "price" : 50.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Castle",
+    "price" : 15.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Puzzle",
+    "price" : 50.0,
+    "category" : "Board Games"
+  } ]
+}, {
+  "id" : 3,
+  "lastName" : "Mihalache",
+  "firstName" : "Maria",
+  "age" : 13,
+  "city" : "Brasov",
+  "niceScore" : 6.0,
+  "giftsPreferences" : [ "Board Games", "Clothes", "Toys", "Technology" ],
+  "averageScore" : 4.0,
+  "niceScoreHistory" : [ 0.0, 6.0, 6.0, 6.0, 3.0, 6.0, 6.0 ],
+  "assignedBudget" : 97.96721311475409,
+  "receivedGifts" : [ {
+    "productName" : "Castle",
+    "price" : 15.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Puzzle",
+    "price" : 50.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Handbag",
+    "price" : 200.0,
+    "category" : "Clothes"
+  }, {
+    "productName" : "Castle",
+    "price" : 15.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Puzzle",
+    "price" : 50.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Puzzle",
+    "price" : 50.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Castle",
+    "price" : 15.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Puzzle",
+    "price" : 50.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Handbag",
+    "price" : 200.0,
+    "category" : "Clothes"
+  }, {
+    "productName" : "Castle",
+    "price" : 15.0,
+    "category" : "Toys"
+  } ]
+} ], [ {
+  "id" : 0,
+  "lastName" : "Cantemir",
+  "firstName" : "Miruna",
+  "age" : 7,
+  "city" : "Cluj-Napoca",
+  "niceScore" : 3.0,
+  "giftsPreferences" : [ "Toys", "Board Games", "Books", "Clothes" ],
+  "averageScore" : 2.0,
+  "niceScoreHistory" : [ 0.0, 3.0, 3.0, 3.0, 5.0, 3.0, 3.0 ],
+  "assignedBudget" : 175.87499999999997,
+  "receivedGifts" : [ {
+    "productName" : "Castle",
+    "price" : 15.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Puzzle",
+    "price" : 50.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Castle",
+    "price" : 15.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Puzzle",
+    "price" : 50.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Castle",
+    "price" : 15.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Puzzle",
+    "price" : 50.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Diary of a Wimpy Kid",
+    "price" : 25.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Castle",
+    "price" : 15.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Puzzle",
+    "price" : 50.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Diary of a Wimpy Kid",
+    "price" : 25.0,
+    "category" : "Books"
+  } ]
+}, {
+  "id" : 2,
+  "lastName" : "Mihalache",
+  "firstName" : "Miruna",
+  "age" : 16,
+  "city" : "Braila",
+  "niceScore" : 7.0,
+  "giftsPreferences" : [ "Toys", "Board Games", "Technology" ],
+  "averageScore" : 5.833333333333333,
+  "niceScoreHistory" : [ 0.0, 7.0, 7.0, 7.0, 7.0, 7.0 ],
+  "assignedBudget" : 462.39436619718316,
+  "receivedGifts" : [ {
+    "productName" : "Castle",
+    "price" : 15.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Puzzle",
+    "price" : 50.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Castle",
+    "price" : 15.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Puzzle",
+    "price" : 50.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Castle",
+    "price" : 15.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Puzzle",
+    "price" : 50.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Castle",
+    "price" : 15.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Puzzle",
+    "price" : 50.0,
+    "category" : "Board Games"
+  } ]
+}, {
+  "id" : 3,
+  "lastName" : "Mihalache",
+  "firstName" : "Maria",
+  "age" : 14,
+  "city" : "Brasov",
+  "niceScore" : 6.0,
+  "giftsPreferences" : [ "Board Games", "Clothes", "Toys", "Technology" ],
+  "averageScore" : 5.0,
+  "niceScoreHistory" : [ 0.0, 6.0, 6.0, 6.0, 3.0, 6.0, 6.0 ],
+  "assignedBudget" : 365.4545454545455,
+  "receivedGifts" : [ {
+    "productName" : "Castle",
+    "price" : 15.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Puzzle",
+    "price" : 50.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Handbag",
+    "price" : 200.0,
+    "category" : "Clothes"
+  }, {
+    "productName" : "Castle",
+    "price" : 15.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Puzzle",
+    "price" : 50.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Puzzle",
+    "price" : 50.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Castle",
+    "price" : 15.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Puzzle",
+    "price" : 50.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Handbag",
+    "price" : 200.0,
+    "category" : "Clothes"
+  }, {
+    "productName" : "Castle",
+    "price" : 15.0,
+    "category" : "Toys"
+  } ]
+}, {
+  "id" : 4,
+  "lastName" : "Popescu",
+  "firstName" : "Andreea",
+  "age" : 4,
+  "city" : "Cluj-Napoca",
+  "niceScore" : 2.0,
+  "giftsPreferences" : [ "Toys", "Board Games", "Clothes" ],
+  "averageScore" : 10.0,
+  "niceScoreHistory" : [ 0.0, 2.0, 2.0, 2.0, 2.0 ],
+  "assignedBudget" : 410.80291970802926,
+  "receivedGifts" : [ {
+    "productName" : "Castle",
+    "price" : 15.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Puzzle",
+    "price" : 50.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Handbag",
+    "price" : 200.0,
+    "category" : "Clothes"
+  }, {
+    "productName" : "Castle",
+    "price" : 15.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Puzzle",
+    "price" : 50.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Castle",
+    "price" : 15.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Puzzle",
+    "price" : 50.0,
+    "category" : "Board Games"
+  } ]
+}, {
+  "id" : 5,
+  "lastName" : "Pop",
+  "firstName" : "Miruna",
+  "age" : 16,
+  "city" : "Brasov",
+  "niceScore" : 2.0,
+  "giftsPreferences" : [ "Toys", "Clothes" ],
+  "averageScore" : 1.3333333333333333,
+  "niceScoreHistory" : [ 0.0, 2.0, 2.0, 2.0, 2.0 ],
+  "assignedBudget" : 51.751724137931035,
+  "receivedGifts" : [ {
+    "productName" : "Castle",
+    "price" : 15.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Castle",
+    "price" : 15.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Castle",
+    "price" : 15.0,
+    "category" : "Toys"
+  } ]
+} ], [ {
+  "id" : 0,
+  "lastName" : "Cantemir",
+  "firstName" : "Miruna",
+  "age" : 8,
+  "city" : "Cluj-Napoca",
+  "niceScore" : 3.0,
+  "giftsPreferences" : [ "Toys", "Board Games", "Books", "Clothes" ],
+  "averageScore" : 2.8,
+  "niceScoreHistory" : [ 0.0, 3.0, 3.0, 3.0, 5.0, 3.0, 3.0 ],
+  "assignedBudget" : 105.19626168224299,
+  "receivedGifts" : [ {
+    "productName" : "Castle",
+    "price" : 15.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Puzzle",
+    "price" : 50.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Castle",
+    "price" : 15.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Puzzle",
+    "price" : 50.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Castle",
+    "price" : 15.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Puzzle",
+    "price" : 50.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Diary of a Wimpy Kid",
+    "price" : 25.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Castle",
+    "price" : 15.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Puzzle",
+    "price" : 50.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Diary of a Wimpy Kid",
+    "price" : 25.0,
+    "category" : "Books"
+  } ]
+}, {
+  "id" : 2,
+  "lastName" : "Mihalache",
+  "firstName" : "Miruna",
+  "age" : 17,
+  "city" : "Braila",
+  "niceScore" : 7.0,
+  "giftsPreferences" : [ "Toys", "Board Games", "Technology" ],
+  "averageScore" : 6.3,
+  "niceScoreHistory" : [ 0.0, 7.0, 7.0, 7.0, 7.0, 7.0 ],
+  "assignedBudget" : 232.34862385321102,
+  "receivedGifts" : [ {
+    "productName" : "Castle",
+    "price" : 15.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Puzzle",
+    "price" : 50.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Castle",
+    "price" : 15.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Puzzle",
+    "price" : 50.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Castle",
+    "price" : 15.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Puzzle",
+    "price" : 50.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Castle",
+    "price" : 15.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Puzzle",
+    "price" : 50.0,
+    "category" : "Board Games"
+  } ]
+}, {
+  "id" : 3,
+  "lastName" : "Mihalache",
+  "firstName" : "Maria",
+  "age" : 15,
+  "city" : "Brasov",
+  "niceScore" : 6.0,
+  "giftsPreferences" : [ "Board Games", "Clothes", "Toys", "Technology" ],
+  "averageScore" : 4.6,
+  "niceScoreHistory" : [ 0.0, 6.0, 6.0, 6.0, 3.0, 6.0, 6.0 ],
+  "assignedBudget" : 172.36218375499334,
+  "receivedGifts" : [ {
+    "productName" : "Castle",
+    "price" : 15.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Puzzle",
+    "price" : 50.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Handbag",
+    "price" : 200.0,
+    "category" : "Clothes"
+  }, {
+    "productName" : "Castle",
+    "price" : 15.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Puzzle",
+    "price" : 50.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Puzzle",
+    "price" : 50.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Castle",
+    "price" : 15.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Puzzle",
+    "price" : 50.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Handbag",
+    "price" : 200.0,
+    "category" : "Clothes"
+  }, {
+    "productName" : "Castle",
+    "price" : 15.0,
+    "category" : "Toys"
+  } ]
+}, {
+  "id" : 4,
+  "lastName" : "Popescu",
+  "firstName" : "Andreea",
+  "age" : 5,
+  "city" : "Cluj-Napoca",
+  "niceScore" : 2.0,
+  "giftsPreferences" : [ "Toys", "Board Games", "Clothes" ],
+  "averageScore" : 1.3333333333333333,
+  "niceScoreHistory" : [ 0.0, 2.0, 2.0, 2.0, 2.0 ],
+  "assignedBudget" : 76.41547861507128,
+  "receivedGifts" : [ {
+    "productName" : "Castle",
+    "price" : 15.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Puzzle",
+    "price" : 50.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Handbag",
+    "price" : 200.0,
+    "category" : "Clothes"
+  }, {
+    "productName" : "Castle",
+    "price" : 15.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Puzzle",
+    "price" : 50.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Castle",
+    "price" : 15.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Puzzle",
+    "price" : 50.0,
+    "category" : "Board Games"
+  } ]
+}, {
+  "id" : 5,
+  "lastName" : "Pop",
+  "firstName" : "Miruna",
+  "age" : 17,
+  "city" : "Brasov",
+  "niceScore" : 2.0,
+  "giftsPreferences" : [ "Toys", "Clothes" ],
+  "averageScore" : 1.6666666666666667,
+  "niceScoreHistory" : [ 0.0, 2.0, 2.0, 2.0, 2.0 ],
+  "assignedBudget" : 93.61277445109782,
+  "receivedGifts" : [ {
+    "productName" : "Castle",
+    "price" : 15.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Castle",
+    "price" : 15.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Castle",
+    "price" : 15.0,
+    "category" : "Toys"
+  } ]
+}, {
+  "id" : 6,
+  "lastName" : "Popa",
+  "firstName" : "Tudor",
+  "age" : 12,
+  "city" : "Oradea",
+  "niceScore" : 8.0,
+  "giftsPreferences" : [ "Toys", "Technology" ],
+  "averageScore" : 5.333333333333333,
+  "niceScoreHistory" : [ 0.0, 8.0, 8.0, 8.0 ],
+  "assignedBudget" : 227.0499243570348,
+  "receivedGifts" : [ {
+    "productName" : "Castle",
+    "price" : 15.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Castle",
+    "price" : 15.0,
+    "category" : "Toys"
+  } ]
+} ], [ {
+  "id" : 0,
+  "lastName" : "Cantemir",
+  "firstName" : "Miruna",
+  "age" : 9,
+  "city" : "Cluj-Napoca",
+  "niceScore" : 3.0,
+  "giftsPreferences" : [ "Toys", "Board Games", "Books", "Clothes" ],
+  "averageScore" : 2.8333333333333335,
+  "niceScoreHistory" : [ 0.0, 3.0, 3.0, 3.0, 5.0, 3.0, 3.0 ],
+  "assignedBudget" : 186.178247734139,
+  "receivedGifts" : [ {
+    "productName" : "Castle",
+    "price" : 15.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Puzzle",
+    "price" : 50.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Castle",
+    "price" : 15.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Puzzle",
+    "price" : 50.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Castle",
+    "price" : 15.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Puzzle",
+    "price" : 50.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Diary of a Wimpy Kid",
+    "price" : 25.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Castle",
+    "price" : 15.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Puzzle",
+    "price" : 50.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Diary of a Wimpy Kid",
+    "price" : 25.0,
+    "category" : "Books"
+  } ]
+}, {
+  "id" : 2,
+  "lastName" : "Mihalache",
+  "firstName" : "Miruna",
+  "age" : 18,
+  "city" : "Braila",
+  "niceScore" : 7.0,
+  "giftsPreferences" : [ "Toys", "Board Games", "Technology" ],
+  "averageScore" : 6.533333333333333,
+  "niceScoreHistory" : [ 0.0, 7.0, 7.0, 7.0, 7.0, 7.0 ],
+  "assignedBudget" : 424.813153961136,
+  "receivedGifts" : [ {
+    "productName" : "Castle",
+    "price" : 15.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Puzzle",
+    "price" : 50.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Castle",
+    "price" : 15.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Puzzle",
+    "price" : 50.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Castle",
+    "price" : 15.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Puzzle",
+    "price" : 50.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Castle",
+    "price" : 15.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Puzzle",
+    "price" : 50.0,
+    "category" : "Board Games"
+  } ]
+}, {
+  "id" : 3,
+  "lastName" : "Mihalache",
+  "firstName" : "Maria",
+  "age" : 16,
+  "city" : "Brasov",
+  "niceScore" : 6.0,
+  "giftsPreferences" : [ "Board Games", "Clothes", "Toys", "Technology" ],
+  "averageScore" : 5.0,
+  "niceScoreHistory" : [ 0.0, 6.0, 6.0, 6.0, 3.0, 6.0, 6.0 ],
+  "assignedBudget" : 319.3832599118943,
+  "receivedGifts" : [ {
+    "productName" : "Castle",
+    "price" : 15.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Puzzle",
+    "price" : 50.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Handbag",
+    "price" : 200.0,
+    "category" : "Clothes"
+  }, {
+    "productName" : "Castle",
+    "price" : 15.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Puzzle",
+    "price" : 50.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Puzzle",
+    "price" : 50.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Castle",
+    "price" : 15.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Puzzle",
+    "price" : 50.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Handbag",
+    "price" : 200.0,
+    "category" : "Clothes"
+  }, {
+    "productName" : "Castle",
+    "price" : 15.0,
+    "category" : "Toys"
+  } ]
+}, {
+  "id" : 4,
+  "lastName" : "Popescu",
+  "firstName" : "Andreea",
+  "age" : 6,
+  "city" : "Cluj-Napoca",
+  "niceScore" : 2.0,
+  "giftsPreferences" : [ "Toys", "Board Games", "Clothes" ],
+  "averageScore" : 1.5,
+  "niceScoreHistory" : [ 0.0, 2.0, 2.0, 2.0, 2.0 ],
+  "assignedBudget" : 95.11661807580174,
+  "receivedGifts" : [ {
+    "productName" : "Castle",
+    "price" : 15.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Puzzle",
+    "price" : 50.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Handbag",
+    "price" : 200.0,
+    "category" : "Clothes"
+  }, {
+    "productName" : "Castle",
+    "price" : 15.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Puzzle",
+    "price" : 50.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Castle",
+    "price" : 15.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Puzzle",
+    "price" : 50.0,
+    "category" : "Board Games"
+  } ]
+}, {
+  "id" : 5,
+  "lastName" : "Pop",
+  "firstName" : "Miruna",
+  "age" : 18,
+  "city" : "Brasov",
+  "niceScore" : 2.0,
+  "giftsPreferences" : [ "Toys", "Clothes" ],
+  "averageScore" : 1.8,
+  "niceScoreHistory" : [ 0.0, 2.0, 2.0, 2.0, 2.0 ],
+  "assignedBudget" : 113.47826086956522,
+  "receivedGifts" : [ {
+    "productName" : "Castle",
+    "price" : 15.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Castle",
+    "price" : 15.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Castle",
+    "price" : 15.0,
+    "category" : "Toys"
+  } ]
+}, {
+  "id" : 6,
+  "lastName" : "Popa",
+  "firstName" : "Tudor",
+  "age" : 13,
+  "city" : "Oradea",
+  "niceScore" : 8.0,
+  "giftsPreferences" : [ "Toys", "Technology" ],
+  "averageScore" : 6.666666666666667,
+  "niceScoreHistory" : [ 0.0, 8.0, 8.0, 8.0 ],
+  "assignedBudget" : 397.26027397260276,
+  "receivedGifts" : [ {
+    "productName" : "Castle",
+    "price" : 15.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Castle",
+    "price" : 15.0,
+    "category" : "Toys"
+  } ]
+} ] ]

@@ -1,0 +1,317 @@
+[ [ {
+  "id" : 0,
+  "lastName" : "Popescu",
+  "firstName" : "Andreea",
+  "age" : 15,
+  "city" : "Braila",
+  "niceScore" : 7.0,
+  "giftsPreferences" : [ "Clothes", "Toys" ],
+  "averageScore" : 0.0,
+  "niceScoreHistory" : [ 0.0, 7.0, 7.0, 7.0, 7.0 ],
+  "assignedBudget" : 0.0,
+  "receivedGifts" : [ {
+    "productName" : "Dress",
+    "price" : 45.0,
+    "category" : "Clothes"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Dress",
+    "price" : 45.0,
+    "category" : "Clothes"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Dress",
+    "price" : 45.0,
+    "category" : "Clothes"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  } ]
+}, {
+  "id" : 1,
+  "lastName" : "Cantemir",
+  "firstName" : "Diana",
+  "age" : 15,
+  "city" : "Brasov",
+  "niceScore" : 3.0,
+  "giftsPreferences" : [ "Toys", "Board Games" ],
+  "averageScore" : 0.0,
+  "niceScoreHistory" : [ 0.0, 3.0, 3.0, 3.0, 3.0 ],
+  "assignedBudget" : 0.0,
+  "receivedGifts" : [ {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Puzzle",
+    "price" : 50.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  } ]
+}, {
+  "id" : 2,
+  "lastName" : "Ionescu",
+  "firstName" : "Miruna",
+  "age" : 16,
+  "city" : "Oradea",
+  "niceScore" : 6.0,
+  "giftsPreferences" : [ "Books", "Sweets" ],
+  "averageScore" : 0.0,
+  "niceScoreHistory" : [ 0.0, 6.0, 6.0, 6.0 ],
+  "assignedBudget" : 0.0,
+  "receivedGifts" : [ {
+    "productName" : "Gummy Bears",
+    "price" : 10.0,
+    "category" : "Sweets"
+  }, {
+    "productName" : "Gummy Bears",
+    "price" : 10.0,
+    "category" : "Sweets"
+  } ]
+} ], [ {
+  "id" : 0,
+  "lastName" : "Popescu",
+  "firstName" : "Andreea",
+  "age" : 16,
+  "city" : "Braila",
+  "niceScore" : 7.0,
+  "giftsPreferences" : [ "Clothes", "Toys" ],
+  "averageScore" : 4.666666666666667,
+  "niceScoreHistory" : [ 0.0, 7.0, 7.0, 7.0, 7.0 ],
+  "assignedBudget" : 254.0,
+  "receivedGifts" : [ {
+    "productName" : "Dress",
+    "price" : 45.0,
+    "category" : "Clothes"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Dress",
+    "price" : 45.0,
+    "category" : "Clothes"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Dress",
+    "price" : 45.0,
+    "category" : "Clothes"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  } ]
+}, {
+  "id" : 1,
+  "lastName" : "Cantemir",
+  "firstName" : "Diana",
+  "age" : 16,
+  "city" : "Brasov",
+  "niceScore" : 3.0,
+  "giftsPreferences" : [ "Toys", "Board Games" ],
+  "averageScore" : 2.0,
+  "niceScoreHistory" : [ 0.0, 3.0, 3.0, 3.0, 3.0 ],
+  "assignedBudget" : 76.2,
+  "receivedGifts" : [ {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Puzzle",
+    "price" : 50.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  } ]
+}, {
+  "id" : 2,
+  "lastName" : "Ionescu",
+  "firstName" : "Miruna",
+  "age" : 17,
+  "city" : "Oradea",
+  "niceScore" : 6.0,
+  "giftsPreferences" : [ "Books", "Sweets" ],
+  "averageScore" : 4.0,
+  "niceScoreHistory" : [ 0.0, 6.0, 6.0, 6.0 ],
+  "assignedBudget" : 95.24999999999999,
+  "receivedGifts" : [ {
+    "productName" : "Gummy Bears",
+    "price" : 10.0,
+    "category" : "Sweets"
+  }, {
+    "productName" : "Gummy Bears",
+    "price" : 10.0,
+    "category" : "Sweets"
+  } ]
+} ], [ {
+  "id" : 0,
+  "lastName" : "Popescu",
+  "firstName" : "Andreea",
+  "age" : 17,
+  "city" : "Braila",
+  "niceScore" : 7.0,
+  "giftsPreferences" : [ "Clothes", "Toys" ],
+  "averageScore" : 5.833333333333333,
+  "niceScoreHistory" : [ 0.0, 7.0, 7.0, 7.0, 7.0 ],
+  "assignedBudget" : 98.59154929577466,
+  "receivedGifts" : [ {
+    "productName" : "Dress",
+    "price" : 45.0,
+    "category" : "Clothes"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Dress",
+    "price" : 45.0,
+    "category" : "Clothes"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Dress",
+    "price" : 45.0,
+    "category" : "Clothes"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  } ]
+}, {
+  "id" : 1,
+  "lastName" : "Cantemir",
+  "firstName" : "Diana",
+  "age" : 17,
+  "city" : "Brasov",
+  "niceScore" : 3.0,
+  "giftsPreferences" : [ "Toys", "Board Games" ],
+  "averageScore" : 2.5,
+  "niceScoreHistory" : [ 0.0, 3.0, 3.0, 3.0, 3.0 ],
+  "assignedBudget" : 40.54054054054055,
+  "receivedGifts" : [ {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Puzzle",
+    "price" : 50.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  } ]
+}, {
+  "id" : 2,
+  "lastName" : "Ionescu",
+  "firstName" : "Miruna",
+  "age" : 18,
+  "city" : "Oradea",
+  "niceScore" : 6.0,
+  "giftsPreferences" : [ "Books", "Sweets" ],
+  "averageScore" : 5.0,
+  "niceScoreHistory" : [ 0.0, 6.0, 6.0, 6.0 ],
+  "assignedBudget" : 75.00000000000001,
+  "receivedGifts" : [ {
+    "productName" : "Gummy Bears",
+    "price" : 10.0,
+    "category" : "Sweets"
+  }, {
+    "productName" : "Gummy Bears",
+    "price" : 10.0,
+    "category" : "Sweets"
+  } ]
+} ], [ {
+  "id" : 0,
+  "lastName" : "Popescu",
+  "firstName" : "Andreea",
+  "age" : 18,
+  "city" : "Braila",
+  "niceScore" : 7.0,
+  "giftsPreferences" : [ "Clothes", "Toys" ],
+  "averageScore" : 6.3,
+  "niceScoreHistory" : [ 0.0, 7.0, 7.0, 7.0, 7.0 ],
+  "assignedBudget" : 112.39772727272727,
+  "receivedGifts" : [ {
+    "productName" : "Dress",
+    "price" : 45.0,
+    "category" : "Clothes"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Dress",
+    "price" : 45.0,
+    "category" : "Clothes"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Dress",
+    "price" : 45.0,
+    "category" : "Clothes"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  } ]
+}, {
+  "id" : 1,
+  "lastName" : "Cantemir",
+  "firstName" : "Diana",
+  "age" : 18,
+  "city" : "Brasov",
+  "niceScore" : 3.0,
+  "giftsPreferences" : [ "Toys", "Board Games" ],
+  "averageScore" : 2.7,
+  "niceScoreHistory" : [ 0.0, 3.0, 3.0, 3.0, 3.0 ],
+  "assignedBudget" : 47.1,
+  "receivedGifts" : [ {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Puzzle",
+    "price" : 50.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  } ]
+} ], [ ] ]

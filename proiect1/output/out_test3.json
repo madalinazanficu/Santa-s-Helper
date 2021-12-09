@@ -1,0 +1,1145 @@
+[ [ {
+  "id" : 0,
+  "lastName" : "Stoica",
+  "firstName" : "Alexandra",
+  "age" : 12,
+  "city" : "Cluj-Napoca",
+  "niceScore" : 7.0,
+  "giftsPreferences" : [ ],
+  "averageScore" : 0.0,
+  "niceScoreHistory" : [ 0.0, 7.0, 7.0, 7.0, 7.0, 7.0, 7.0, 7.0 ],
+  "assignedBudget" : 0.0,
+  "receivedGifts" : [ ]
+}, {
+  "id" : 2,
+  "lastName" : "Pop",
+  "firstName" : "Miruna",
+  "age" : 6,
+  "city" : "Constanta",
+  "niceScore" : 3.0,
+  "giftsPreferences" : [ "Sweets", "Board Games" ],
+  "averageScore" : 0.0,
+  "niceScoreHistory" : [ 0.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0 ],
+  "assignedBudget" : 0.0,
+  "receivedGifts" : [ {
+    "productName" : "Chocolate",
+    "price" : 15.0,
+    "category" : "Sweets"
+  }, {
+    "productName" : "Uno",
+    "price" : 10.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Chocolate",
+    "price" : 15.0,
+    "category" : "Sweets"
+  }, {
+    "productName" : "Uno",
+    "price" : 10.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Chocolate",
+    "price" : 15.0,
+    "category" : "Sweets"
+  }, {
+    "productName" : "Uno",
+    "price" : 10.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Chocolate",
+    "price" : 15.0,
+    "category" : "Sweets"
+  }, {
+    "productName" : "Uno",
+    "price" : 10.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Chocolate",
+    "price" : 15.0,
+    "category" : "Sweets"
+  }, {
+    "productName" : "Uno",
+    "price" : 10.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Chocolate",
+    "price" : 15.0,
+    "category" : "Sweets"
+  }, {
+    "productName" : "Uno",
+    "price" : 10.0,
+    "category" : "Board Games"
+  } ]
+}, {
+  "id" : 3,
+  "lastName" : "Popa",
+  "firstName" : "Diana",
+  "age" : 5,
+  "city" : "Oradea",
+  "niceScore" : 6.0,
+  "giftsPreferences" : [ "Books", "Board Games" ],
+  "averageScore" : 0.0,
+  "niceScoreHistory" : [ 0.0, 6.0, 6.0, 6.0, 6.0, 6.0, 6.0, 6.0 ],
+  "assignedBudget" : 0.0,
+  "receivedGifts" : [ {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Uno",
+    "price" : 10.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Uno",
+    "price" : 10.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Uno",
+    "price" : 10.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Uno",
+    "price" : 10.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Uno",
+    "price" : 10.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Uno",
+    "price" : 10.0,
+    "category" : "Board Games"
+  } ]
+}, {
+  "id" : 4,
+  "lastName" : "Mihalache",
+  "firstName" : "Radu",
+  "age" : 14,
+  "city" : "Iasi",
+  "niceScore" : 5.0,
+  "giftsPreferences" : [ "Clothes", "Books" ],
+  "averageScore" : 0.0,
+  "niceScoreHistory" : [ 0.0, 5.0, 5.0, 5.0, 5.0, 5.0 ],
+  "assignedBudget" : 0.0,
+  "receivedGifts" : [ {
+    "productName" : "Dress",
+    "price" : 45.0,
+    "category" : "Clothes"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Dress",
+    "price" : 45.0,
+    "category" : "Clothes"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Dress",
+    "price" : 45.0,
+    "category" : "Clothes"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Dress",
+    "price" : 45.0,
+    "category" : "Clothes"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  } ]
+} ], [ {
+  "id" : 0,
+  "lastName" : "Stoica",
+  "firstName" : "Alexandra",
+  "age" : 13,
+  "city" : "Cluj-Napoca",
+  "niceScore" : 7.0,
+  "giftsPreferences" : [ ],
+  "averageScore" : 4.666666666666667,
+  "niceScoreHistory" : [ 0.0, 7.0, 7.0, 7.0, 7.0, 7.0, 7.0, 7.0 ],
+  "assignedBudget" : 678.0,
+  "receivedGifts" : [ ]
+}, {
+  "id" : 2,
+  "lastName" : "Pop",
+  "firstName" : "Miruna",
+  "age" : 7,
+  "city" : "Constanta",
+  "niceScore" : 3.0,
+  "giftsPreferences" : [ "Sweets", "Board Games" ],
+  "averageScore" : 1.5,
+  "niceScoreHistory" : [ 0.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0 ],
+  "assignedBudget" : 164.9189189189189,
+  "receivedGifts" : [ {
+    "productName" : "Chocolate",
+    "price" : 15.0,
+    "category" : "Sweets"
+  }, {
+    "productName" : "Uno",
+    "price" : 10.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Chocolate",
+    "price" : 15.0,
+    "category" : "Sweets"
+  }, {
+    "productName" : "Uno",
+    "price" : 10.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Chocolate",
+    "price" : 15.0,
+    "category" : "Sweets"
+  }, {
+    "productName" : "Uno",
+    "price" : 10.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Chocolate",
+    "price" : 15.0,
+    "category" : "Sweets"
+  }, {
+    "productName" : "Uno",
+    "price" : 10.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Chocolate",
+    "price" : 15.0,
+    "category" : "Sweets"
+  }, {
+    "productName" : "Uno",
+    "price" : 10.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Chocolate",
+    "price" : 15.0,
+    "category" : "Sweets"
+  }, {
+    "productName" : "Uno",
+    "price" : 10.0,
+    "category" : "Board Games"
+  } ]
+}, {
+  "id" : 3,
+  "lastName" : "Popa",
+  "firstName" : "Diana",
+  "age" : 6,
+  "city" : "Oradea",
+  "niceScore" : 6.0,
+  "giftsPreferences" : [ "Books", "Board Games" ],
+  "averageScore" : 3.0,
+  "niceScoreHistory" : [ 0.0, 6.0, 6.0, 6.0, 6.0, 6.0, 6.0, 6.0 ],
+  "assignedBudget" : 221.89090909090908,
+  "receivedGifts" : [ {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Uno",
+    "price" : 10.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Uno",
+    "price" : 10.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Uno",
+    "price" : 10.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Uno",
+    "price" : 10.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Uno",
+    "price" : 10.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Uno",
+    "price" : 10.0,
+    "category" : "Board Games"
+  } ]
+}, {
+  "id" : 4,
+  "lastName" : "Mihalache",
+  "firstName" : "Radu",
+  "age" : 15,
+  "city" : "Iasi",
+  "niceScore" : 5.0,
+  "giftsPreferences" : [ "Clothes", "Books" ],
+  "averageScore" : 3.3333333333333335,
+  "niceScoreHistory" : [ 0.0, 5.0, 5.0, 5.0, 5.0, 5.0 ],
+  "assignedBudget" : 180.79999999999998,
+  "receivedGifts" : [ {
+    "productName" : "Dress",
+    "price" : 45.0,
+    "category" : "Clothes"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Dress",
+    "price" : 45.0,
+    "category" : "Clothes"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Dress",
+    "price" : 45.0,
+    "category" : "Clothes"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Dress",
+    "price" : 45.0,
+    "category" : "Clothes"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  } ]
+} ], [ {
+  "id" : 0,
+  "lastName" : "Stoica",
+  "firstName" : "Alexandra",
+  "age" : 14,
+  "city" : "Cluj-Napoca",
+  "niceScore" : 7.0,
+  "giftsPreferences" : [ ],
+  "averageScore" : 5.833333333333333,
+  "niceScoreHistory" : [ 0.0, 7.0, 7.0, 7.0, 7.0, 7.0, 7.0, 7.0 ],
+  "assignedBudget" : 682.9268292682926,
+  "receivedGifts" : [ ]
+}, {
+  "id" : 2,
+  "lastName" : "Pop",
+  "firstName" : "Miruna",
+  "age" : 8,
+  "city" : "Constanta",
+  "niceScore" : 3.0,
+  "giftsPreferences" : [ "Sweets", "Board Games" ],
+  "averageScore" : 2.0,
+  "niceScoreHistory" : [ 0.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0 ],
+  "assignedBudget" : 225.8823529411765,
+  "receivedGifts" : [ {
+    "productName" : "Chocolate",
+    "price" : 15.0,
+    "category" : "Sweets"
+  }, {
+    "productName" : "Uno",
+    "price" : 10.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Chocolate",
+    "price" : 15.0,
+    "category" : "Sweets"
+  }, {
+    "productName" : "Uno",
+    "price" : 10.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Chocolate",
+    "price" : 15.0,
+    "category" : "Sweets"
+  }, {
+    "productName" : "Uno",
+    "price" : 10.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Chocolate",
+    "price" : 15.0,
+    "category" : "Sweets"
+  }, {
+    "productName" : "Uno",
+    "price" : 10.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Chocolate",
+    "price" : 15.0,
+    "category" : "Sweets"
+  }, {
+    "productName" : "Uno",
+    "price" : 10.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Chocolate",
+    "price" : 15.0,
+    "category" : "Sweets"
+  }, {
+    "productName" : "Uno",
+    "price" : 10.0,
+    "category" : "Board Games"
+  } ]
+}, {
+  "id" : 3,
+  "lastName" : "Popa",
+  "firstName" : "Diana",
+  "age" : 7,
+  "city" : "Oradea",
+  "niceScore" : 6.0,
+  "giftsPreferences" : [ "Books", "Board Games" ],
+  "averageScore" : 4.0,
+  "niceScoreHistory" : [ 0.0, 6.0, 6.0, 6.0, 6.0, 6.0, 6.0, 6.0 ],
+  "assignedBudget" : 421.978021978022,
+  "receivedGifts" : [ {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Uno",
+    "price" : 10.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Uno",
+    "price" : 10.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Uno",
+    "price" : 10.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Uno",
+    "price" : 10.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Uno",
+    "price" : 10.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Uno",
+    "price" : 10.0,
+    "category" : "Board Games"
+  } ]
+}, {
+  "id" : 4,
+  "lastName" : "Mihalache",
+  "firstName" : "Radu",
+  "age" : 16,
+  "city" : "Iasi",
+  "niceScore" : 5.0,
+  "giftsPreferences" : [ "Clothes", "Books" ],
+  "averageScore" : 4.166666666666667,
+  "niceScoreHistory" : [ 0.0, 5.0, 5.0, 5.0, 5.0, 5.0 ],
+  "assignedBudget" : 416.6666666666667,
+  "receivedGifts" : [ {
+    "productName" : "Dress",
+    "price" : 45.0,
+    "category" : "Clothes"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Dress",
+    "price" : 45.0,
+    "category" : "Clothes"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Dress",
+    "price" : 45.0,
+    "category" : "Clothes"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Dress",
+    "price" : 45.0,
+    "category" : "Clothes"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  } ]
+} ], [ {
+  "id" : 0,
+  "lastName" : "Stoica",
+  "firstName" : "Alexandra",
+  "age" : 15,
+  "city" : "Cluj-Napoca",
+  "niceScore" : 7.0,
+  "giftsPreferences" : [ ],
+  "averageScore" : 6.3,
+  "niceScoreHistory" : [ 0.0, 7.0, 7.0, 7.0, 7.0, 7.0, 7.0, 7.0 ],
+  "assignedBudget" : 172.16599190283398,
+  "receivedGifts" : [ ]
+}, {
+  "id" : 2,
+  "lastName" : "Pop",
+  "firstName" : "Miruna",
+  "age" : 9,
+  "city" : "Constanta",
+  "niceScore" : 3.0,
+  "giftsPreferences" : [ "Sweets", "Board Games" ],
+  "averageScore" : 2.25,
+  "niceScoreHistory" : [ 0.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0 ],
+  "assignedBudget" : 60.568295114656024,
+  "receivedGifts" : [ {
+    "productName" : "Chocolate",
+    "price" : 15.0,
+    "category" : "Sweets"
+  }, {
+    "productName" : "Uno",
+    "price" : 10.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Chocolate",
+    "price" : 15.0,
+    "category" : "Sweets"
+  }, {
+    "productName" : "Uno",
+    "price" : 10.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Chocolate",
+    "price" : 15.0,
+    "category" : "Sweets"
+  }, {
+    "productName" : "Uno",
+    "price" : 10.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Chocolate",
+    "price" : 15.0,
+    "category" : "Sweets"
+  }, {
+    "productName" : "Uno",
+    "price" : 10.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Chocolate",
+    "price" : 15.0,
+    "category" : "Sweets"
+  }, {
+    "productName" : "Uno",
+    "price" : 10.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Chocolate",
+    "price" : 15.0,
+    "category" : "Sweets"
+  }, {
+    "productName" : "Uno",
+    "price" : 10.0,
+    "category" : "Board Games"
+  } ]
+}, {
+  "id" : 3,
+  "lastName" : "Popa",
+  "firstName" : "Diana",
+  "age" : 8,
+  "city" : "Oradea",
+  "niceScore" : 6.0,
+  "giftsPreferences" : [ "Books", "Board Games" ],
+  "averageScore" : 4.5,
+  "niceScoreHistory" : [ 0.0, 6.0, 6.0, 6.0, 6.0, 6.0, 6.0, 6.0 ],
+  "assignedBudget" : 117.61858664085187,
+  "receivedGifts" : [ {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Uno",
+    "price" : 10.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Uno",
+    "price" : 10.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Uno",
+    "price" : 10.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Uno",
+    "price" : 10.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Uno",
+    "price" : 10.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Uno",
+    "price" : 10.0,
+    "category" : "Board Games"
+  } ]
+}, {
+  "id" : 4,
+  "lastName" : "Mihalache",
+  "firstName" : "Radu",
+  "age" : 17,
+  "city" : "Iasi",
+  "niceScore" : 5.0,
+  "giftsPreferences" : [ "Clothes", "Books" ],
+  "averageScore" : 4.5,
+  "niceScoreHistory" : [ 0.0, 5.0, 5.0, 5.0, 5.0, 5.0 ],
+  "assignedBudget" : 115.38461538461537,
+  "receivedGifts" : [ {
+    "productName" : "Dress",
+    "price" : 45.0,
+    "category" : "Clothes"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Dress",
+    "price" : 45.0,
+    "category" : "Clothes"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Dress",
+    "price" : 45.0,
+    "category" : "Clothes"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Dress",
+    "price" : 45.0,
+    "category" : "Clothes"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  } ]
+} ], [ {
+  "id" : 0,
+  "lastName" : "Stoica",
+  "firstName" : "Alexandra",
+  "age" : 16,
+  "city" : "Cluj-Napoca",
+  "niceScore" : 7.0,
+  "giftsPreferences" : [ ],
+  "averageScore" : 6.533333333333333,
+  "niceScoreHistory" : [ 0.0, 7.0, 7.0, 7.0, 7.0, 7.0, 7.0, 7.0 ],
+  "assignedBudget" : 257.1696344892221,
+  "receivedGifts" : [ ]
+}, {
+  "id" : 2,
+  "lastName" : "Pop",
+  "firstName" : "Miruna",
+  "age" : 10,
+  "city" : "Constanta",
+  "niceScore" : 3.0,
+  "giftsPreferences" : [ "Sweets", "Board Games" ],
+  "averageScore" : 2.4,
+  "niceScoreHistory" : [ 0.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0 ],
+  "assignedBudget" : 93.68029739776951,
+  "receivedGifts" : [ {
+    "productName" : "Chocolate",
+    "price" : 15.0,
+    "category" : "Sweets"
+  }, {
+    "productName" : "Uno",
+    "price" : 10.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Chocolate",
+    "price" : 15.0,
+    "category" : "Sweets"
+  }, {
+    "productName" : "Uno",
+    "price" : 10.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Chocolate",
+    "price" : 15.0,
+    "category" : "Sweets"
+  }, {
+    "productName" : "Uno",
+    "price" : 10.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Chocolate",
+    "price" : 15.0,
+    "category" : "Sweets"
+  }, {
+    "productName" : "Uno",
+    "price" : 10.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Chocolate",
+    "price" : 15.0,
+    "category" : "Sweets"
+  }, {
+    "productName" : "Uno",
+    "price" : 10.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Chocolate",
+    "price" : 15.0,
+    "category" : "Sweets"
+  }, {
+    "productName" : "Uno",
+    "price" : 10.0,
+    "category" : "Board Games"
+  } ]
+}, {
+  "id" : 3,
+  "lastName" : "Popa",
+  "firstName" : "Diana",
+  "age" : 9,
+  "city" : "Oradea",
+  "niceScore" : 6.0,
+  "giftsPreferences" : [ "Books", "Board Games" ],
+  "averageScore" : 4.8,
+  "niceScoreHistory" : [ 0.0, 6.0, 6.0, 6.0, 6.0, 6.0, 6.0, 6.0 ],
+  "assignedBudget" : 184.2778793418647,
+  "receivedGifts" : [ {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Uno",
+    "price" : 10.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Uno",
+    "price" : 10.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Uno",
+    "price" : 10.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Uno",
+    "price" : 10.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Uno",
+    "price" : 10.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Uno",
+    "price" : 10.0,
+    "category" : "Board Games"
+  } ]
+}, {
+  "id" : 4,
+  "lastName" : "Mihalache",
+  "firstName" : "Radu",
+  "age" : 18,
+  "city" : "Iasi",
+  "niceScore" : 5.0,
+  "giftsPreferences" : [ "Clothes", "Books" ],
+  "averageScore" : 4.666666666666667,
+  "niceScoreHistory" : [ 0.0, 5.0, 5.0, 5.0, 5.0, 5.0 ],
+  "assignedBudget" : 177.53623188405797,
+  "receivedGifts" : [ {
+    "productName" : "Dress",
+    "price" : 45.0,
+    "category" : "Clothes"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Dress",
+    "price" : 45.0,
+    "category" : "Clothes"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Dress",
+    "price" : 45.0,
+    "category" : "Clothes"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Dress",
+    "price" : 45.0,
+    "category" : "Clothes"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  } ]
+} ], [ {
+  "id" : 0,
+  "lastName" : "Stoica",
+  "firstName" : "Alexandra",
+  "age" : 17,
+  "city" : "Cluj-Napoca",
+  "niceScore" : 7.0,
+  "giftsPreferences" : [ ],
+  "averageScore" : 6.666666666666667,
+  "niceScoreHistory" : [ 0.0, 7.0, 7.0, 7.0, 7.0, 7.0, 7.0, 7.0 ],
+  "assignedBudget" : 636.5384615384615,
+  "receivedGifts" : [ ]
+}, {
+  "id" : 2,
+  "lastName" : "Pop",
+  "firstName" : "Miruna",
+  "age" : 11,
+  "city" : "Constanta",
+  "niceScore" : 3.0,
+  "giftsPreferences" : [ "Sweets", "Board Games" ],
+  "averageScore" : 2.5,
+  "niceScoreHistory" : [ 0.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0 ],
+  "assignedBudget" : 236.99284009546534,
+  "receivedGifts" : [ {
+    "productName" : "Chocolate",
+    "price" : 15.0,
+    "category" : "Sweets"
+  }, {
+    "productName" : "Uno",
+    "price" : 10.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Chocolate",
+    "price" : 15.0,
+    "category" : "Sweets"
+  }, {
+    "productName" : "Uno",
+    "price" : 10.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Chocolate",
+    "price" : 15.0,
+    "category" : "Sweets"
+  }, {
+    "productName" : "Uno",
+    "price" : 10.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Chocolate",
+    "price" : 15.0,
+    "category" : "Sweets"
+  }, {
+    "productName" : "Uno",
+    "price" : 10.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Chocolate",
+    "price" : 15.0,
+    "category" : "Sweets"
+  }, {
+    "productName" : "Uno",
+    "price" : 10.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Chocolate",
+    "price" : 15.0,
+    "category" : "Sweets"
+  }, {
+    "productName" : "Uno",
+    "price" : 10.0,
+    "category" : "Board Games"
+  } ]
+}, {
+  "id" : 3,
+  "lastName" : "Popa",
+  "firstName" : "Diana",
+  "age" : 10,
+  "city" : "Oradea",
+  "niceScore" : 6.0,
+  "giftsPreferences" : [ "Books", "Board Games" ],
+  "averageScore" : 5.0,
+  "niceScoreHistory" : [ 0.0, 6.0, 6.0, 6.0, 6.0, 6.0, 6.0, 6.0 ],
+  "assignedBudget" : 467.2941176470588,
+  "receivedGifts" : [ {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Uno",
+    "price" : 10.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Uno",
+    "price" : 10.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Uno",
+    "price" : 10.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Uno",
+    "price" : 10.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Uno",
+    "price" : 10.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Uno",
+    "price" : 10.0,
+    "category" : "Board Games"
+  } ]
+} ], [ {
+  "id" : 0,
+  "lastName" : "Stoica",
+  "firstName" : "Alexandra",
+  "age" : 18,
+  "city" : "Cluj-Napoca",
+  "niceScore" : 7.0,
+  "giftsPreferences" : [ ],
+  "averageScore" : 6.75,
+  "niceScoreHistory" : [ 0.0, 7.0, 7.0, 7.0, 7.0, 7.0, 7.0, 7.0 ],
+  "assignedBudget" : 454.7368421052631,
+  "receivedGifts" : [ ]
+}, {
+  "id" : 2,
+  "lastName" : "Pop",
+  "firstName" : "Miruna",
+  "age" : 12,
+  "city" : "Constanta",
+  "niceScore" : 3.0,
+  "giftsPreferences" : [ "Sweets", "Board Games" ],
+  "averageScore" : 2.892857142857143,
+  "niceScoreHistory" : [ 0.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0 ],
+  "assignedBudget" : 189.65853658536585,
+  "receivedGifts" : [ {
+    "productName" : "Chocolate",
+    "price" : 15.0,
+    "category" : "Sweets"
+  }, {
+    "productName" : "Uno",
+    "price" : 10.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Chocolate",
+    "price" : 15.0,
+    "category" : "Sweets"
+  }, {
+    "productName" : "Uno",
+    "price" : 10.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Chocolate",
+    "price" : 15.0,
+    "category" : "Sweets"
+  }, {
+    "productName" : "Uno",
+    "price" : 10.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Chocolate",
+    "price" : 15.0,
+    "category" : "Sweets"
+  }, {
+    "productName" : "Uno",
+    "price" : 10.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Chocolate",
+    "price" : 15.0,
+    "category" : "Sweets"
+  }, {
+    "productName" : "Uno",
+    "price" : 10.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Chocolate",
+    "price" : 15.0,
+    "category" : "Sweets"
+  }, {
+    "productName" : "Uno",
+    "price" : 10.0,
+    "category" : "Board Games"
+  } ]
+}, {
+  "id" : 3,
+  "lastName" : "Popa",
+  "firstName" : "Diana",
+  "age" : 11,
+  "city" : "Oradea",
+  "niceScore" : 6.0,
+  "giftsPreferences" : [ "Books", "Board Games" ],
+  "averageScore" : 5.142857142857143,
+  "niceScoreHistory" : [ 0.0, 6.0, 6.0, 6.0, 6.0, 6.0, 6.0, 6.0 ],
+  "assignedBudget" : 333.91304347826093,
+  "receivedGifts" : [ {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Uno",
+    "price" : 10.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Uno",
+    "price" : 10.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Uno",
+    "price" : 10.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Uno",
+    "price" : 10.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Uno",
+    "price" : 10.0,
+    "category" : "Board Games"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Uno",
+    "price" : 10.0,
+    "category" : "Board Games"
+  } ]
+} ] ]

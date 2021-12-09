@@ -2,15 +2,54 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d662010a-d6c5-4bb5-92a6-5b13c2206c94" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Santa-s-Helper.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/database/Database.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dataprocessing/AnnualChange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dataprocessing/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dataprocessing/ChildUpdate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dataprocessing/Gift.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dataprocessing/InitialData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dataprocessing/InputData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dataprocessing/InputLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datawriting/OutputFormat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datawriting/Writer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Solver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/SantaClaus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/Update.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/AverageScoreStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/BabyStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/KidStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/StrategyFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/TeenStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkstyle.txt" beforeDir="false" afterPath="$PROJECT_DIR$/checkstyle.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/proiect1/checker/checkstyle.sh" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proiect1/checker/checkstyle.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/proiect1/checker/poo_checks.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proiect1/checker/poo_checks.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proiect1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/proiect1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="21v2UmCFgudLtO2NUqgyGG5QiA1" />
   <component name="ProjectViewState">
@@ -20,7 +59,9 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/libs/org.json.simple-0.3-incubating.jar" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -53,7 +94,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1638807258397</updated>
+      <workItem from="1638869780764" duration="218000" />
+      <workItem from="1638881133593" duration="924000" />
+      <workItem from="1638909218701" duration="911000" />
+      <workItem from="1638952931597" duration="16770000" />
+      <workItem from="1638993367491" duration="8391000" />
+      <workItem from="1639037964102" duration="5548000" />
+      <workItem from="1639050000011" duration="28678000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
