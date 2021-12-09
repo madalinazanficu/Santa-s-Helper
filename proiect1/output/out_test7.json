@@ -1,0 +1,1037 @@
+[ [ {
+  "id" : 0,
+  "lastName" : "Mihalache",
+  "firstName" : "Tudor",
+  "age" : 4,
+  "city" : "Brasov",
+  "niceScore" : 3.0,
+  "giftsPreferences" : [ "Books" ],
+  "averageScore" : 10.0,
+  "niceScoreHistory" : [ 0.0, 3.0, 7.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0 ],
+  "assignedBudget" : 242.0,
+  "receivedGifts" : [ {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  } ]
+}, {
+  "id" : 1,
+  "lastName" : "Stoica",
+  "firstName" : "Miruna",
+  "age" : 11,
+  "city" : "Timisoara",
+  "niceScore" : 2.0,
+  "giftsPreferences" : [ "Toys" ],
+  "averageScore" : 0.0,
+  "niceScoreHistory" : [ 0.0, 2.0, 6.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 ],
+  "assignedBudget" : 0.0,
+  "receivedGifts" : [ {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  } ]
+}, {
+  "id" : 2,
+  "lastName" : "Pop",
+  "firstName" : "Andreea",
+  "age" : 9,
+  "city" : "Iasi",
+  "niceScore" : 10.0,
+  "giftsPreferences" : [ "Sweets", "Toys" ],
+  "averageScore" : 0.0,
+  "niceScoreHistory" : [ 0.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0 ],
+  "assignedBudget" : 0.0,
+  "receivedGifts" : [ {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  } ]
+}, {
+  "id" : 3,
+  "lastName" : "Pop",
+  "firstName" : "Miruna",
+  "age" : 2,
+  "city" : "Craiova",
+  "niceScore" : 2.0,
+  "giftsPreferences" : [ "Toys" ],
+  "averageScore" : 10.0,
+  "niceScoreHistory" : [ 0.0, 2.0, 8.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 ],
+  "assignedBudget" : 121.0,
+  "receivedGifts" : [ {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  } ]
+} ], [ {
+  "id" : 0,
+  "lastName" : "Mihalache",
+  "firstName" : "Tudor",
+  "age" : 5,
+  "city" : "Brasov",
+  "niceScore" : 3.0,
+  "giftsPreferences" : [ "Books" ],
+  "averageScore" : 3.3333333333333335,
+  "niceScoreHistory" : [ 0.0, 3.0, 7.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0 ],
+  "assignedBudget" : 60.5,
+  "receivedGifts" : [ {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  } ]
+}, {
+  "id" : 1,
+  "lastName" : "Stoica",
+  "firstName" : "Miruna",
+  "age" : 12,
+  "city" : "Timisoara",
+  "niceScore" : 2.0,
+  "giftsPreferences" : [ "Toys" ],
+  "averageScore" : 3.6666666666666665,
+  "niceScoreHistory" : [ 0.0, 2.0, 6.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 ],
+  "assignedBudget" : 52.19607843137254,
+  "receivedGifts" : [ {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  } ]
+}, {
+  "id" : 2,
+  "lastName" : "Pop",
+  "firstName" : "Andreea",
+  "age" : 10,
+  "city" : "Iasi",
+  "niceScore" : 10.0,
+  "giftsPreferences" : [ "Sweets", "Toys" ],
+  "averageScore" : 6.666666666666667,
+  "niceScoreHistory" : [ 0.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0 ],
+  "assignedBudget" : 68.16901408450704,
+  "receivedGifts" : [ {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  } ]
+}, {
+  "id" : 3,
+  "lastName" : "Pop",
+  "firstName" : "Miruna",
+  "age" : 3,
+  "city" : "Craiova",
+  "niceScore" : 2.0,
+  "giftsPreferences" : [ "Toys" ],
+  "averageScore" : 10.0,
+  "niceScoreHistory" : [ 0.0, 2.0, 8.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 ],
+  "assignedBudget" : 102.25352112676056,
+  "receivedGifts" : [ {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  } ]
+} ], [ {
+  "id" : 0,
+  "lastName" : "Mihalache",
+  "firstName" : "Tudor",
+  "age" : 6,
+  "city" : "Brasov",
+  "niceScore" : 3.0,
+  "giftsPreferences" : [ "Books" ],
+  "averageScore" : 3.25,
+  "niceScoreHistory" : [ 0.0, 3.0, 7.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0 ],
+  "assignedBudget" : 27.56183745583039,
+  "receivedGifts" : [ {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  } ]
+}, {
+  "id" : 1,
+  "lastName" : "Stoica",
+  "firstName" : "Miruna",
+  "age" : 13,
+  "city" : "Timisoara",
+  "niceScore" : 2.0,
+  "giftsPreferences" : [ "Toys" ],
+  "averageScore" : 3.0,
+  "niceScoreHistory" : [ 0.0, 2.0, 6.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 ],
+  "assignedBudget" : 26.18181818181818,
+  "receivedGifts" : [ {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  } ]
+}, {
+  "id" : 2,
+  "lastName" : "Pop",
+  "firstName" : "Andreea",
+  "age" : 11,
+  "city" : "Iasi",
+  "niceScore" : 10.0,
+  "giftsPreferences" : [ "Sweets", "Toys" ],
+  "averageScore" : 7.5,
+  "niceScoreHistory" : [ 0.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0 ],
+  "assignedBudget" : 63.1578947368421,
+  "receivedGifts" : [ {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  } ]
+}, {
+  "id" : 3,
+  "lastName" : "Pop",
+  "firstName" : "Miruna",
+  "age" : 4,
+  "city" : "Craiova",
+  "niceScore" : 2.0,
+  "giftsPreferences" : [ "Toys" ],
+  "averageScore" : 10.0,
+  "niceScoreHistory" : [ 0.0, 2.0, 8.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 ],
+  "assignedBudget" : 84.21052631578947,
+  "receivedGifts" : [ {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  } ]
+} ], [ {
+  "id" : 0,
+  "lastName" : "Mihalache",
+  "firstName" : "Tudor",
+  "age" : 7,
+  "city" : "Brasov",
+  "niceScore" : 3.0,
+  "giftsPreferences" : [ "Books" ],
+  "averageScore" : 3.2,
+  "niceScoreHistory" : [ 0.0, 3.0, 7.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0 ],
+  "assignedBudget" : 55.628691983122366,
+  "receivedGifts" : [ {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  } ]
+}, {
+  "id" : 1,
+  "lastName" : "Stoica",
+  "firstName" : "Miruna",
+  "age" : 14,
+  "city" : "Timisoara",
+  "niceScore" : 2.0,
+  "giftsPreferences" : [ "Toys" ],
+  "averageScore" : 2.6666666666666665,
+  "niceScoreHistory" : [ 0.0, 2.0, 6.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 ],
+  "assignedBudget" : 47.018544935805984,
+  "receivedGifts" : [ {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  } ]
+}, {
+  "id" : 2,
+  "lastName" : "Pop",
+  "firstName" : "Andreea",
+  "age" : 12,
+  "city" : "Iasi",
+  "niceScore" : 10.0,
+  "giftsPreferences" : [ "Sweets", "Toys" ],
+  "averageScore" : 9.333333333333334,
+  "niceScoreHistory" : [ 0.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0 ],
+  "assignedBudget" : 152.59259259259258,
+  "receivedGifts" : [ {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  } ]
+}, {
+  "id" : 3,
+  "lastName" : "Pop",
+  "firstName" : "Miruna",
+  "age" : 5,
+  "city" : "Craiova",
+  "niceScore" : 2.0,
+  "giftsPreferences" : [ "Toys" ],
+  "averageScore" : 2.8,
+  "niceScoreHistory" : [ 0.0, 2.0, 8.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 ],
+  "assignedBudget" : 64.08888888888889,
+  "receivedGifts" : [ {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  } ]
+} ], [ {
+  "id" : 0,
+  "lastName" : "Mihalache",
+  "firstName" : "Tudor",
+  "age" : 8,
+  "city" : "Brasov",
+  "niceScore" : 3.0,
+  "giftsPreferences" : [ "Books" ],
+  "averageScore" : 3.1666666666666665,
+  "niceScoreHistory" : [ 0.0, 3.0, 7.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0 ],
+  "assignedBudget" : 66.27087198515768,
+  "receivedGifts" : [ {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  } ]
+}, {
+  "id" : 1,
+  "lastName" : "Stoica",
+  "firstName" : "Miruna",
+  "age" : 15,
+  "city" : "Timisoara",
+  "niceScore" : 2.0,
+  "giftsPreferences" : [ "Toys" ],
+  "averageScore" : 2.4761904761904763,
+  "niceScoreHistory" : [ 0.0, 2.0, 6.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 ],
+  "assignedBudget" : 52.37610500937584,
+  "receivedGifts" : [ {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  } ]
+}, {
+  "id" : 2,
+  "lastName" : "Pop",
+  "firstName" : "Andreea",
+  "age" : 13,
+  "city" : "Iasi",
+  "niceScore" : 10.0,
+  "giftsPreferences" : [ "Sweets", "Toys" ],
+  "averageScore" : 9.523809523809524,
+  "niceScoreHistory" : [ 0.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0 ],
+  "assignedBudget" : 199.31089318844423,
+  "receivedGifts" : [ {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  } ]
+}, {
+  "id" : 3,
+  "lastName" : "Pop",
+  "firstName" : "Miruna",
+  "age" : 6,
+  "city" : "Craiova",
+  "niceScore" : 2.0,
+  "giftsPreferences" : [ "Toys" ],
+  "averageScore" : 2.6666666666666665,
+  "niceScoreHistory" : [ 0.0, 2.0, 8.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 ],
+  "assignedBudget" : 56.22429906542056,
+  "receivedGifts" : [ {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  } ]
+} ], [ {
+  "id" : 0,
+  "lastName" : "Mihalache",
+  "firstName" : "Tudor",
+  "age" : 9,
+  "city" : "Brasov",
+  "niceScore" : 3.0,
+  "giftsPreferences" : [ "Books" ],
+  "averageScore" : 3.142857142857143,
+  "niceScoreHistory" : [ 0.0, 3.0, 7.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0 ],
+  "assignedBudget" : 42.35294117647059,
+  "receivedGifts" : [ {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  } ]
+}, {
+  "id" : 1,
+  "lastName" : "Stoica",
+  "firstName" : "Miruna",
+  "age" : 16,
+  "city" : "Timisoara",
+  "niceScore" : 2.0,
+  "giftsPreferences" : [ "Toys" ],
+  "averageScore" : 2.357142857142857,
+  "niceScoreHistory" : [ 0.0, 2.0, 6.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 ],
+  "assignedBudget" : 31.978465679676987,
+  "receivedGifts" : [ {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  } ]
+}, {
+  "id" : 2,
+  "lastName" : "Pop",
+  "firstName" : "Andreea",
+  "age" : 14,
+  "city" : "Iasi",
+  "niceScore" : 10.0,
+  "giftsPreferences" : [ "Sweets", "Toys" ],
+  "averageScore" : 9.642857142857142,
+  "niceScoreHistory" : [ 0.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0 ],
+  "assignedBudget" : 129.94652406417111,
+  "receivedGifts" : [ {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  } ]
+}, {
+  "id" : 3,
+  "lastName" : "Pop",
+  "firstName" : "Miruna",
+  "age" : 7,
+  "city" : "Craiova",
+  "niceScore" : 2.0,
+  "giftsPreferences" : [ "Toys" ],
+  "averageScore" : 2.5714285714285716,
+  "niceScoreHistory" : [ 0.0, 2.0, 8.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 ],
+  "assignedBudget" : 34.83870967741935,
+  "receivedGifts" : [ {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  } ]
+} ], [ {
+  "id" : 0,
+  "lastName" : "Mihalache",
+  "firstName" : "Tudor",
+  "age" : 10,
+  "city" : "Brasov",
+  "niceScore" : 3.0,
+  "giftsPreferences" : [ "Books" ],
+  "averageScore" : 3.125,
+  "niceScoreHistory" : [ 0.0, 3.0, 7.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0 ],
+  "assignedBudget" : 70.63572149344097,
+  "receivedGifts" : [ {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  }, {
+    "productName" : "Harry Potter",
+    "price" : 35.0,
+    "category" : "Books"
+  } ]
+}, {
+  "id" : 1,
+  "lastName" : "Stoica",
+  "firstName" : "Miruna",
+  "age" : 17,
+  "city" : "Timisoara",
+  "niceScore" : 2.0,
+  "giftsPreferences" : [ "Toys" ],
+  "averageScore" : 2.2777777777777777,
+  "niceScoreHistory" : [ 0.0, 2.0, 6.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 ],
+  "assignedBudget" : 51.71753575853136,
+  "receivedGifts" : [ {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  } ]
+}, {
+  "id" : 2,
+  "lastName" : "Pop",
+  "firstName" : "Andreea",
+  "age" : 15,
+  "city" : "Iasi",
+  "niceScore" : 10.0,
+  "giftsPreferences" : [ "Sweets", "Toys" ],
+  "averageScore" : 9.722222222222221,
+  "niceScoreHistory" : [ 0.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0, 10.0 ],
+  "assignedBudget" : 219.75557797959408,
+  "receivedGifts" : [ {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  } ]
+}, {
+  "id" : 3,
+  "lastName" : "Pop",
+  "firstName" : "Miruna",
+  "age" : 8,
+  "city" : "Craiova",
+  "niceScore" : 2.0,
+  "giftsPreferences" : [ "Toys" ],
+  "averageScore" : 2.5,
+  "niceScoreHistory" : [ 0.0, 2.0, 8.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0 ],
+  "assignedBudget" : 56.73758865248227,
+  "receivedGifts" : [ {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Doll",
+    "price" : 10.0,
+    "category" : "Toys"
+  } ]
+} ] ]
