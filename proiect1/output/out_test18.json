@@ -6,9 +6,9 @@
   "city" : "Cluj-Napoca",
   "niceScore" : 3.0,
   "giftsPreferences" : [ "Toys", "Board Games", "Books", "Clothes" ],
-  "averageScore" : 0.0,
-  "niceScoreHistory" : [ 0.0, 3.0, 3.0, 3.0, 5.0, 3.0, 3.0 ],
-  "assignedBudget" : 0.0,
+  "averageScore" : 3.0,
+  "niceScoreHistory" : [ 3.0, 5.0 ],
+  "assignedBudget" : 938.0,
   "receivedGifts" : [ {
     "productName" : "Castle",
     "price" : 15.0,
@@ -18,37 +18,9 @@
     "price" : 50.0,
     "category" : "Board Games"
   }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Puzzle",
-    "price" : 50.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Puzzle",
-    "price" : 50.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Puzzle",
-    "price" : 50.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
+    "productName" : "Handbag",
+    "price" : 200.0,
+    "category" : "Clothes"
   } ]
 }, {
   "id" : 1,
@@ -58,10 +30,22 @@
   "city" : "Timisoara",
   "niceScore" : 10.0,
   "giftsPreferences" : [ "Technology", "Toys", "Clothes" ],
-  "averageScore" : 0.0,
-  "niceScoreHistory" : [ 0.0, 10.0 ],
-  "assignedBudget" : 0.0,
-  "receivedGifts" : [ ]
+  "averageScore" : 10.0,
+  "niceScoreHistory" : [ 10.0 ],
+  "assignedBudget" : 721.5384615384617,
+  "receivedGifts" : [ {
+    "productName" : "Laptop",
+    "price" : 500.0,
+    "category" : "Technology"
+  }, {
+    "productName" : "Castle",
+    "price" : 15.0,
+    "category" : "Toys"
+  }, {
+    "productName" : "Handbag",
+    "price" : 200.0,
+    "category" : "Clothes"
+  } ]
 } ], [ {
   "id" : 0,
   "lastName" : "Cantemir",
@@ -70,8 +54,8 @@
   "city" : "Cluj-Napoca",
   "niceScore" : 3.0,
   "giftsPreferences" : [ "Toys", "Board Games", "Books", "Clothes" ],
-  "averageScore" : 1.5,
-  "niceScoreHistory" : [ 0.0, 3.0, 3.0, 3.0, 5.0, 3.0, 3.0 ],
+  "averageScore" : 3.0,
+  "niceScoreHistory" : [ 3.0, 5.0 ],
   "assignedBudget" : 249.0,
   "receivedGifts" : [ {
     "productName" : "Castle",
@@ -81,38 +65,6 @@
     "productName" : "Puzzle",
     "price" : 50.0,
     "category" : "Board Games"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Puzzle",
-    "price" : 50.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Puzzle",
-    "price" : 50.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Puzzle",
-    "price" : 50.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
   } ]
 }, {
   "id" : 2,
@@ -122,34 +74,10 @@
   "city" : "Braila",
   "niceScore" : 7.0,
   "giftsPreferences" : [ "Toys", "Board Games", "Technology" ],
-  "averageScore" : 4.666666666666667,
-  "niceScoreHistory" : [ 0.0, 7.0, 7.0, 7.0, 7.0, 7.0 ],
-  "assignedBudget" : 188.43243243243245,
+  "averageScore" : 7.0,
+  "niceScoreHistory" : [ 7.0 ],
+  "assignedBudget" : 174.29999999999998,
   "receivedGifts" : [ {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Puzzle",
-    "price" : 50.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Puzzle",
-    "price" : 50.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Puzzle",
-    "price" : 50.0,
-    "category" : "Board Games"
-  }, {
     "productName" : "Castle",
     "price" : 15.0,
     "category" : "Toys"
@@ -166,9 +94,9 @@
   "city" : "Brasov",
   "niceScore" : 6.0,
   "giftsPreferences" : [ "Board Games", "Clothes", "Toys", "Technology" ],
-  "averageScore" : 4.0,
-  "niceScoreHistory" : [ 0.0, 6.0, 6.0, 6.0, 3.0, 6.0, 6.0 ],
-  "assignedBudget" : 97.96721311475409,
+  "averageScore" : 6.0,
+  "niceScoreHistory" : [ 6.0, 3.0 ],
+  "assignedBudget" : 93.375,
   "receivedGifts" : [ {
     "productName" : "Castle",
     "price" : 15.0,
@@ -177,38 +105,6 @@
     "productName" : "Puzzle",
     "price" : 50.0,
     "category" : "Board Games"
-  }, {
-    "productName" : "Handbag",
-    "price" : 200.0,
-    "category" : "Clothes"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Puzzle",
-    "price" : 50.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Puzzle",
-    "price" : 50.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Puzzle",
-    "price" : 50.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Handbag",
-    "price" : 200.0,
-    "category" : "Clothes"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
   } ]
 } ], [ {
   "id" : 0,
@@ -218,9 +114,9 @@
   "city" : "Cluj-Napoca",
   "niceScore" : 3.0,
   "giftsPreferences" : [ "Toys", "Board Games", "Books", "Clothes" ],
-  "averageScore" : 2.0,
-  "niceScoreHistory" : [ 0.0, 3.0, 3.0, 3.0, 5.0, 3.0, 3.0 ],
-  "assignedBudget" : 175.87499999999997,
+  "averageScore" : 3.0,
+  "niceScoreHistory" : [ 3.0, 5.0 ],
+  "assignedBudget" : 175.875,
   "receivedGifts" : [ {
     "productName" : "Castle",
     "price" : 15.0,
@@ -229,38 +125,6 @@
     "productName" : "Puzzle",
     "price" : 50.0,
     "category" : "Board Games"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Puzzle",
-    "price" : 50.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Puzzle",
-    "price" : 50.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Puzzle",
-    "price" : 50.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
   } ]
 }, {
   "id" : 2,
@@ -270,34 +134,10 @@
   "city" : "Braila",
   "niceScore" : 7.0,
   "giftsPreferences" : [ "Toys", "Board Games", "Technology" ],
-  "averageScore" : 5.833333333333333,
-  "niceScoreHistory" : [ 0.0, 7.0, 7.0, 7.0, 7.0, 7.0 ],
-  "assignedBudget" : 462.39436619718316,
+  "averageScore" : 7.0,
+  "niceScoreHistory" : [ 7.0 ],
+  "assignedBudget" : 410.375,
   "receivedGifts" : [ {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Puzzle",
-    "price" : 50.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Puzzle",
-    "price" : 50.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Puzzle",
-    "price" : 50.0,
-    "category" : "Board Games"
-  }, {
     "productName" : "Castle",
     "price" : 15.0,
     "category" : "Toys"
@@ -314,18 +154,10 @@
   "city" : "Brasov",
   "niceScore" : 6.0,
   "giftsPreferences" : [ "Board Games", "Clothes", "Toys", "Technology" ],
-  "averageScore" : 5.0,
-  "niceScoreHistory" : [ 0.0, 6.0, 6.0, 6.0, 3.0, 6.0, 6.0 ],
-  "assignedBudget" : 365.4545454545455,
+  "averageScore" : 6.0,
+  "niceScoreHistory" : [ 6.0, 3.0 ],
+  "assignedBudget" : 351.75,
   "receivedGifts" : [ {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Puzzle",
-    "price" : 50.0,
-    "category" : "Board Games"
-  }, {
     "productName" : "Handbag",
     "price" : 200.0,
     "category" : "Clothes"
@@ -337,26 +169,6 @@
     "productName" : "Puzzle",
     "price" : 50.0,
     "category" : "Board Games"
-  }, {
-    "productName" : "Puzzle",
-    "price" : 50.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Puzzle",
-    "price" : 50.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Handbag",
-    "price" : 200.0,
-    "category" : "Clothes"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
   } ]
 }, {
   "id" : 4,
@@ -367,8 +179,8 @@
   "niceScore" : 2.0,
   "giftsPreferences" : [ "Toys", "Board Games", "Clothes" ],
   "averageScore" : 10.0,
-  "niceScoreHistory" : [ 0.0, 2.0, 2.0, 2.0, 2.0 ],
-  "assignedBudget" : 410.80291970802926,
+  "niceScoreHistory" : [ 2.0 ],
+  "assignedBudget" : 360.76923076923083,
   "receivedGifts" : [ {
     "productName" : "Castle",
     "price" : 15.0,
@@ -381,22 +193,6 @@
     "productName" : "Handbag",
     "price" : 200.0,
     "category" : "Clothes"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Puzzle",
-    "price" : 50.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Puzzle",
-    "price" : 50.0,
-    "category" : "Board Games"
   } ]
 }, {
   "id" : 5,
@@ -406,18 +202,10 @@
   "city" : "Brasov",
   "niceScore" : 2.0,
   "giftsPreferences" : [ "Toys", "Clothes" ],
-  "averageScore" : 1.3333333333333333,
-  "niceScoreHistory" : [ 0.0, 2.0, 2.0, 2.0, 2.0 ],
-  "assignedBudget" : 51.751724137931035,
+  "averageScore" : 2.0,
+  "niceScoreHistory" : [ 2.0 ],
+  "assignedBudget" : 67.0,
   "receivedGifts" : [ {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
     "productName" : "Castle",
     "price" : 15.0,
     "category" : "Toys"
@@ -430,38 +218,10 @@
   "city" : "Cluj-Napoca",
   "niceScore" : 3.0,
   "giftsPreferences" : [ "Toys", "Board Games", "Books", "Clothes" ],
-  "averageScore" : 2.8,
-  "niceScoreHistory" : [ 0.0, 3.0, 3.0, 3.0, 5.0, 3.0, 3.0 ],
-  "assignedBudget" : 105.19626168224299,
+  "averageScore" : 4.0,
+  "niceScoreHistory" : [ 3.0, 5.0 ],
+  "assignedBudget" : 129.3793103448276,
   "receivedGifts" : [ {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Puzzle",
-    "price" : 50.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Puzzle",
-    "price" : 50.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Puzzle",
-    "price" : 50.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
     "productName" : "Castle",
     "price" : 15.0,
     "category" : "Toys"
@@ -482,34 +242,10 @@
   "city" : "Braila",
   "niceScore" : 7.0,
   "giftsPreferences" : [ "Toys", "Board Games", "Technology" ],
-  "averageScore" : 6.3,
-  "niceScoreHistory" : [ 0.0, 7.0, 7.0, 7.0, 7.0, 7.0 ],
-  "assignedBudget" : 232.34862385321102,
+  "averageScore" : 7.0,
+  "niceScoreHistory" : [ 7.0 ],
+  "assignedBudget" : 226.41379310344828,
   "receivedGifts" : [ {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Puzzle",
-    "price" : 50.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Puzzle",
-    "price" : 50.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Puzzle",
-    "price" : 50.0,
-    "category" : "Board Games"
-  }, {
     "productName" : "Castle",
     "price" : 15.0,
     "category" : "Toys"
@@ -526,45 +262,13 @@
   "city" : "Brasov",
   "niceScore" : 6.0,
   "giftsPreferences" : [ "Board Games", "Clothes", "Toys", "Technology" ],
-  "averageScore" : 4.6,
-  "niceScoreHistory" : [ 0.0, 6.0, 6.0, 6.0, 3.0, 6.0, 6.0 ],
-  "assignedBudget" : 172.36218375499334,
+  "averageScore" : 4.0,
+  "niceScoreHistory" : [ 6.0, 3.0 ],
+  "assignedBudget" : 138.96296296296296,
   "receivedGifts" : [ {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
     "productName" : "Puzzle",
     "price" : 50.0,
     "category" : "Board Games"
-  }, {
-    "productName" : "Handbag",
-    "price" : 200.0,
-    "category" : "Clothes"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Puzzle",
-    "price" : 50.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Puzzle",
-    "price" : 50.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Puzzle",
-    "price" : 50.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Handbag",
-    "price" : 200.0,
-    "category" : "Clothes"
   }, {
     "productName" : "Castle",
     "price" : 15.0,
@@ -578,30 +282,10 @@
   "city" : "Cluj-Napoca",
   "niceScore" : 2.0,
   "giftsPreferences" : [ "Toys", "Board Games", "Clothes" ],
-  "averageScore" : 1.3333333333333333,
-  "niceScoreHistory" : [ 0.0, 2.0, 2.0, 2.0, 2.0 ],
-  "assignedBudget" : 76.41547861507128,
+  "averageScore" : 2.0,
+  "niceScoreHistory" : [ 2.0 ],
+  "assignedBudget" : 98.73684210526316,
   "receivedGifts" : [ {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Puzzle",
-    "price" : 50.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Handbag",
-    "price" : 200.0,
-    "category" : "Clothes"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Puzzle",
-    "price" : 50.0,
-    "category" : "Board Games"
-  }, {
     "productName" : "Castle",
     "price" : 15.0,
     "category" : "Toys"
@@ -618,18 +302,10 @@
   "city" : "Brasov",
   "niceScore" : 2.0,
   "giftsPreferences" : [ "Toys", "Clothes" ],
-  "averageScore" : 1.6666666666666667,
-  "niceScoreHistory" : [ 0.0, 2.0, 2.0, 2.0, 2.0 ],
-  "assignedBudget" : 93.61277445109782,
+  "averageScore" : 2.0,
+  "niceScoreHistory" : [ 2.0 ],
+  "assignedBudget" : 98.73684210526316,
   "receivedGifts" : [ {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
     "productName" : "Castle",
     "price" : 15.0,
     "category" : "Toys"
@@ -642,14 +318,10 @@
   "city" : "Oradea",
   "niceScore" : 8.0,
   "giftsPreferences" : [ "Toys", "Technology" ],
-  "averageScore" : 5.333333333333333,
-  "niceScoreHistory" : [ 0.0, 8.0, 8.0, 8.0 ],
-  "assignedBudget" : 227.0499243570348,
+  "averageScore" : 8.0,
+  "niceScoreHistory" : [ 8.0 ],
+  "assignedBudget" : 277.9259259259259,
   "receivedGifts" : [ {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
     "productName" : "Castle",
     "price" : 15.0,
     "category" : "Toys"
@@ -662,38 +334,10 @@
   "city" : "Cluj-Napoca",
   "niceScore" : 3.0,
   "giftsPreferences" : [ "Toys", "Board Games", "Books", "Clothes" ],
-  "averageScore" : 2.8333333333333335,
-  "niceScoreHistory" : [ 0.0, 3.0, 3.0, 3.0, 5.0, 3.0, 3.0 ],
-  "assignedBudget" : 186.178247734139,
+  "averageScore" : 4.0,
+  "niceScoreHistory" : [ 3.0, 5.0 ],
+  "assignedBudget" : 214.8148148148148,
   "receivedGifts" : [ {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Puzzle",
-    "price" : 50.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Puzzle",
-    "price" : 50.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Puzzle",
-    "price" : 50.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
     "productName" : "Castle",
     "price" : 15.0,
     "category" : "Toys"
@@ -714,34 +358,10 @@
   "city" : "Braila",
   "niceScore" : 7.0,
   "giftsPreferences" : [ "Toys", "Board Games", "Technology" ],
-  "averageScore" : 6.533333333333333,
-  "niceScoreHistory" : [ 0.0, 7.0, 7.0, 7.0, 7.0, 7.0 ],
-  "assignedBudget" : 424.813153961136,
+  "averageScore" : 7.0,
+  "niceScoreHistory" : [ 7.0 ],
+  "assignedBudget" : 375.9259259259259,
   "receivedGifts" : [ {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Puzzle",
-    "price" : 50.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Puzzle",
-    "price" : 50.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Puzzle",
-    "price" : 50.0,
-    "category" : "Board Games"
-  }, {
     "productName" : "Castle",
     "price" : 15.0,
     "category" : "Toys"
@@ -758,45 +378,13 @@
   "city" : "Brasov",
   "niceScore" : 6.0,
   "giftsPreferences" : [ "Board Games", "Clothes", "Toys", "Technology" ],
-  "averageScore" : 5.0,
-  "niceScoreHistory" : [ 0.0, 6.0, 6.0, 6.0, 3.0, 6.0, 6.0 ],
-  "assignedBudget" : 319.3832599118943,
+  "averageScore" : 4.0,
+  "niceScoreHistory" : [ 6.0, 3.0 ],
+  "assignedBudget" : 214.8148148148148,
   "receivedGifts" : [ {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
     "productName" : "Puzzle",
     "price" : 50.0,
     "category" : "Board Games"
-  }, {
-    "productName" : "Handbag",
-    "price" : 200.0,
-    "category" : "Clothes"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Puzzle",
-    "price" : 50.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Puzzle",
-    "price" : 50.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Puzzle",
-    "price" : 50.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Handbag",
-    "price" : 200.0,
-    "category" : "Clothes"
   }, {
     "productName" : "Castle",
     "price" : 15.0,
@@ -810,30 +398,10 @@
   "city" : "Cluj-Napoca",
   "niceScore" : 2.0,
   "giftsPreferences" : [ "Toys", "Board Games", "Clothes" ],
-  "averageScore" : 1.5,
-  "niceScoreHistory" : [ 0.0, 2.0, 2.0, 2.0, 2.0 ],
-  "assignedBudget" : 95.11661807580174,
+  "averageScore" : 2.0,
+  "niceScoreHistory" : [ 2.0 ],
+  "assignedBudget" : 107.4074074074074,
   "receivedGifts" : [ {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Puzzle",
-    "price" : 50.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Handbag",
-    "price" : 200.0,
-    "category" : "Clothes"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Puzzle",
-    "price" : 50.0,
-    "category" : "Board Games"
-  }, {
     "productName" : "Castle",
     "price" : 15.0,
     "category" : "Toys"
@@ -850,18 +418,10 @@
   "city" : "Brasov",
   "niceScore" : 2.0,
   "giftsPreferences" : [ "Toys", "Clothes" ],
-  "averageScore" : 1.8,
-  "niceScoreHistory" : [ 0.0, 2.0, 2.0, 2.0, 2.0 ],
-  "assignedBudget" : 113.47826086956522,
+  "averageScore" : 2.0,
+  "niceScoreHistory" : [ 2.0 ],
+  "assignedBudget" : 107.4074074074074,
   "receivedGifts" : [ {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
     "productName" : "Castle",
     "price" : 15.0,
     "category" : "Toys"
@@ -874,14 +434,10 @@
   "city" : "Oradea",
   "niceScore" : 8.0,
   "giftsPreferences" : [ "Toys", "Technology" ],
-  "averageScore" : 6.666666666666667,
-  "niceScoreHistory" : [ 0.0, 8.0, 8.0, 8.0 ],
-  "assignedBudget" : 397.26027397260276,
+  "averageScore" : 8.0,
+  "niceScoreHistory" : [ 8.0 ],
+  "assignedBudget" : 429.6296296296296,
   "receivedGifts" : [ {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
     "productName" : "Castle",
     "price" : 15.0,
     "category" : "Toys"

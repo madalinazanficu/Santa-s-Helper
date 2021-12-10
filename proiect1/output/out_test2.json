@@ -7,7 +7,7 @@
   "niceScore" : 8.0,
   "giftsPreferences" : [ "Technology", "Toys", "Clothes" ],
   "averageScore" : 0.0,
-  "niceScoreHistory" : [ 0.0, 8.0 ],
+  "niceScoreHistory" : [ 8.0 ],
   "assignedBudget" : null,
   "receivedGifts" : [ ]
 }, {
@@ -18,9 +18,9 @@
   "city" : "Oradea",
   "niceScore" : 4.0,
   "giftsPreferences" : [ "Books", "Board Games" ],
-  "averageScore" : 0.0,
-  "niceScoreHistory" : [ 0.0, 4.0, 4.0 ],
-  "assignedBudget" : 0.0,
+  "averageScore" : 4.0,
+  "niceScoreHistory" : [ 4.0 ],
+  "assignedBudget" : 1293.0,
   "receivedGifts" : [ {
     "productName" : "Diary of a Wimpy Kid",
     "price" : 25.0,
@@ -39,33 +39,9 @@
   "niceScore" : 9.0,
   "giftsPreferences" : [ "Books", "Clothes" ],
   "averageScore" : 10.0,
-  "niceScoreHistory" : [ 0.0, 9.0, 9.0, 9.0, 9.0 ],
-  "assignedBudget" : 1293.0,
+  "niceScoreHistory" : [ 9.0 ],
+  "assignedBudget" : 923.5714285714287,
   "receivedGifts" : [ {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Shoes",
-    "price" : 70.0,
-    "category" : "Clothes"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Shoes",
-    "price" : 70.0,
-    "category" : "Clothes"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Shoes",
-    "price" : 70.0,
-    "category" : "Clothes"
-  }, {
     "productName" : "Diary of a Wimpy Kid",
     "price" : 25.0,
     "category" : "Books"
@@ -82,26 +58,10 @@
   "city" : "Craiova",
   "niceScore" : 3.0,
   "giftsPreferences" : [ "Books", "Board Games" ],
-  "averageScore" : 0.0,
-  "niceScoreHistory" : [ 0.0, 3.0, 3.0, 3.0, 3.0 ],
-  "assignedBudget" : 0.0,
+  "averageScore" : 3.0,
+  "niceScoreHistory" : [ 3.0 ],
+  "assignedBudget" : 228.1764705882353,
   "receivedGifts" : [ {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Monopoly",
-    "price" : 30.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Monopoly",
-    "price" : 30.0,
-    "category" : "Board Games"
-  }, {
     "productName" : "Diary of a Wimpy Kid",
     "price" : 25.0,
     "category" : "Books"
@@ -118,9 +78,9 @@
   "city" : "Oradea",
   "niceScore" : 4.0,
   "giftsPreferences" : [ "Books", "Board Games" ],
-  "averageScore" : 2.6666666666666665,
-  "niceScoreHistory" : [ 0.0, 4.0, 4.0 ],
-  "assignedBudget" : 308.8421052631579,
+  "averageScore" : 4.0,
+  "niceScoreHistory" : [ 4.0 ],
+  "assignedBudget" : 345.1764705882353,
   "receivedGifts" : [ {
     "productName" : "Diary of a Wimpy Kid",
     "price" : 25.0,
@@ -139,33 +99,9 @@
   "niceScore" : 9.0,
   "giftsPreferences" : [ "Books", "Clothes" ],
   "averageScore" : 10.0,
-  "niceScoreHistory" : [ 0.0, 9.0, 9.0, 9.0, 9.0 ],
-  "assignedBudget" : 1158.157894736842,
+  "niceScoreHistory" : [ 9.0 ],
+  "assignedBudget" : 862.9411764705883,
   "receivedGifts" : [ {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Shoes",
-    "price" : 70.0,
-    "category" : "Clothes"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Shoes",
-    "price" : 70.0,
-    "category" : "Clothes"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Shoes",
-    "price" : 70.0,
-    "category" : "Clothes"
-  }, {
     "productName" : "Diary of a Wimpy Kid",
     "price" : 25.0,
     "category" : "Books"
@@ -182,26 +118,10 @@
   "city" : "Craiova",
   "niceScore" : 3.0,
   "giftsPreferences" : [ "Books", "Board Games" ],
-  "averageScore" : 1.5,
-  "niceScoreHistory" : [ 0.0, 3.0, 3.0, 3.0, 3.0 ],
-  "assignedBudget" : 155.3294117647059,
+  "averageScore" : 3.0,
+  "niceScoreHistory" : [ 3.0 ],
+  "assignedBudget" : 258.88235294117646,
   "receivedGifts" : [ {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Monopoly",
-    "price" : 30.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Monopoly",
-    "price" : 30.0,
-    "category" : "Board Games"
-  }, {
     "productName" : "Diary of a Wimpy Kid",
     "price" : 25.0,
     "category" : "Books"
@@ -218,34 +138,10 @@
   "city" : "Craiova",
   "niceScore" : 9.0,
   "giftsPreferences" : [ "Books", "Clothes" ],
-  "averageScore" : 6.0,
-  "niceScoreHistory" : [ 0.0, 9.0, 9.0, 9.0, 9.0 ],
-  "assignedBudget" : 1438.3999999999999,
+  "averageScore" : 9.0,
+  "niceScoreHistory" : [ 9.0 ],
+  "assignedBudget" : 1348.5,
   "receivedGifts" : [ {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Shoes",
-    "price" : 70.0,
-    "category" : "Clothes"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Shoes",
-    "price" : 70.0,
-    "category" : "Clothes"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Shoes",
-    "price" : 70.0,
-    "category" : "Clothes"
-  }, {
     "productName" : "Diary of a Wimpy Kid",
     "price" : 25.0,
     "category" : "Books"
@@ -262,26 +158,10 @@
   "city" : "Craiova",
   "niceScore" : 3.0,
   "giftsPreferences" : [ "Books", "Board Games" ],
-  "averageScore" : 2.5,
-  "niceScoreHistory" : [ 0.0, 3.0, 3.0, 3.0, 3.0 ],
-  "assignedBudget" : 528.8235294117648,
+  "averageScore" : 3.0,
+  "niceScoreHistory" : [ 3.0 ],
+  "assignedBudget" : 449.5,
   "receivedGifts" : [ {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Monopoly",
-    "price" : 30.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Monopoly",
-    "price" : 30.0,
-    "category" : "Board Games"
-  }, {
     "productName" : "Diary of a Wimpy Kid",
     "price" : 25.0,
     "category" : "Books"
@@ -298,34 +178,10 @@
   "city" : "Craiova",
   "niceScore" : 9.0,
   "giftsPreferences" : [ "Books", "Clothes" ],
-  "averageScore" : 6.75,
-  "niceScoreHistory" : [ 0.0, 9.0, 9.0, 9.0, 9.0 ],
-  "assignedBudget" : 943.5405405405405,
+  "averageScore" : 9.0,
+  "niceScoreHistory" : [ 9.0 ],
+  "assignedBudget" : 969.75,
   "receivedGifts" : [ {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Shoes",
-    "price" : 70.0,
-    "category" : "Clothes"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Shoes",
-    "price" : 70.0,
-    "category" : "Clothes"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Shoes",
-    "price" : 70.0,
-    "category" : "Clothes"
-  }, {
     "productName" : "Diary of a Wimpy Kid",
     "price" : 25.0,
     "category" : "Books"
@@ -342,26 +198,10 @@
   "city" : "Craiova",
   "niceScore" : 3.0,
   "giftsPreferences" : [ "Books", "Board Games" ],
-  "averageScore" : 2.7,
-  "niceScoreHistory" : [ 0.0, 3.0, 3.0, 3.0, 3.0 ],
-  "assignedBudget" : 369.4285714285715,
+  "averageScore" : 3.0,
+  "niceScoreHistory" : [ 3.0 ],
+  "assignedBudget" : 323.25,
   "receivedGifts" : [ {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Monopoly",
-    "price" : 30.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Monopoly",
-    "price" : 30.0,
-    "category" : "Board Games"
-  }, {
     "productName" : "Diary of a Wimpy Kid",
     "price" : 25.0,
     "category" : "Books"

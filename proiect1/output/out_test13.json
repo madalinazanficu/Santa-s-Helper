@@ -7,41 +7,9 @@
   "niceScore" : 7.0,
   "giftsPreferences" : [ "Books" ],
   "averageScore" : 10.0,
-  "niceScoreHistory" : [ 0.0, 7.0, 7.0, 7.0, 7.0, 7.0, 7.0, 7.0, 7.0, 7.0 ],
+  "niceScoreHistory" : [ 7.0 ],
   "assignedBudget" : 161.0,
   "receivedGifts" : [ {
-    "productName" : "Twilight",
-    "price" : 30.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Twilight",
-    "price" : 30.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Twilight",
-    "price" : 30.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Twilight",
-    "price" : 30.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Twilight",
-    "price" : 30.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Twilight",
-    "price" : 30.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Twilight",
-    "price" : 30.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Twilight",
-    "price" : 30.0,
-    "category" : "Books"
-  }, {
     "productName" : "Twilight",
     "price" : 30.0,
     "category" : "Books"
@@ -54,9 +22,9 @@
   "city" : "Iasi",
   "niceScore" : 10.0,
   "giftsPreferences" : [ "Toys" ],
-  "averageScore" : 0.0,
-  "niceScoreHistory" : [ 0.0, 10.0, 10.0 ],
-  "assignedBudget" : 0.0,
+  "averageScore" : 10.0,
+  "niceScoreHistory" : [ 10.0 ],
+  "assignedBudget" : 80.5,
   "receivedGifts" : [ {
     "productName" : "Teddy Bear",
     "price" : 5.0,
@@ -70,14 +38,10 @@
   "city" : "Braila",
   "niceScore" : 8.0,
   "giftsPreferences" : [ "Toys" ],
-  "averageScore" : 0.0,
-  "niceScoreHistory" : [ 0.0, 8.0, 8.0, 8.0 ],
-  "assignedBudget" : 0.0,
+  "averageScore" : 8.0,
+  "niceScoreHistory" : [ 8.0 ],
+  "assignedBudget" : 46.0,
   "receivedGifts" : [ {
-    "productName" : "Teddy Bear",
-    "price" : 5.0,
-    "category" : "Toys"
-  }, {
     "productName" : "Teddy Bear",
     "price" : 5.0,
     "category" : "Toys"
@@ -91,41 +55,9 @@
   "niceScore" : 7.0,
   "giftsPreferences" : [ "Books" ],
   "averageScore" : 10.0,
-  "niceScoreHistory" : [ 0.0, 7.0, 7.0, 7.0, 7.0, 7.0, 7.0, 7.0, 7.0, 7.0 ],
-  "assignedBudget" : 161.0,
+  "niceScoreHistory" : [ 7.0 ],
+  "assignedBudget" : 57.5,
   "receivedGifts" : [ {
-    "productName" : "Twilight",
-    "price" : 30.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Twilight",
-    "price" : 30.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Twilight",
-    "price" : 30.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Twilight",
-    "price" : 30.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Twilight",
-    "price" : 30.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Twilight",
-    "price" : 30.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Twilight",
-    "price" : 30.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Twilight",
-    "price" : 30.0,
-    "category" : "Books"
-  }, {
     "productName" : "Twilight",
     "price" : 30.0,
     "category" : "Books"
@@ -138,9 +70,9 @@
   "city" : "Iasi",
   "niceScore" : 10.0,
   "giftsPreferences" : [ "Toys" ],
-  "averageScore" : 6.666666666666667,
-  "niceScoreHistory" : [ 0.0, 10.0, 10.0 ],
-  "assignedBudget" : 64.4,
+  "averageScore" : 10.0,
+  "niceScoreHistory" : [ 10.0 ],
+  "assignedBudget" : 57.5,
   "receivedGifts" : [ {
     "productName" : "Teddy Bear",
     "price" : 5.0,
@@ -154,14 +86,10 @@
   "city" : "Braila",
   "niceScore" : 8.0,
   "giftsPreferences" : [ "Toys" ],
-  "averageScore" : 5.333333333333333,
-  "niceScoreHistory" : [ 0.0, 8.0, 8.0, 8.0 ],
-  "assignedBudget" : 39.03030303030303,
+  "averageScore" : 8.0,
+  "niceScoreHistory" : [ 8.0 ],
+  "assignedBudget" : 46.0,
   "receivedGifts" : [ {
-    "productName" : "Teddy Bear",
-    "price" : 5.0,
-    "category" : "Toys"
-  }, {
     "productName" : "Teddy Bear",
     "price" : 5.0,
     "category" : "Toys"
@@ -174,42 +102,10 @@
   "city" : "Timisoara",
   "niceScore" : 7.0,
   "giftsPreferences" : [ "Books" ],
-  "averageScore" : 4.666666666666667,
-  "niceScoreHistory" : [ 0.0, 7.0, 7.0, 7.0, 7.0, 7.0, 7.0, 7.0, 7.0, 7.0 ],
-  "assignedBudget" : 389.6666666666667,
+  "averageScore" : 7.0,
+  "niceScoreHistory" : [ 7.0 ],
+  "assignedBudget" : 389.66666666666663,
   "receivedGifts" : [ {
-    "productName" : "Twilight",
-    "price" : 30.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Twilight",
-    "price" : 30.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Twilight",
-    "price" : 30.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Twilight",
-    "price" : 30.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Twilight",
-    "price" : 30.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Twilight",
-    "price" : 30.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Twilight",
-    "price" : 30.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Twilight",
-    "price" : 30.0,
-    "category" : "Books"
-  }, {
     "productName" : "Twilight",
     "price" : 30.0,
     "category" : "Books"
@@ -222,14 +118,10 @@
   "city" : "Braila",
   "niceScore" : 8.0,
   "giftsPreferences" : [ "Toys" ],
-  "averageScore" : 6.666666666666667,
-  "niceScoreHistory" : [ 0.0, 8.0, 8.0, 8.0 ],
-  "assignedBudget" : 491.1764705882353,
+  "averageScore" : 8.0,
+  "niceScoreHistory" : [ 8.0 ],
+  "assignedBudget" : 445.3333333333333,
   "receivedGifts" : [ {
-    "productName" : "Teddy Bear",
-    "price" : 5.0,
-    "category" : "Toys"
-  }, {
     "productName" : "Teddy Bear",
     "price" : 5.0,
     "category" : "Toys"
@@ -242,42 +134,10 @@
   "city" : "Timisoara",
   "niceScore" : 7.0,
   "giftsPreferences" : [ "Books" ],
-  "averageScore" : 5.25,
-  "niceScoreHistory" : [ 0.0, 7.0, 7.0, 7.0, 7.0, 7.0, 7.0, 7.0, 7.0, 7.0 ],
+  "averageScore" : 7.0,
+  "niceScoreHistory" : [ 7.0 ],
   "assignedBudget" : 695.0,
   "receivedGifts" : [ {
-    "productName" : "Twilight",
-    "price" : 30.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Twilight",
-    "price" : 30.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Twilight",
-    "price" : 30.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Twilight",
-    "price" : 30.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Twilight",
-    "price" : 30.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Twilight",
-    "price" : 30.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Twilight",
-    "price" : 30.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Twilight",
-    "price" : 30.0,
-    "category" : "Books"
-  }, {
     "productName" : "Twilight",
     "price" : 30.0,
     "category" : "Books"
@@ -291,8 +151,8 @@
   "niceScore" : 3.0,
   "giftsPreferences" : [ "Toys", "Books" ],
   "averageScore" : 10.0,
-  "niceScoreHistory" : [ 0.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0 ],
-  "assignedBudget" : 455.7377049180328,
+  "niceScoreHistory" : [ 3.0 ],
+  "assignedBudget" : 408.8235294117647,
   "receivedGifts" : [ {
     "productName" : "Teddy Bear",
     "price" : 5.0,
@@ -301,30 +161,6 @@
     "productName" : "Twilight",
     "price" : 30.0,
     "category" : "Books"
-  }, {
-    "productName" : "Teddy Bear",
-    "price" : 5.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Teddy Bear",
-    "price" : 5.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Twilight",
-    "price" : 30.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Teddy Bear",
-    "price" : 5.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Teddy Bear",
-    "price" : 5.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Teddy Bear",
-    "price" : 5.0,
-    "category" : "Toys"
   } ]
 }, {
   "id" : 4,
@@ -334,34 +170,10 @@
   "city" : "Oradea",
   "niceScore" : 7.0,
   "giftsPreferences" : [ "Board Games", "Toys" ],
-  "averageScore" : 4.666666666666667,
-  "niceScoreHistory" : [ 0.0, 7.0, 7.0, 7.0, 7.0, 7.0 ],
-  "assignedBudget" : 162.84518828451883,
+  "averageScore" : 7.0,
+  "niceScoreHistory" : [ 7.0 ],
+  "assignedBudget" : 202.70833333333331,
   "receivedGifts" : [ {
-    "productName" : "Monopoly",
-    "price" : 30.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Teddy Bear",
-    "price" : 5.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Monopoly",
-    "price" : 30.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Teddy Bear",
-    "price" : 5.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Monopoly",
-    "price" : 30.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Teddy Bear",
-    "price" : 5.0,
-    "category" : "Toys"
-  }, {
     "productName" : "Monopoly",
     "price" : 30.0,
     "category" : "Board Games"
@@ -378,42 +190,10 @@
   "city" : "Timisoara",
   "niceScore" : 7.0,
   "giftsPreferences" : [ "Books" ],
-  "averageScore" : 5.6,
-  "niceScoreHistory" : [ 0.0, 7.0, 7.0, 7.0, 7.0, 7.0, 7.0, 7.0, 7.0, 7.0 ],
-  "assignedBudget" : 44.48684210526316,
+  "averageScore" : 7.0,
+  "niceScoreHistory" : [ 7.0 ],
+  "assignedBudget" : 46.95833333333333,
   "receivedGifts" : [ {
-    "productName" : "Twilight",
-    "price" : 30.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Twilight",
-    "price" : 30.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Twilight",
-    "price" : 30.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Twilight",
-    "price" : 30.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Twilight",
-    "price" : 30.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Twilight",
-    "price" : 30.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Twilight",
-    "price" : 30.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Twilight",
-    "price" : 30.0,
-    "category" : "Books"
-  }, {
     "productName" : "Twilight",
     "price" : 30.0,
     "category" : "Books"
@@ -426,38 +206,10 @@
   "city" : "Cluj-Napoca",
   "niceScore" : 3.0,
   "giftsPreferences" : [ "Toys", "Books" ],
-  "averageScore" : 2.0,
-  "niceScoreHistory" : [ 0.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0 ],
-  "assignedBudget" : 26.250000000000004,
+  "averageScore" : 3.0,
+  "niceScoreHistory" : [ 3.0 ],
+  "assignedBudget" : 28.411764705882355,
   "receivedGifts" : [ {
-    "productName" : "Teddy Bear",
-    "price" : 5.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Twilight",
-    "price" : 30.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Teddy Bear",
-    "price" : 5.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Teddy Bear",
-    "price" : 5.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Twilight",
-    "price" : 30.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Teddy Bear",
-    "price" : 5.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Teddy Bear",
-    "price" : 5.0,
-    "category" : "Toys"
-  }, {
     "productName" : "Teddy Bear",
     "price" : 5.0,
     "category" : "Toys"
@@ -470,34 +222,10 @@
   "city" : "Oradea",
   "niceScore" : 7.0,
   "giftsPreferences" : [ "Board Games", "Toys" ],
-  "averageScore" : 5.833333333333333,
-  "niceScoreHistory" : [ 0.0, 7.0, 7.0, 7.0, 7.0, 7.0 ],
-  "assignedBudget" : 69.91315136476426,
+  "averageScore" : 7.0,
+  "niceScoreHistory" : [ 7.0 ],
+  "assignedBudget" : 66.29411764705883,
   "receivedGifts" : [ {
-    "productName" : "Monopoly",
-    "price" : 30.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Teddy Bear",
-    "price" : 5.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Monopoly",
-    "price" : 30.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Teddy Bear",
-    "price" : 5.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Monopoly",
-    "price" : 30.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Teddy Bear",
-    "price" : 5.0,
-    "category" : "Toys"
-  }, {
     "productName" : "Monopoly",
     "price" : 30.0,
     "category" : "Board Games"
@@ -514,42 +242,10 @@
   "city" : "Timisoara",
   "niceScore" : 7.0,
   "giftsPreferences" : [ "Books" ],
-  "averageScore" : 5.833333333333333,
-  "niceScoreHistory" : [ 0.0, 7.0, 7.0, 7.0, 7.0, 7.0, 7.0, 7.0, 7.0, 7.0 ],
-  "assignedBudget" : 133.59756097560975,
+  "averageScore" : 7.0,
+  "niceScoreHistory" : [ 7.0 ],
+  "assignedBudget" : 128.88235294117646,
   "receivedGifts" : [ {
-    "productName" : "Twilight",
-    "price" : 30.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Twilight",
-    "price" : 30.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Twilight",
-    "price" : 30.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Twilight",
-    "price" : 30.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Twilight",
-    "price" : 30.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Twilight",
-    "price" : 30.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Twilight",
-    "price" : 30.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Twilight",
-    "price" : 30.0,
-    "category" : "Books"
-  }, {
     "productName" : "Twilight",
     "price" : 30.0,
     "category" : "Books"
@@ -562,9 +258,9 @@
   "city" : "Cluj-Napoca",
   "niceScore" : 3.0,
   "giftsPreferences" : [ "Toys", "Books" ],
-  "averageScore" : 2.25,
-  "niceScoreHistory" : [ 0.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0 ],
-  "assignedBudget" : 50.60479041916169,
+  "averageScore" : 3.0,
+  "niceScoreHistory" : [ 3.0 ],
+  "assignedBudget" : 55.23529411764706,
   "receivedGifts" : [ {
     "productName" : "Teddy Bear",
     "price" : 5.0,
@@ -573,30 +269,6 @@
     "productName" : "Twilight",
     "price" : 30.0,
     "category" : "Books"
-  }, {
-    "productName" : "Teddy Bear",
-    "price" : 5.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Teddy Bear",
-    "price" : 5.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Twilight",
-    "price" : 30.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Teddy Bear",
-    "price" : 5.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Teddy Bear",
-    "price" : 5.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Teddy Bear",
-    "price" : 5.0,
-    "category" : "Toys"
   } ]
 }, {
   "id" : 4,
@@ -606,34 +278,10 @@
   "city" : "Oradea",
   "niceScore" : 7.0,
   "giftsPreferences" : [ "Board Games", "Toys" ],
-  "averageScore" : 6.3,
-  "niceScoreHistory" : [ 0.0, 7.0, 7.0, 7.0, 7.0, 7.0 ],
-  "assignedBudget" : 137.09617612977985,
+  "averageScore" : 7.0,
+  "niceScoreHistory" : [ 7.0 ],
+  "assignedBudget" : 128.88235294117646,
   "receivedGifts" : [ {
-    "productName" : "Monopoly",
-    "price" : 30.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Teddy Bear",
-    "price" : 5.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Monopoly",
-    "price" : 30.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Teddy Bear",
-    "price" : 5.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Monopoly",
-    "price" : 30.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Teddy Bear",
-    "price" : 5.0,
-    "category" : "Toys"
-  }, {
     "productName" : "Monopoly",
     "price" : 30.0,
     "category" : "Board Games"
@@ -650,25 +298,13 @@
   "city" : "Timisoara",
   "niceScore" : 3.0,
   "giftsPreferences" : [ "Board Games", "Toys", "Books" ],
-  "averageScore" : 2.0,
-  "niceScoreHistory" : [ 0.0, 3.0, 3.0, 3.0, 3.0, 3.0 ],
-  "assignedBudget" : 38.209562563580874,
+  "averageScore" : 3.0,
+  "niceScoreHistory" : [ 3.0 ],
+  "assignedBudget" : 46.95,
   "receivedGifts" : [ {
     "productName" : "Monopoly",
     "price" : 30.0,
     "category" : "Board Games"
-  }, {
-    "productName" : "Teddy Bear",
-    "price" : 5.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Teddy Bear",
-    "price" : 5.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Teddy Bear",
-    "price" : 5.0,
-    "category" : "Toys"
   }, {
     "productName" : "Teddy Bear",
     "price" : 5.0,
@@ -682,42 +318,10 @@
   "city" : "Timisoara",
   "niceScore" : 7.0,
   "giftsPreferences" : [ "Books" ],
-  "averageScore" : 6.0,
-  "niceScoreHistory" : [ 0.0, 7.0, 7.0, 7.0, 7.0, 7.0, 7.0, 7.0, 7.0, 7.0 ],
-  "assignedBudget" : 58.36858006042296,
+  "averageScore" : 7.0,
+  "niceScoreHistory" : [ 7.0 ],
+  "assignedBudget" : 56.35000000000001,
   "receivedGifts" : [ {
-    "productName" : "Twilight",
-    "price" : 30.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Twilight",
-    "price" : 30.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Twilight",
-    "price" : 30.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Twilight",
-    "price" : 30.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Twilight",
-    "price" : 30.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Twilight",
-    "price" : 30.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Twilight",
-    "price" : 30.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Twilight",
-    "price" : 30.0,
-    "category" : "Books"
-  }, {
     "productName" : "Twilight",
     "price" : 30.0,
     "category" : "Books"
@@ -730,38 +334,10 @@
   "city" : "Cluj-Napoca",
   "niceScore" : 3.0,
   "giftsPreferences" : [ "Toys", "Books" ],
-  "averageScore" : 2.4,
-  "niceScoreHistory" : [ 0.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0 ],
-  "assignedBudget" : 23.137724550898202,
+  "averageScore" : 3.0,
+  "niceScoreHistory" : [ 3.0 ],
+  "assignedBudget" : 24.150000000000002,
   "receivedGifts" : [ {
-    "productName" : "Teddy Bear",
-    "price" : 5.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Twilight",
-    "price" : 30.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Teddy Bear",
-    "price" : 5.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Teddy Bear",
-    "price" : 5.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Twilight",
-    "price" : 30.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Teddy Bear",
-    "price" : 5.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Teddy Bear",
-    "price" : 5.0,
-    "category" : "Toys"
-  }, {
     "productName" : "Teddy Bear",
     "price" : 5.0,
     "category" : "Toys"
@@ -774,34 +350,10 @@
   "city" : "Oradea",
   "niceScore" : 7.0,
   "giftsPreferences" : [ "Board Games", "Toys" ],
-  "averageScore" : 6.533333333333333,
-  "niceScoreHistory" : [ 0.0, 7.0, 7.0, 7.0, 7.0, 7.0 ],
-  "assignedBudget" : 62.118110236220474,
+  "averageScore" : 7.0,
+  "niceScoreHistory" : [ 7.0 ],
+  "assignedBudget" : 56.35000000000001,
   "receivedGifts" : [ {
-    "productName" : "Monopoly",
-    "price" : 30.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Teddy Bear",
-    "price" : 5.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Monopoly",
-    "price" : 30.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Teddy Bear",
-    "price" : 5.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Monopoly",
-    "price" : 30.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Teddy Bear",
-    "price" : 5.0,
-    "category" : "Toys"
-  }, {
     "productName" : "Monopoly",
     "price" : 30.0,
     "category" : "Board Games"
@@ -818,26 +370,10 @@
   "city" : "Timisoara",
   "niceScore" : 3.0,
   "giftsPreferences" : [ "Board Games", "Toys", "Books" ],
-  "averageScore" : 2.5,
-  "niceScoreHistory" : [ 0.0, 3.0, 3.0, 3.0, 3.0, 3.0 ],
-  "assignedBudget" : 23.08795411089866,
+  "averageScore" : 3.0,
+  "niceScoreHistory" : [ 3.0 ],
+  "assignedBudget" : 24.150000000000002,
   "receivedGifts" : [ {
-    "productName" : "Monopoly",
-    "price" : 30.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Teddy Bear",
-    "price" : 5.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Teddy Bear",
-    "price" : 5.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Teddy Bear",
-    "price" : 5.0,
-    "category" : "Toys"
-  }, {
     "productName" : "Teddy Bear",
     "price" : 5.0,
     "category" : "Toys"
@@ -850,14 +386,10 @@
   "city" : "Craiova",
   "niceScore" : 8.0,
   "giftsPreferences" : [ "Toys" ],
-  "averageScore" : 5.333333333333333,
-  "niceScoreHistory" : [ 0.0, 8.0, 8.0, 8.0 ],
-  "assignedBudget" : 37.71595900439239,
+  "averageScore" : 8.0,
+  "niceScoreHistory" : [ 8.0 ],
+  "assignedBudget" : 46.0,
   "receivedGifts" : [ {
-    "productName" : "Teddy Bear",
-    "price" : 5.0,
-    "category" : "Toys"
-  }, {
     "productName" : "Teddy Bear",
     "price" : 5.0,
     "category" : "Toys"
@@ -870,42 +402,10 @@
   "city" : "Timisoara",
   "niceScore" : 7.0,
   "giftsPreferences" : [ "Books" ],
-  "averageScore" : 6.125,
-  "niceScoreHistory" : [ 0.0, 7.0, 7.0, 7.0, 7.0, 7.0, 7.0, 7.0, 7.0, 7.0 ],
-  "assignedBudget" : 60.28273051451858,
+  "averageScore" : 7.0,
+  "niceScoreHistory" : [ 7.0 ],
+  "assignedBudget" : 53.66666666666667,
   "receivedGifts" : [ {
-    "productName" : "Twilight",
-    "price" : 30.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Twilight",
-    "price" : 30.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Twilight",
-    "price" : 30.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Twilight",
-    "price" : 30.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Twilight",
-    "price" : 30.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Twilight",
-    "price" : 30.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Twilight",
-    "price" : 30.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Twilight",
-    "price" : 30.0,
-    "category" : "Books"
-  }, {
     "productName" : "Twilight",
     "price" : 30.0,
     "category" : "Books"
@@ -918,38 +418,10 @@
   "city" : "Cluj-Napoca",
   "niceScore" : 3.0,
   "giftsPreferences" : [ "Toys", "Books" ],
-  "averageScore" : 2.5,
-  "niceScoreHistory" : [ 0.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0 ],
-  "assignedBudget" : 24.455696202531648,
+  "averageScore" : 3.0,
+  "niceScoreHistory" : [ 3.0 ],
+  "assignedBudget" : 23.0,
   "receivedGifts" : [ {
-    "productName" : "Teddy Bear",
-    "price" : 5.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Twilight",
-    "price" : 30.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Teddy Bear",
-    "price" : 5.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Teddy Bear",
-    "price" : 5.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Twilight",
-    "price" : 30.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Teddy Bear",
-    "price" : 5.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Teddy Bear",
-    "price" : 5.0,
-    "category" : "Toys"
-  }, {
     "productName" : "Teddy Bear",
     "price" : 5.0,
     "category" : "Toys"
@@ -962,26 +434,10 @@
   "city" : "Timisoara",
   "niceScore" : 3.0,
   "giftsPreferences" : [ "Board Games", "Toys", "Books" ],
-  "averageScore" : 2.7,
-  "niceScoreHistory" : [ 0.0, 3.0, 3.0, 3.0, 3.0, 3.0 ],
-  "assignedBudget" : 26.095047523761885,
+  "averageScore" : 3.0,
+  "niceScoreHistory" : [ 3.0 ],
+  "assignedBudget" : 23.0,
   "receivedGifts" : [ {
-    "productName" : "Monopoly",
-    "price" : 30.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Teddy Bear",
-    "price" : 5.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Teddy Bear",
-    "price" : 5.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Teddy Bear",
-    "price" : 5.0,
-    "category" : "Toys"
-  }, {
     "productName" : "Teddy Bear",
     "price" : 5.0,
     "category" : "Toys"
@@ -994,14 +450,10 @@
   "city" : "Craiova",
   "niceScore" : 8.0,
   "giftsPreferences" : [ "Toys" ],
-  "averageScore" : 6.666666666666667,
-  "niceScoreHistory" : [ 0.0, 8.0, 8.0, 8.0 ],
-  "assignedBudget" : 59.65724872626216,
+  "averageScore" : 8.0,
+  "niceScoreHistory" : [ 8.0 ],
+  "assignedBudget" : 61.333333333333336,
   "receivedGifts" : [ {
-    "productName" : "Teddy Bear",
-    "price" : 5.0,
-    "category" : "Toys"
-  }, {
     "productName" : "Teddy Bear",
     "price" : 5.0,
     "category" : "Toys"
@@ -1014,14 +466,10 @@
   "city" : "Craiova",
   "niceScore" : 7.0,
   "giftsPreferences" : [ "Clothes", "Board Games", "Toys" ],
-  "averageScore" : 4.666666666666667,
-  "niceScoreHistory" : [ 0.0, 7.0, 7.0, 7.0 ],
-  "assignedBudget" : 33.159249724163296,
+  "averageScore" : 7.0,
+  "niceScoreHistory" : [ 7.0 ],
+  "assignedBudget" : 40.25,
   "receivedGifts" : [ {
-    "productName" : "Monopoly",
-    "price" : 30.0,
-    "category" : "Board Games"
-  }, {
     "productName" : "Monopoly",
     "price" : 30.0,
     "category" : "Board Games"
@@ -1038,42 +486,10 @@
   "city" : "Timisoara",
   "niceScore" : 7.0,
   "giftsPreferences" : [ "Books" ],
-  "averageScore" : 6.222222222222222,
-  "niceScoreHistory" : [ 0.0, 7.0, 7.0, 7.0, 7.0, 7.0, 7.0, 7.0, 7.0, 7.0 ],
-  "assignedBudget" : 62.26519337016575,
+  "averageScore" : 7.0,
+  "niceScoreHistory" : [ 7.0 ],
+  "assignedBudget" : 56.35000000000001,
   "receivedGifts" : [ {
-    "productName" : "Twilight",
-    "price" : 30.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Twilight",
-    "price" : 30.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Twilight",
-    "price" : 30.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Twilight",
-    "price" : 30.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Twilight",
-    "price" : 30.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Twilight",
-    "price" : 30.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Twilight",
-    "price" : 30.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Twilight",
-    "price" : 30.0,
-    "category" : "Books"
-  }, {
     "productName" : "Twilight",
     "price" : 30.0,
     "category" : "Books"
@@ -1086,38 +502,10 @@
   "city" : "Cluj-Napoca",
   "niceScore" : 3.0,
   "giftsPreferences" : [ "Toys", "Books" ],
-  "averageScore" : 2.5714285714285716,
-  "niceScoreHistory" : [ 0.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0 ],
-  "assignedBudget" : 25.61830861408506,
+  "averageScore" : 3.0,
+  "niceScoreHistory" : [ 3.0 ],
+  "assignedBudget" : 24.150000000000002,
   "receivedGifts" : [ {
-    "productName" : "Teddy Bear",
-    "price" : 5.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Twilight",
-    "price" : 30.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Teddy Bear",
-    "price" : 5.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Teddy Bear",
-    "price" : 5.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Twilight",
-    "price" : 30.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Teddy Bear",
-    "price" : 5.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Teddy Bear",
-    "price" : 5.0,
-    "category" : "Toys"
-  }, {
     "productName" : "Teddy Bear",
     "price" : 5.0,
     "category" : "Toys"
@@ -1130,26 +518,10 @@
   "city" : "Timisoara",
   "niceScore" : 3.0,
   "giftsPreferences" : [ "Board Games", "Toys", "Books" ],
-  "averageScore" : 2.8,
-  "niceScoreHistory" : [ 0.0, 3.0, 3.0, 3.0, 3.0, 3.0 ],
-  "assignedBudget" : 27.723935962514638,
+  "averageScore" : 3.0,
+  "niceScoreHistory" : [ 3.0 ],
+  "assignedBudget" : 24.150000000000002,
   "receivedGifts" : [ {
-    "productName" : "Monopoly",
-    "price" : 30.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Teddy Bear",
-    "price" : 5.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Teddy Bear",
-    "price" : 5.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Teddy Bear",
-    "price" : 5.0,
-    "category" : "Toys"
-  }, {
     "productName" : "Teddy Bear",
     "price" : 5.0,
     "category" : "Toys"
@@ -1162,14 +534,10 @@
   "city" : "Craiova",
   "niceScore" : 7.0,
   "giftsPreferences" : [ "Clothes", "Board Games", "Toys" ],
-  "averageScore" : 5.833333333333333,
-  "niceScoreHistory" : [ 0.0, 7.0, 7.0, 7.0 ],
-  "assignedBudget" : 53.89152017487931,
+  "averageScore" : 7.0,
+  "niceScoreHistory" : [ 7.0 ],
+  "assignedBudget" : 56.35000000000001,
   "receivedGifts" : [ {
-    "productName" : "Monopoly",
-    "price" : 30.0,
-    "category" : "Board Games"
-  }, {
     "productName" : "Monopoly",
     "price" : 30.0,
     "category" : "Board Games"
