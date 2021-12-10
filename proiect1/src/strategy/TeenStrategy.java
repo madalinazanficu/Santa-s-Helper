@@ -25,6 +25,5 @@ public final class TeenStrategy implements AverageScoreStrategy {
             avg = sum / imp;
         }
         child.setAverageScore(avg);
-        System.out.println(avg);
     }
 }

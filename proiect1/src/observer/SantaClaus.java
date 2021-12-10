@@ -79,7 +79,9 @@ public final class SantaClaus implements Update {
         // adaug copii din noua lista <=> daca au sub 18 ani
         for (Child newChild : newChildren) {
             if (newChild.getAge() < 18) {
-                this.children.add(new Child(newChild));
+                Child myChild = new Child(newChild);
+                myChild.getNiceScoreHistory().add(myChild.getNiceScore());
+                this.children.add(myChild);
             }
         }
     }
@@ -169,6 +171,9 @@ public final class SantaClaus implements Update {
     }
 
     public void setChildren(final List<Child> children) {
+        for (Child child : children) {
+            child.getNiceScoreHistory().add(child.getNiceScore());
+        }
         this.children = children;
     }
 

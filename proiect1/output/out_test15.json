@@ -6,22 +6,10 @@
   "city" : "Timisoara",
   "niceScore" : 8.0,
   "giftsPreferences" : [ "Sweets" ],
-  "averageScore" : 0.0,
-  "niceScoreHistory" : [ 0.0, 8.0, 8.0, 8.0, 8.0, 8.0 ],
-  "assignedBudget" : 0.0,
+  "averageScore" : 8.0,
+  "niceScoreHistory" : [ 8.0 ],
+  "assignedBudget" : 458.0,
   "receivedGifts" : [ {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
     "productName" : "Gummy Bears",
     "price" : 10.0,
     "category" : "Sweets"
@@ -34,22 +22,10 @@
   "city" : "Brasov",
   "niceScore" : 4.0,
   "giftsPreferences" : [ "Toys" ],
-  "averageScore" : 0.0,
-  "niceScoreHistory" : [ 0.0, 4.0, 4.0, 4.0, 4.0, 4.0 ],
-  "assignedBudget" : 0.0,
+  "averageScore" : 4.0,
+  "niceScoreHistory" : [ 4.0 ],
+  "assignedBudget" : 152.66666666666666,
   "receivedGifts" : [ {
-    "productName" : "Car",
-    "price" : 20.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Car",
-    "price" : 20.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Car",
-    "price" : 20.0,
-    "category" : "Toys"
-  }, {
     "productName" : "Car",
     "price" : 20.0,
     "category" : "Toys"
@@ -62,25 +38,13 @@
   "city" : "Timisoara",
   "niceScore" : 9.0,
   "giftsPreferences" : [ "Toys", "Technology", "Board Games", "Sweets" ],
-  "averageScore" : 0.0,
-  "niceScoreHistory" : [ 0.0, 9.0, 9.0, 2.0, 9.0 ],
-  "assignedBudget" : 0.0,
+  "averageScore" : 9.0,
+  "niceScoreHistory" : [ 9.0, 2.0 ],
+  "assignedBudget" : 196.28571428571428,
   "receivedGifts" : [ {
     "productName" : "Headphones",
     "price" : 100.0,
     "category" : "Technology"
-  }, {
-    "productName" : "Monopoly",
-    "price" : 30.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Car",
-    "price" : 20.0,
-    "category" : "Toys"
   }, {
     "productName" : "Monopoly",
     "price" : 30.0,
@@ -98,9 +62,9 @@
   "city" : "Constanta",
   "niceScore" : 5.0,
   "giftsPreferences" : [ "Books", "Toys" ],
-  "averageScore" : 0.0,
-  "niceScoreHistory" : [ 0.0, 5.0, 5.0 ],
-  "assignedBudget" : 0.0,
+  "averageScore" : 5.0,
+  "niceScoreHistory" : [ 5.0 ],
+  "assignedBudget" : 88.07692307692308,
   "receivedGifts" : [ {
     "productName" : "Diary of a Wimpy Kid",
     "price" : 25.0,
@@ -118,34 +82,10 @@
   "city" : "Bucuresti",
   "niceScore" : 7.0,
   "giftsPreferences" : [ "Books", "Sweets" ],
-  "averageScore" : 0.0,
-  "niceScoreHistory" : [ 0.0, 7.0, 7.0, 7.0, 7.0, 7.0 ],
-  "assignedBudget" : 0.0,
+  "averageScore" : 7.0,
+  "niceScoreHistory" : [ 7.0 ],
+  "assignedBudget" : 97.15151515151516,
   "receivedGifts" : [ {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
     "productName" : "Diary of a Wimpy Kid",
     "price" : 25.0,
     "category" : "Books"
@@ -162,22 +102,10 @@
   "city" : "Timisoara",
   "niceScore" : 8.0,
   "giftsPreferences" : [ "Sweets" ],
-  "averageScore" : 4.0,
-  "niceScoreHistory" : [ 0.0, 8.0, 8.0, 8.0, 8.0, 8.0 ],
-  "assignedBudget" : 987.0,
+  "averageScore" : 8.0,
+  "niceScoreHistory" : [ 8.0 ],
+  "assignedBudget" : 239.27272727272728,
   "receivedGifts" : [ {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
     "productName" : "Gummy Bears",
     "price" : 10.0,
     "category" : "Sweets"
@@ -190,22 +118,10 @@
   "city" : "Brasov",
   "niceScore" : 4.0,
   "giftsPreferences" : [ "Toys" ],
-  "averageScore" : 2.0,
-  "niceScoreHistory" : [ 0.0, 4.0, 4.0, 4.0, 4.0, 4.0 ],
-  "assignedBudget" : 329.0,
+  "averageScore" : 4.0,
+  "niceScoreHistory" : [ 4.0 ],
+  "assignedBudget" : 119.63636363636364,
   "receivedGifts" : [ {
-    "productName" : "Car",
-    "price" : 20.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Car",
-    "price" : 20.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Car",
-    "price" : 20.0,
-    "category" : "Toys"
-  }, {
     "productName" : "Car",
     "price" : 20.0,
     "category" : "Toys"
@@ -218,25 +134,13 @@
   "city" : "Timisoara",
   "niceScore" : 9.0,
   "giftsPreferences" : [ "Toys", "Technology", "Board Games", "Sweets" ],
-  "averageScore" : 6.0,
-  "niceScoreHistory" : [ 0.0, 9.0, 9.0, 2.0, 9.0 ],
-  "assignedBudget" : 493.5,
+  "averageScore" : 9.0,
+  "niceScoreHistory" : [ 9.0, 2.0 ],
+  "assignedBudget" : 269.1818181818182,
   "receivedGifts" : [ {
     "productName" : "Headphones",
     "price" : 100.0,
     "category" : "Technology"
-  }, {
-    "productName" : "Monopoly",
-    "price" : 30.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Car",
-    "price" : 20.0,
-    "category" : "Toys"
   }, {
     "productName" : "Monopoly",
     "price" : 30.0,
@@ -254,9 +158,9 @@
   "city" : "Constanta",
   "niceScore" : 5.0,
   "giftsPreferences" : [ "Books", "Toys" ],
-  "averageScore" : 3.3333333333333335,
-  "niceScoreHistory" : [ 0.0, 5.0, 5.0 ],
-  "assignedBudget" : 214.56521739130434,
+  "averageScore" : 5.0,
+  "niceScoreHistory" : [ 5.0 ],
+  "assignedBudget" : 149.54545454545456,
   "receivedGifts" : [ {
     "productName" : "Diary of a Wimpy Kid",
     "price" : 25.0,
@@ -274,34 +178,10 @@
   "city" : "Bucuresti",
   "niceScore" : 7.0,
   "giftsPreferences" : [ "Books", "Sweets" ],
-  "averageScore" : 4.666666666666667,
-  "niceScoreHistory" : [ 0.0, 7.0, 7.0, 7.0, 7.0, 7.0 ],
-  "assignedBudget" : 230.3,
+  "averageScore" : 7.0,
+  "niceScoreHistory" : [ 7.0 ],
+  "assignedBudget" : 209.36363636363637,
   "receivedGifts" : [ {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
     "productName" : "Diary of a Wimpy Kid",
     "price" : 25.0,
     "category" : "Books"
@@ -319,33 +199,9 @@
   "niceScore" : 8.0,
   "giftsPreferences" : [ "Board Games", "Toys" ],
   "averageScore" : 10.0,
-  "niceScoreHistory" : [ 0.0, 8.0, 8.0, 9.0, 8.0, 8.0, 8.0 ],
-  "assignedBudget" : 329.0,
+  "niceScoreHistory" : [ 8.0, 9.0 ],
+  "assignedBudget" : 229.53488372093022,
   "receivedGifts" : [ {
-    "productName" : "Car",
-    "price" : 20.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Monopoly",
-    "price" : 30.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Car",
-    "price" : 20.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Monopoly",
-    "price" : 30.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Car",
-    "price" : 20.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Monopoly",
-    "price" : 30.0,
-    "category" : "Board Games"
-  }, {
     "productName" : "Car",
     "price" : 20.0,
     "category" : "Toys"
@@ -358,22 +214,10 @@
   "city" : "Timisoara",
   "niceScore" : 8.0,
   "giftsPreferences" : [ "Sweets" ],
-  "averageScore" : 5.333333333333333,
-  "niceScoreHistory" : [ 0.0, 8.0, 8.0, 8.0, 8.0, 8.0 ],
-  "assignedBudget" : 64.0,
+  "averageScore" : 8.0,
+  "niceScoreHistory" : [ 8.0 ],
+  "assignedBudget" : 70.73684210526316,
   "receivedGifts" : [ {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
     "productName" : "Gummy Bears",
     "price" : 10.0,
     "category" : "Sweets"
@@ -386,22 +230,10 @@
   "city" : "Brasov",
   "niceScore" : 4.0,
   "giftsPreferences" : [ "Toys" ],
-  "averageScore" : 3.3333333333333335,
-  "niceScoreHistory" : [ 0.0, 4.0, 4.0, 4.0, 4.0, 4.0 ],
-  "assignedBudget" : 38.18181818181819,
+  "averageScore" : 4.0,
+  "niceScoreHistory" : [ 4.0 ],
+  "assignedBudget" : 35.36842105263158,
   "receivedGifts" : [ {
-    "productName" : "Car",
-    "price" : 20.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Car",
-    "price" : 20.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Car",
-    "price" : 20.0,
-    "category" : "Toys"
-  }, {
     "productName" : "Car",
     "price" : 20.0,
     "category" : "Toys"
@@ -414,29 +246,13 @@
   "city" : "Timisoara",
   "niceScore" : 9.0,
   "giftsPreferences" : [ "Toys", "Technology", "Board Games", "Sweets" ],
-  "averageScore" : 5.3,
-  "niceScoreHistory" : [ 0.0, 9.0, 9.0, 2.0, 9.0 ],
-  "assignedBudget" : 62.19324796274738,
+  "averageScore" : 4.333333333333333,
+  "niceScoreHistory" : [ 9.0, 2.0 ],
+  "assignedBudget" : 43.68000000000001,
   "receivedGifts" : [ {
-    "productName" : "Headphones",
-    "price" : 100.0,
-    "category" : "Technology"
-  }, {
-    "productName" : "Monopoly",
-    "price" : 30.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
     "productName" : "Car",
     "price" : 20.0,
     "category" : "Toys"
-  }, {
-    "productName" : "Monopoly",
-    "price" : 30.0,
-    "category" : "Board Games"
   }, {
     "productName" : "Gummy Bears",
     "price" : 10.0,
@@ -450,34 +266,10 @@
   "city" : "Bucuresti",
   "niceScore" : 7.0,
   "giftsPreferences" : [ "Books", "Sweets" ],
-  "averageScore" : 5.833333333333333,
-  "niceScoreHistory" : [ 0.0, 7.0, 7.0, 7.0, 7.0, 7.0 ],
-  "assignedBudget" : 65.77181208053692,
+  "averageScore" : 7.0,
+  "niceScoreHistory" : [ 7.0 ],
+  "assignedBudget" : 70.56000000000002,
   "receivedGifts" : [ {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
     "productName" : "Diary of a Wimpy Kid",
     "price" : 25.0,
     "category" : "Books"
@@ -494,30 +286,10 @@
   "city" : "Craiova",
   "niceScore" : 8.0,
   "giftsPreferences" : [ "Board Games", "Toys" ],
-  "averageScore" : 6.25,
-  "niceScoreHistory" : [ 0.0, 8.0, 8.0, 9.0, 8.0, 8.0, 8.0 ],
-  "assignedBudget" : 80.61420345489444,
+  "averageScore" : 8.5,
+  "niceScoreHistory" : [ 8.0, 9.0 ],
+  "assignedBudget" : 89.717277486911,
   "receivedGifts" : [ {
-    "productName" : "Car",
-    "price" : 20.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Monopoly",
-    "price" : 30.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Car",
-    "price" : 20.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Monopoly",
-    "price" : 30.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Car",
-    "price" : 20.0,
-    "category" : "Toys"
-  }, {
     "productName" : "Monopoly",
     "price" : 30.0,
     "category" : "Board Games"
@@ -534,22 +306,10 @@
   "city" : "Timisoara",
   "niceScore" : 8.0,
   "giftsPreferences" : [ "Sweets" ],
-  "averageScore" : 6.0,
-  "niceScoreHistory" : [ 0.0, 8.0, 8.0, 8.0, 8.0, 8.0 ],
-  "assignedBudget" : 273.7120622568093,
+  "averageScore" : 8.0,
+  "niceScoreHistory" : [ 8.0 ],
+  "assignedBudget" : 284.2181818181818,
   "receivedGifts" : [ {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
     "productName" : "Gummy Bears",
     "price" : 10.0,
     "category" : "Sweets"
@@ -562,22 +322,10 @@
   "city" : "Brasov",
   "niceScore" : 4.0,
   "giftsPreferences" : [ "Toys" ],
-  "averageScore" : 3.6,
-  "niceScoreHistory" : [ 0.0, 4.0, 4.0, 4.0, 4.0, 4.0 ],
-  "assignedBudget" : 162.2075326671791,
+  "averageScore" : 4.0,
+  "niceScoreHistory" : [ 4.0 ],
+  "assignedBudget" : 142.1090909090909,
   "receivedGifts" : [ {
-    "productName" : "Car",
-    "price" : 20.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Car",
-    "price" : 20.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Car",
-    "price" : 20.0,
-    "category" : "Toys"
-  }, {
     "productName" : "Car",
     "price" : 20.0,
     "category" : "Toys"
@@ -590,34 +338,10 @@
   "city" : "Bucuresti",
   "niceScore" : 7.0,
   "giftsPreferences" : [ "Books", "Sweets" ],
-  "averageScore" : 6.3,
-  "niceScoreHistory" : [ 0.0, 7.0, 7.0, 7.0, 7.0, 7.0 ],
-  "assignedBudget" : 277.882618510158,
+  "averageScore" : 7.0,
+  "niceScoreHistory" : [ 7.0 ],
+  "assignedBudget" : 248.69090909090906,
   "receivedGifts" : [ {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
     "productName" : "Diary of a Wimpy Kid",
     "price" : 25.0,
     "category" : "Books"
@@ -634,30 +358,10 @@
   "city" : "Craiova",
   "niceScore" : 8.0,
   "giftsPreferences" : [ "Board Games", "Toys" ],
-  "averageScore" : 6.6,
-  "niceScoreHistory" : [ 0.0, 8.0, 8.0, 9.0, 8.0, 8.0, 8.0 ],
-  "assignedBudget" : 286.58666666666664,
+  "averageScore" : 8.5,
+  "niceScoreHistory" : [ 8.0, 9.0 ],
+  "assignedBudget" : 301.98181818181814,
   "receivedGifts" : [ {
-    "productName" : "Car",
-    "price" : 20.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Monopoly",
-    "price" : 30.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Car",
-    "price" : 20.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Monopoly",
-    "price" : 30.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Car",
-    "price" : 20.0,
-    "category" : "Toys"
-  }, {
     "productName" : "Monopoly",
     "price" : 30.0,
     "category" : "Board Games"
@@ -674,22 +378,10 @@
   "city" : "Timisoara",
   "niceScore" : 8.0,
   "giftsPreferences" : [ "Sweets" ],
-  "averageScore" : 7.466666666666667,
-  "niceScoreHistory" : [ 0.0, 8.0, 8.0, 8.0, 8.0, 8.0 ],
-  "assignedBudget" : 117.1404728789986,
+  "averageScore" : 8.0,
+  "niceScoreHistory" : [ 8.0 ],
+  "assignedBudget" : 109.38181818181818,
   "receivedGifts" : [ {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
     "productName" : "Gummy Bears",
     "price" : 10.0,
     "category" : "Sweets"
@@ -702,22 +394,10 @@
   "city" : "Brasov",
   "niceScore" : 4.0,
   "giftsPreferences" : [ "Toys" ],
-  "averageScore" : 3.7333333333333334,
-  "niceScoreHistory" : [ 0.0, 4.0, 4.0, 4.0, 4.0, 4.0 ],
-  "assignedBudget" : 58.24619640387275,
+  "averageScore" : 4.0,
+  "niceScoreHistory" : [ 4.0 ],
+  "assignedBudget" : 54.69090909090909,
   "receivedGifts" : [ {
-    "productName" : "Car",
-    "price" : 20.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Car",
-    "price" : 20.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Car",
-    "price" : 20.0,
-    "category" : "Toys"
-  }, {
     "productName" : "Car",
     "price" : 20.0,
     "category" : "Toys"
@@ -730,34 +410,10 @@
   "city" : "Bucuresti",
   "niceScore" : 7.0,
   "giftsPreferences" : [ "Books", "Sweets" ],
-  "averageScore" : 6.533333333333333,
-  "niceScoreHistory" : [ 0.0, 7.0, 7.0, 7.0, 7.0, 7.0 ],
-  "assignedBudget" : 100.95342465753423,
+  "averageScore" : 7.0,
+  "niceScoreHistory" : [ 7.0 ],
+  "assignedBudget" : 95.7090909090909,
   "receivedGifts" : [ {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
     "productName" : "Diary of a Wimpy Kid",
     "price" : 25.0,
     "category" : "Books"
@@ -774,30 +430,10 @@
   "city" : "Craiova",
   "niceScore" : 8.0,
   "giftsPreferences" : [ "Board Games", "Toys" ],
-  "averageScore" : 6.833333333333333,
-  "niceScoreHistory" : [ 0.0, 8.0, 8.0, 9.0, 8.0, 8.0, 8.0 ],
-  "assignedBudget" : 104.58616010854816,
+  "averageScore" : 8.5,
+  "niceScoreHistory" : [ 8.0, 9.0 ],
+  "assignedBudget" : 116.21818181818182,
   "receivedGifts" : [ {
-    "productName" : "Car",
-    "price" : 20.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Monopoly",
-    "price" : 30.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Car",
-    "price" : 20.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Monopoly",
-    "price" : 30.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Car",
-    "price" : 20.0,
-    "category" : "Toys"
-  }, {
     "productName" : "Monopoly",
     "price" : 30.0,
     "category" : "Board Games"

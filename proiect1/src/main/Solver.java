@@ -46,6 +46,9 @@ public final class Solver {
         List<Child> children = SantaClaus.getInstance().getChildren();
 
         for (Child child : children) {
+            // setarea unor noi caoduri pentru o noua runda
+            child.setReceivedGifts(new ArrayList<>());
+
             // pentru fiecare copil, caut o stratgie pentru a calcula average score
             AverageScoreStrategy strategy = StrategyFactory.createStrategy(child);
             if (strategy != null) {
@@ -62,8 +65,6 @@ public final class Solver {
                 // se distribuie cadourile pentru fiecare copil
                 distributeGifts(child);
 
-            } else {
-                System.out.println("Young adult");
             }
         }
     }

@@ -6,9 +6,9 @@
   "city" : "Cluj-Napoca",
   "niceScore" : 2.0,
   "giftsPreferences" : [ "Clothes", "Toys" ],
-  "averageScore" : 0.0,
-  "niceScoreHistory" : [ 0.0, 2.0, 2.0 ],
-  "assignedBudget" : 0.0,
+  "averageScore" : 2.0,
+  "niceScoreHistory" : [ 2.0 ],
+  "assignedBudget" : 527.0,
   "receivedGifts" : [ {
     "productName" : "Shoes",
     "price" : 70.0,
@@ -26,14 +26,10 @@
   "city" : "Iasi",
   "niceScore" : 8.0,
   "giftsPreferences" : [ "Toys" ],
-  "averageScore" : 0.0,
-  "niceScoreHistory" : [ 0.0, 8.0, 8.0, 8.0 ],
-  "assignedBudget" : 0.0,
+  "averageScore" : 8.0,
+  "niceScoreHistory" : [ 8.0 ],
+  "assignedBudget" : 421.6,
   "receivedGifts" : [ {
-    "productName" : "Doll",
-    "price" : 10.0,
-    "category" : "Toys"
-  }, {
     "productName" : "Doll",
     "price" : 10.0,
     "category" : "Toys"
@@ -46,26 +42,10 @@
   "city" : "Brasov",
   "niceScore" : 10.0,
   "giftsPreferences" : [ "Technology", "Clothes" ],
-  "averageScore" : 0.0,
-  "niceScoreHistory" : [ 0.0, 10.0, 10.0, 10.0, 10.0 ],
-  "assignedBudget" : 0.0,
+  "averageScore" : 10.0,
+  "niceScoreHistory" : [ 10.0 ],
+  "assignedBudget" : 263.5,
   "receivedGifts" : [ {
-    "productName" : "Headphones",
-    "price" : 100.0,
-    "category" : "Technology"
-  }, {
-    "productName" : "Shoes",
-    "price" : 70.0,
-    "category" : "Clothes"
-  }, {
-    "productName" : "Headphones",
-    "price" : 100.0,
-    "category" : "Technology"
-  }, {
-    "productName" : "Shoes",
-    "price" : 70.0,
-    "category" : "Clothes"
-  }, {
     "productName" : "Headphones",
     "price" : 100.0,
     "category" : "Technology"
@@ -82,14 +62,10 @@
   "city" : "Cluj-Napoca",
   "niceScore" : 2.0,
   "giftsPreferences" : [ "Clothes", "Toys" ],
-  "averageScore" : 1.3333333333333333,
-  "niceScoreHistory" : [ 0.0, 2.0, 2.0 ],
-  "assignedBudget" : 500.0,
+  "averageScore" : 2.0,
+  "niceScoreHistory" : [ 2.0 ],
+  "assignedBudget" : 50.0,
   "receivedGifts" : [ {
-    "productName" : "Shoes",
-    "price" : 70.0,
-    "category" : "Clothes"
-  }, {
     "productName" : "Doll",
     "price" : 10.0,
     "category" : "Toys"
@@ -102,14 +78,10 @@
   "city" : "Iasi",
   "niceScore" : 8.0,
   "giftsPreferences" : [ "Toys" ],
-  "averageScore" : 5.333333333333333,
-  "niceScoreHistory" : [ 0.0, 8.0, 8.0, 8.0 ],
-  "assignedBudget" : 400.0,
+  "averageScore" : 8.0,
+  "niceScoreHistory" : [ 8.0 ],
+  "assignedBudget" : 200.0,
   "receivedGifts" : [ {
-    "productName" : "Doll",
-    "price" : 10.0,
-    "category" : "Toys"
-  }, {
     "productName" : "Doll",
     "price" : 10.0,
     "category" : "Toys"
@@ -122,26 +94,10 @@
   "city" : "Brasov",
   "niceScore" : 10.0,
   "giftsPreferences" : [ "Technology", "Clothes" ],
-  "averageScore" : 6.666666666666667,
-  "niceScoreHistory" : [ 0.0, 10.0, 10.0, 10.0, 10.0 ],
+  "averageScore" : 10.0,
+  "niceScoreHistory" : [ 10.0 ],
   "assignedBudget" : 250.0,
   "receivedGifts" : [ {
-    "productName" : "Headphones",
-    "price" : 100.0,
-    "category" : "Technology"
-  }, {
-    "productName" : "Shoes",
-    "price" : 70.0,
-    "category" : "Clothes"
-  }, {
-    "productName" : "Headphones",
-    "price" : 100.0,
-    "category" : "Technology"
-  }, {
-    "productName" : "Shoes",
-    "price" : 70.0,
-    "category" : "Clothes"
-  }, {
     "productName" : "Headphones",
     "price" : 100.0,
     "category" : "Technology"
@@ -158,14 +114,10 @@
   "city" : "Iasi",
   "niceScore" : 8.0,
   "giftsPreferences" : [ "Toys" ],
-  "averageScore" : 6.666666666666667,
-  "niceScoreHistory" : [ 0.0, 8.0, 8.0, 8.0 ],
-  "assignedBudget" : 328.5,
+  "averageScore" : 8.0,
+  "niceScoreHistory" : [ 8.0 ],
+  "assignedBudget" : 292.0,
   "receivedGifts" : [ {
-    "productName" : "Doll",
-    "price" : 10.0,
-    "category" : "Toys"
-  }, {
     "productName" : "Doll",
     "price" : 10.0,
     "category" : "Toys"
@@ -178,26 +130,10 @@
   "city" : "Brasov",
   "niceScore" : 10.0,
   "giftsPreferences" : [ "Technology", "Clothes" ],
-  "averageScore" : 8.333333333333334,
-  "niceScoreHistory" : [ 0.0, 10.0, 10.0, 10.0, 10.0 ],
+  "averageScore" : 10.0,
+  "niceScoreHistory" : [ 10.0 ],
   "assignedBudget" : 365.0,
   "receivedGifts" : [ {
-    "productName" : "Headphones",
-    "price" : 100.0,
-    "category" : "Technology"
-  }, {
-    "productName" : "Shoes",
-    "price" : 70.0,
-    "category" : "Clothes"
-  }, {
-    "productName" : "Headphones",
-    "price" : 100.0,
-    "category" : "Technology"
-  }, {
-    "productName" : "Shoes",
-    "price" : 70.0,
-    "category" : "Clothes"
-  }, {
     "productName" : "Headphones",
     "price" : 100.0,
     "category" : "Technology"
@@ -214,26 +150,10 @@
   "city" : "Brasov",
   "niceScore" : 10.0,
   "giftsPreferences" : [ "Technology", "Clothes" ],
-  "averageScore" : 9.0,
-  "niceScoreHistory" : [ 0.0, 10.0, 10.0, 10.0, 10.0 ],
+  "averageScore" : 10.0,
+  "niceScoreHistory" : [ 10.0 ],
   "assignedBudget" : 890.0,
   "receivedGifts" : [ {
-    "productName" : "Headphones",
-    "price" : 100.0,
-    "category" : "Technology"
-  }, {
-    "productName" : "Shoes",
-    "price" : 70.0,
-    "category" : "Clothes"
-  }, {
-    "productName" : "Headphones",
-    "price" : 100.0,
-    "category" : "Technology"
-  }, {
-    "productName" : "Shoes",
-    "price" : 70.0,
-    "category" : "Clothes"
-  }, {
     "productName" : "Headphones",
     "price" : 100.0,
     "category" : "Technology"

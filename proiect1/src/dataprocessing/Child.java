@@ -22,7 +22,7 @@ public final class Child {
     // every child is from a city
     private Cities city;
 
-    // every child is from a goodness score
+    // every child has a goodness score
     private Double niceScore;
 
     // every child has a list of wishes
@@ -68,7 +68,7 @@ public final class Child {
         this.niceScoreHistory = newChild.getNiceScoreHistory();
         this.assignedBudget = newChild.getAssignedBudget();
         this.receivedGifts = newChild.getReceivedGifts();
-        this.niceScoreHistory.add(niceScore);
+        //this.niceScoreHistory.add(niceScore);
     }
 
     public Integer getId() {

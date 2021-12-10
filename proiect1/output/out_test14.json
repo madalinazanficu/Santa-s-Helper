@@ -7,65 +7,9 @@
   "niceScore" : 9.0,
   "giftsPreferences" : [ "Sweets", "Books" ],
   "averageScore" : 10.0,
-  "niceScoreHistory" : [ 0.0, 9.0, 9.0, 8.0, 9.0, 9.0, 9.0, 9.0, 9.0, 9.0 ],
+  "niceScoreHistory" : [ 9.0, 8.0 ],
   "assignedBudget" : 223.0,
   "receivedGifts" : [ {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
     "productName" : "Gummy Bears",
     "price" : 10.0,
     "category" : "Sweets"
@@ -82,30 +26,14 @@
   "city" : "Constanta",
   "niceScore" : 4.0,
   "giftsPreferences" : [ "Sweets", "Board Games", "Books", "Toys" ],
-  "averageScore" : 0.0,
-  "niceScoreHistory" : [ 0.0, 4.0, 4.0, 4.0, 4.0, 4.0, 4.0, 4.0, 4.0 ],
-  "assignedBudget" : 0.0,
+  "averageScore" : 4.0,
+  "niceScoreHistory" : [ 4.0 ],
+  "assignedBudget" : 63.714285714285715,
   "receivedGifts" : [ {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
     "productName" : "Castle",
     "price" : 15.0,
     "category" : "Toys"
   }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
     "productName" : "Uno",
     "price" : 10.0,
     "category" : "Board Games"
@@ -113,50 +41,6 @@
     "productName" : "Gummy Bears",
     "price" : 10.0,
     "category" : "Sweets"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
   } ]
 }, {
   "id" : 2,
@@ -166,34 +50,10 @@
   "city" : "Brasov",
   "niceScore" : 6.0,
   "giftsPreferences" : [ "Board Games" ],
-  "averageScore" : 0.0,
-  "niceScoreHistory" : [ 0.0, 6.0, 6.0, 6.0, 6.0, 6.0, 6.0, 6.0, 6.0 ],
-  "assignedBudget" : 0.0,
+  "averageScore" : 6.0,
+  "niceScoreHistory" : [ 6.0 ],
+  "assignedBudget" : 66.9,
   "receivedGifts" : [ {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
     "productName" : "Uno",
     "price" : 10.0,
     "category" : "Board Games"
@@ -206,9 +66,9 @@
   "city" : "Timisoara",
   "niceScore" : 6.0,
   "giftsPreferences" : [ "Toys", "Books" ],
-  "averageScore" : 0.0,
-  "niceScoreHistory" : [ 0.0, 6.0, 0.0, 6.0 ],
-  "assignedBudget" : 0.0,
+  "averageScore" : 6.0,
+  "niceScoreHistory" : [ 6.0, 0.0 ],
+  "assignedBudget" : 51.46153846153846,
   "receivedGifts" : [ {
     "productName" : "Castle",
     "price" : 15.0,
@@ -227,65 +87,9 @@
   "niceScore" : 9.0,
   "giftsPreferences" : [ "Sweets", "Books" ],
   "averageScore" : 10.0,
-  "niceScoreHistory" : [ 0.0, 9.0, 9.0, 8.0, 9.0, 9.0, 9.0, 9.0, 9.0, 9.0 ],
-  "assignedBudget" : 919.0,
+  "niceScoreHistory" : [ 9.0, 8.0 ],
+  "assignedBudget" : 353.46153846153845,
   "receivedGifts" : [ {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
     "productName" : "Gummy Bears",
     "price" : 10.0,
     "category" : "Sweets"
@@ -302,9 +106,9 @@
   "city" : "Constanta",
   "niceScore" : 4.0,
   "giftsPreferences" : [ "Sweets", "Board Games", "Books", "Toys" ],
-  "averageScore" : 2.0,
-  "niceScoreHistory" : [ 0.0, 4.0, 4.0, 4.0, 4.0, 4.0, 4.0, 4.0, 4.0 ],
-  "assignedBudget" : 153.16666666666666,
+  "averageScore" : 4.0,
+  "niceScoreHistory" : [ 4.0 ],
+  "assignedBudget" : 141.3846153846154,
   "receivedGifts" : [ {
     "productName" : "Gummy Bears",
     "price" : 10.0,
@@ -321,62 +125,6 @@
     "productName" : "Castle",
     "price" : 15.0,
     "category" : "Toys"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
   } ]
 }, {
   "id" : 2,
@@ -386,34 +134,10 @@
   "city" : "Brasov",
   "niceScore" : 6.0,
   "giftsPreferences" : [ "Board Games" ],
-  "averageScore" : 3.0,
-  "niceScoreHistory" : [ 0.0, 6.0, 6.0, 6.0, 6.0, 6.0, 6.0, 6.0, 6.0 ],
-  "assignedBudget" : 183.8,
+  "averageScore" : 6.0,
+  "niceScoreHistory" : [ 6.0 ],
+  "assignedBudget" : 212.0769230769231,
   "receivedGifts" : [ {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
     "productName" : "Uno",
     "price" : 10.0,
     "category" : "Board Games"
@@ -427,8 +151,8 @@
   "niceScore" : 6.0,
   "giftsPreferences" : [ "Toys", "Books" ],
   "averageScore" : 2.0,
-  "niceScoreHistory" : [ 0.0, 6.0, 0.0, 6.0 ],
-  "assignedBudget" : 108.11764705882354,
+  "niceScoreHistory" : [ 6.0, 0.0 ],
+  "assignedBudget" : 83.54545454545455,
   "receivedGifts" : [ {
     "productName" : "Castle",
     "price" : 15.0,
@@ -446,58 +170,10 @@
   "city" : "Braila",
   "niceScore" : 8.0,
   "giftsPreferences" : [ "Sweets", "Board Games" ],
-  "averageScore" : 4.0,
-  "niceScoreHistory" : [ 0.0, 8.0, 8.0, 8.0, 8.0, 0.0, 8.0, 8.0, 8.0, 8.0 ],
-  "assignedBudget" : 175.04761904761904,
+  "averageScore" : 8.0,
+  "niceScoreHistory" : [ 8.0, 0.0 ],
+  "assignedBudget" : 245.06666666666666,
   "receivedGifts" : [ {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
     "productName" : "Gummy Bears",
     "price" : 10.0,
     "category" : "Sweets"
@@ -515,57 +191,9 @@
   "niceScore" : 8.0,
   "giftsPreferences" : [ "Toys", "Sweets" ],
   "averageScore" : 10.0,
-  "niceScoreHistory" : [ 0.0, 8.0, 8.0, 8.0, 8.0, 8.0, 8.0, 8.0, 8.0 ],
-  "assignedBudget" : 296.4516129032258,
+  "niceScoreHistory" : [ 8.0 ],
+  "assignedBudget" : 229.75,
   "receivedGifts" : [ {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
     "productName" : "Castle",
     "price" : 15.0,
     "category" : "Toys"
@@ -583,65 +211,9 @@
   "niceScore" : 9.0,
   "giftsPreferences" : [ "Sweets", "Books" ],
   "averageScore" : 10.0,
-  "niceScoreHistory" : [ 0.0, 9.0, 9.0, 8.0, 9.0, 9.0, 9.0, 9.0, 9.0, 9.0 ],
-  "assignedBudget" : 76.89655172413792,
+  "niceScoreHistory" : [ 9.0, 8.0 ],
+  "assignedBudget" : 58.68421052631579,
   "receivedGifts" : [ {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
     "productName" : "Gummy Bears",
     "price" : 10.0,
     "category" : "Sweets"
@@ -658,9 +230,9 @@
   "city" : "Constanta",
   "niceScore" : 4.0,
   "giftsPreferences" : [ "Sweets", "Board Games", "Books", "Toys" ],
-  "averageScore" : 2.6666666666666665,
-  "niceScoreHistory" : [ 0.0, 4.0, 4.0, 4.0, 4.0, 4.0, 4.0, 4.0, 4.0 ],
-  "assignedBudget" : 20.04494382022472,
+  "averageScore" : 4.0,
+  "niceScoreHistory" : [ 4.0 ],
+  "assignedBudget" : 23.473684210526315,
   "receivedGifts" : [ {
     "productName" : "Gummy Bears",
     "price" : 10.0,
@@ -669,70 +241,6 @@
     "productName" : "Uno",
     "price" : 10.0,
     "category" : "Board Games"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
   } ]
 }, {
   "id" : 2,
@@ -742,34 +250,10 @@
   "city" : "Brasov",
   "niceScore" : 6.0,
   "giftsPreferences" : [ "Board Games" ],
-  "averageScore" : 4.0,
-  "niceScoreHistory" : [ 0.0, 6.0, 6.0, 6.0, 6.0, 6.0, 6.0, 6.0, 6.0 ],
-  "assignedBudget" : 29.086956521739133,
+  "averageScore" : 6.0,
+  "niceScoreHistory" : [ 6.0 ],
+  "assignedBudget" : 35.21052631578947,
   "receivedGifts" : [ {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
     "productName" : "Uno",
     "price" : 10.0,
     "category" : "Board Games"
@@ -782,58 +266,10 @@
   "city" : "Braila",
   "niceScore" : 8.0,
   "giftsPreferences" : [ "Sweets", "Board Games" ],
-  "averageScore" : 5.333333333333333,
-  "niceScoreHistory" : [ 0.0, 8.0, 8.0, 8.0, 8.0, 0.0, 8.0, 8.0, 8.0, 8.0 ],
-  "assignedBudget" : 37.16666666666667,
+  "averageScore" : 8.0,
+  "niceScoreHistory" : [ 8.0, 0.0 ],
+  "assignedBudget" : 46.94736842105263,
   "receivedGifts" : [ {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
     "productName" : "Gummy Bears",
     "price" : 10.0,
     "category" : "Sweets"
@@ -851,57 +287,9 @@
   "niceScore" : 8.0,
   "giftsPreferences" : [ "Toys", "Sweets" ],
   "averageScore" : 10.0,
-  "niceScoreHistory" : [ 0.0, 8.0, 8.0, 8.0, 8.0, 8.0, 8.0, 8.0, 8.0 ],
-  "assignedBudget" : 69.68750000000001,
+  "niceScoreHistory" : [ 8.0 ],
+  "assignedBudget" : 58.68421052631579,
   "receivedGifts" : [ {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
     "productName" : "Castle",
     "price" : 15.0,
     "category" : "Toys"
@@ -918,42 +306,10 @@
   "city" : "Braila",
   "niceScore" : 10.0,
   "giftsPreferences" : [ "Toys", "Sweets" ],
-  "averageScore" : 6.666666666666667,
-  "niceScoreHistory" : [ 0.0, 10.0, 10.0, 10.0, 7.0, 10.0, 10.0, 10.0 ],
-  "assignedBudget" : 38.44827586206897,
+  "averageScore" : 10.0,
+  "niceScoreHistory" : [ 10.0, 7.0 ],
+  "assignedBudget" : 46.45833333333333,
   "receivedGifts" : [ {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
     "productName" : "Castle",
     "price" : 15.0,
     "category" : "Toys"
@@ -971,65 +327,9 @@
   "niceScore" : 9.0,
   "giftsPreferences" : [ "Sweets", "Books" ],
   "averageScore" : 10.0,
-  "niceScoreHistory" : [ 0.0, 9.0, 9.0, 8.0, 9.0, 9.0, 9.0, 9.0, 9.0, 9.0 ],
-  "assignedBudget" : 57.67241379310345,
+  "niceScoreHistory" : [ 9.0, 8.0 ],
+  "assignedBudget" : 46.45833333333333,
   "receivedGifts" : [ {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
     "productName" : "Gummy Bears",
     "price" : 10.0,
     "category" : "Sweets"
@@ -1046,81 +346,13 @@
   "city" : "Constanta",
   "niceScore" : 4.0,
   "giftsPreferences" : [ "Sweets", "Board Games", "Books", "Toys" ],
-  "averageScore" : 3.0,
-  "niceScoreHistory" : [ 0.0, 4.0, 4.0, 4.0, 4.0, 4.0, 4.0, 4.0, 4.0 ],
-  "assignedBudget" : 17.153846153846157,
+  "averageScore" : 4.0,
+  "niceScoreHistory" : [ 4.0 ],
+  "assignedBudget" : 18.583333333333332,
   "receivedGifts" : [ {
     "productName" : "Gummy Bears",
     "price" : 10.0,
     "category" : "Sweets"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
   } ]
 }, {
   "id" : 2,
@@ -1130,34 +362,10 @@
   "city" : "Brasov",
   "niceScore" : 6.0,
   "giftsPreferences" : [ "Board Games" ],
-  "averageScore" : 5.4,
-  "niceScoreHistory" : [ 0.0, 6.0, 6.0, 6.0, 6.0, 6.0, 6.0, 6.0, 6.0 ],
-  "assignedBudget" : 29.806930693069308,
+  "averageScore" : 6.0,
+  "niceScoreHistory" : [ 6.0 ],
+  "assignedBudget" : 27.875,
   "receivedGifts" : [ {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
     "productName" : "Uno",
     "price" : 10.0,
     "category" : "Board Games"
@@ -1170,58 +378,10 @@
   "city" : "Braila",
   "niceScore" : 8.0,
   "giftsPreferences" : [ "Sweets", "Board Games" ],
-  "averageScore" : 6.0,
-  "niceScoreHistory" : [ 0.0, 8.0, 8.0, 8.0, 8.0, 0.0, 8.0, 8.0, 8.0, 8.0 ],
-  "assignedBudget" : 32.58116883116884,
+  "averageScore" : 8.0,
+  "niceScoreHistory" : [ 8.0, 0.0 ],
+  "assignedBudget" : 37.166666666666664,
   "receivedGifts" : [ {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
     "productName" : "Gummy Bears",
     "price" : 10.0,
     "category" : "Sweets"
@@ -1238,58 +398,10 @@
   "city" : "Cluj-Napoca",
   "niceScore" : 8.0,
   "giftsPreferences" : [ "Toys", "Sweets" ],
-  "averageScore" : 6.0,
-  "niceScoreHistory" : [ 0.0, 8.0, 8.0, 8.0, 8.0, 8.0, 8.0, 8.0, 8.0 ],
-  "assignedBudget" : 36.09712230215828,
+  "averageScore" : 8.0,
+  "niceScoreHistory" : [ 8.0 ],
+  "assignedBudget" : 38.78260869565217,
   "receivedGifts" : [ {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
     "productName" : "Castle",
     "price" : 15.0,
     "category" : "Toys"
@@ -1306,42 +418,10 @@
   "city" : "Braila",
   "niceScore" : 10.0,
   "giftsPreferences" : [ "Toys", "Sweets" ],
-  "averageScore" : 8.333333333333334,
-  "niceScoreHistory" : [ 0.0, 10.0, 10.0, 10.0, 7.0, 10.0, 10.0, 10.0 ],
-  "assignedBudget" : 47.9776247848537,
+  "averageScore" : 10.0,
+  "niceScoreHistory" : [ 10.0, 7.0 ],
+  "assignedBudget" : 48.47826086956522,
   "receivedGifts" : [ {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
     "productName" : "Castle",
     "price" : 15.0,
     "category" : "Toys"
@@ -1358,66 +438,10 @@
   "city" : "Brasov",
   "niceScore" : 9.0,
   "giftsPreferences" : [ "Sweets", "Books" ],
-  "averageScore" : 7.333333333333333,
-  "niceScoreHistory" : [ 0.0, 9.0, 9.0, 8.0, 9.0, 9.0, 9.0, 9.0, 9.0, 9.0 ],
-  "assignedBudget" : 87.22735674676524,
+  "averageScore" : 8.5,
+  "niceScoreHistory" : [ 9.0, 8.0 ],
+  "assignedBudget" : 81.94382022471909,
   "receivedGifts" : [ {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
     "productName" : "Gummy Bears",
     "price" : 10.0,
     "category" : "Sweets"
@@ -1434,9 +458,9 @@
   "city" : "Constanta",
   "niceScore" : 4.0,
   "giftsPreferences" : [ "Sweets", "Board Games", "Books", "Toys" ],
-  "averageScore" : 3.7333333333333334,
-  "niceScoreHistory" : [ 0.0, 4.0, 4.0, 4.0, 4.0, 4.0, 4.0, 4.0, 4.0 ],
-  "assignedBudget" : 43.521739130434774,
+  "averageScore" : 4.0,
+  "niceScoreHistory" : [ 4.0 ],
+  "assignedBudget" : 38.561797752808985,
   "receivedGifts" : [ {
     "productName" : "Gummy Bears",
     "price" : 10.0,
@@ -1446,69 +470,9 @@
     "price" : 10.0,
     "category" : "Board Games"
   }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
     "productName" : "Castle",
     "price" : 15.0,
     "category" : "Toys"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
   } ]
 }, {
   "id" : 2,
@@ -1518,34 +482,10 @@
   "city" : "Brasov",
   "niceScore" : 6.0,
   "giftsPreferences" : [ "Board Games" ],
-  "averageScore" : 5.6,
-  "niceScoreHistory" : [ 0.0, 6.0, 6.0, 6.0, 6.0, 6.0, 6.0, 6.0, 6.0 ],
-  "assignedBudget" : 64.92972972972973,
+  "averageScore" : 6.0,
+  "niceScoreHistory" : [ 6.0 ],
+  "assignedBudget" : 57.84269662921348,
   "receivedGifts" : [ {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
     "productName" : "Uno",
     "price" : 10.0,
     "category" : "Board Games"
@@ -1558,58 +498,10 @@
   "city" : "Braila",
   "niceScore" : 8.0,
   "giftsPreferences" : [ "Sweets", "Board Games" ],
-  "averageScore" : 5.333333333333333,
-  "niceScoreHistory" : [ 0.0, 8.0, 8.0, 8.0, 8.0, 0.0, 8.0, 8.0, 8.0, 8.0 ],
-  "assignedBudget" : 62.97247706422019,
+  "averageScore" : 4.0,
+  "niceScoreHistory" : [ 8.0, 0.0 ],
+  "assignedBudget" : 42.370370370370374,
   "receivedGifts" : [ {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
     "productName" : "Gummy Bears",
     "price" : 10.0,
     "category" : "Sweets"
@@ -1626,58 +518,10 @@
   "city" : "Cluj-Napoca",
   "niceScore" : 8.0,
   "giftsPreferences" : [ "Toys", "Sweets" ],
-  "averageScore" : 6.4,
-  "niceScoreHistory" : [ 0.0, 8.0, 8.0, 8.0, 8.0, 8.0, 8.0, 8.0, 8.0 ],
-  "assignedBudget" : 74.74410163339383,
+  "averageScore" : 8.0,
+  "niceScoreHistory" : [ 8.0 ],
+  "assignedBudget" : 84.74074074074075,
   "receivedGifts" : [ {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
     "productName" : "Castle",
     "price" : 15.0,
     "category" : "Toys"
@@ -1694,42 +538,10 @@
   "city" : "Braila",
   "niceScore" : 10.0,
   "giftsPreferences" : [ "Toys", "Sweets" ],
-  "averageScore" : 8.333333333333334,
-  "niceScoreHistory" : [ 0.0, 10.0, 10.0, 10.0, 7.0, 10.0, 10.0, 10.0 ],
-  "assignedBudget" : 97.32304900181488,
+  "averageScore" : 8.0,
+  "niceScoreHistory" : [ 10.0, 7.0 ],
+  "assignedBudget" : 89.14285714285714,
   "receivedGifts" : [ {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
     "productName" : "Castle",
     "price" : 15.0,
     "category" : "Toys"
@@ -1746,34 +558,10 @@
   "city" : "Braila",
   "niceScore" : 7.0,
   "giftsPreferences" : [ "Toys", "Board Games" ],
-  "averageScore" : 3.5,
-  "niceScoreHistory" : [ 0.0, 7.0, 7.0, 7.0, 7.0, 7.0 ],
-  "assignedBudget" : 37.31980115990058,
+  "averageScore" : 7.0,
+  "niceScoreHistory" : [ 7.0 ],
+  "assignedBudget" : 66.0,
   "receivedGifts" : [ {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
     "productName" : "Uno",
     "price" : 10.0,
     "category" : "Board Games"
@@ -1786,66 +574,10 @@
   "city" : "Brasov",
   "niceScore" : 9.0,
   "giftsPreferences" : [ "Sweets", "Books" ],
-  "averageScore" : 7.571428571428571,
-  "niceScoreHistory" : [ 0.0, 9.0, 9.0, 8.0, 9.0, 9.0, 9.0, 9.0, 9.0, 9.0 ],
-  "assignedBudget" : 53.505118249205786,
+  "averageScore" : 8.5,
+  "niceScoreHistory" : [ 9.0, 8.0 ],
+  "assignedBudget" : 53.42857142857143,
   "receivedGifts" : [ {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
     "productName" : "Gummy Bears",
     "price" : 10.0,
     "category" : "Sweets"
@@ -1862,9 +594,9 @@
   "city" : "Constanta",
   "niceScore" : 4.0,
   "giftsPreferences" : [ "Sweets", "Board Games", "Books", "Toys" ],
-  "averageScore" : 3.8095238095238093,
-  "niceScoreHistory" : [ 0.0, 4.0, 4.0, 4.0, 4.0, 4.0, 4.0, 4.0, 4.0 ],
-  "assignedBudget" : 26.870229007633586,
+  "averageScore" : 4.0,
+  "niceScoreHistory" : [ 4.0 ],
+  "assignedBudget" : 25.142857142857142,
   "receivedGifts" : [ {
     "productName" : "Gummy Bears",
     "price" : 10.0,
@@ -1873,70 +605,6 @@
     "productName" : "Uno",
     "price" : 10.0,
     "category" : "Board Games"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
   } ]
 }, {
   "id" : 2,
@@ -1946,34 +614,10 @@
   "city" : "Brasov",
   "niceScore" : 6.0,
   "giftsPreferences" : [ "Board Games" ],
-  "averageScore" : 5.714285714285714,
-  "niceScoreHistory" : [ 0.0, 6.0, 6.0, 6.0, 6.0, 6.0, 6.0, 6.0, 6.0 ],
-  "assignedBudget" : 40.19205996018269,
+  "averageScore" : 6.0,
+  "niceScoreHistory" : [ 6.0 ],
+  "assignedBudget" : 37.714285714285715,
   "receivedGifts" : [ {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
     "productName" : "Uno",
     "price" : 10.0,
     "category" : "Board Games"
@@ -1986,58 +630,10 @@
   "city" : "Braila",
   "niceScore" : 8.0,
   "giftsPreferences" : [ "Sweets", "Board Games" ],
-  "averageScore" : 5.714285714285714,
-  "niceScoreHistory" : [ 0.0, 8.0, 8.0, 8.0, 8.0, 0.0, 8.0, 8.0, 8.0, 8.0 ],
-  "assignedBudget" : 39.81900452488688,
+  "averageScore" : 4.0,
+  "niceScoreHistory" : [ 8.0, 0.0 ],
+  "assignedBudget" : 25.142857142857142,
   "receivedGifts" : [ {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
     "productName" : "Gummy Bears",
     "price" : 10.0,
     "category" : "Sweets"
@@ -2054,58 +650,10 @@
   "city" : "Cluj-Napoca",
   "niceScore" : 8.0,
   "giftsPreferences" : [ "Toys", "Sweets" ],
-  "averageScore" : 6.666666666666667,
-  "niceScoreHistory" : [ 0.0, 8.0, 8.0, 8.0, 8.0, 8.0, 8.0, 8.0, 8.0 ],
-  "assignedBudget" : 46.15561959654179,
+  "averageScore" : 8.0,
+  "niceScoreHistory" : [ 8.0 ],
+  "assignedBudget" : 50.285714285714285,
   "receivedGifts" : [ {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
     "productName" : "Castle",
     "price" : 15.0,
     "category" : "Toys"
@@ -2122,42 +670,10 @@
   "city" : "Braila",
   "niceScore" : 10.0,
   "giftsPreferences" : [ "Toys", "Sweets" ],
-  "averageScore" : 8.80952380952381,
-  "niceScoreHistory" : [ 0.0, 10.0, 10.0, 10.0, 7.0, 10.0, 10.0, 10.0 ],
-  "assignedBudget" : 60.29629629629629,
+  "averageScore" : 8.0,
+  "niceScoreHistory" : [ 10.0, 7.0 ],
+  "assignedBudget" : 50.285714285714285,
   "receivedGifts" : [ {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
     "productName" : "Castle",
     "price" : 15.0,
     "category" : "Toys"
@@ -2174,30 +690,10 @@
   "city" : "Braila",
   "niceScore" : 7.0,
   "giftsPreferences" : [ "Toys", "Board Games" ],
-  "averageScore" : 4.666666666666667,
-  "niceScoreHistory" : [ 0.0, 7.0, 7.0, 7.0, 7.0, 7.0 ],
-  "assignedBudget" : 31.073170731707318,
+  "averageScore" : 7.0,
+  "niceScoreHistory" : [ 7.0 ],
+  "assignedBudget" : 44.0,
   "receivedGifts" : [ {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
     "productName" : "Castle",
     "price" : 15.0,
     "category" : "Toys"
@@ -2214,66 +710,10 @@
   "city" : "Brasov",
   "niceScore" : 9.0,
   "giftsPreferences" : [ "Sweets", "Books" ],
-  "averageScore" : 7.75,
-  "niceScoreHistory" : [ 0.0, 9.0, 9.0, 8.0, 9.0, 9.0, 9.0, 9.0, 9.0, 9.0 ],
-  "assignedBudget" : 102.60033121722329,
+  "averageScore" : 8.5,
+  "niceScoreHistory" : [ 9.0, 8.0 ],
+  "assignedBudget" : 106.67032967032966,
   "receivedGifts" : [ {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
     "productName" : "Gummy Bears",
     "price" : 10.0,
     "category" : "Sweets"
@@ -2290,70 +730,10 @@
   "city" : "Constanta",
   "niceScore" : 4.0,
   "giftsPreferences" : [ "Sweets", "Board Games", "Books", "Toys" ],
-  "averageScore" : 3.857142857142857,
-  "niceScoreHistory" : [ 0.0, 4.0, 4.0, 4.0, 4.0, 4.0, 4.0, 4.0, 4.0 ],
-  "assignedBudget" : 51.007444168734494,
+  "averageScore" : 4.0,
+  "niceScoreHistory" : [ 4.0 ],
+  "assignedBudget" : 50.1978021978022,
   "receivedGifts" : [ {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
     "productName" : "Gummy Bears",
     "price" : 10.0,
     "category" : "Sweets"
@@ -2374,34 +754,10 @@
   "city" : "Brasov",
   "niceScore" : 6.0,
   "giftsPreferences" : [ "Board Games" ],
-  "averageScore" : 5.785714285714286,
-  "niceScoreHistory" : [ 0.0, 6.0, 6.0, 6.0, 6.0, 6.0, 6.0, 6.0, 6.0 ],
-  "assignedBudget" : 76.3848059454996,
+  "averageScore" : 6.0,
+  "niceScoreHistory" : [ 6.0 ],
+  "assignedBudget" : 75.2967032967033,
   "receivedGifts" : [ {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
     "productName" : "Uno",
     "price" : 10.0,
     "category" : "Board Games"
@@ -2414,58 +770,10 @@
   "city" : "Braila",
   "niceScore" : 8.0,
   "giftsPreferences" : [ "Sweets", "Board Games" ],
-  "averageScore" : 6.0,
-  "niceScoreHistory" : [ 0.0, 8.0, 8.0, 8.0, 8.0, 0.0, 8.0, 8.0, 8.0, 8.0 ],
-  "assignedBudget" : 78.69401148482362,
+  "averageScore" : 4.0,
+  "niceScoreHistory" : [ 8.0, 0.0 ],
+  "assignedBudget" : 50.1978021978022,
   "receivedGifts" : [ {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
     "productName" : "Gummy Bears",
     "price" : 10.0,
     "category" : "Sweets"
@@ -2482,58 +790,10 @@
   "city" : "Cluj-Napoca",
   "niceScore" : 8.0,
   "giftsPreferences" : [ "Toys", "Sweets" ],
-  "averageScore" : 6.857142857142857,
-  "niceScoreHistory" : [ 0.0, 8.0, 8.0, 8.0, 8.0, 8.0, 8.0, 8.0, 8.0 ],
-  "assignedBudget" : 89.54424176422542,
+  "averageScore" : 8.0,
+  "niceScoreHistory" : [ 8.0 ],
+  "assignedBudget" : 100.3956043956044,
   "receivedGifts" : [ {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
     "productName" : "Castle",
     "price" : 15.0,
     "category" : "Toys"
@@ -2550,42 +810,10 @@
   "city" : "Braila",
   "niceScore" : 10.0,
   "giftsPreferences" : [ "Toys", "Sweets" ],
-  "averageScore" : 9.107142857142858,
-  "niceScoreHistory" : [ 0.0, 10.0, 10.0, 10.0, 7.0, 10.0, 10.0, 10.0 ],
-  "assignedBudget" : 118.12195781503516,
+  "averageScore" : 8.0,
+  "niceScoreHistory" : [ 10.0, 7.0 ],
+  "assignedBudget" : 100.3956043956044,
   "receivedGifts" : [ {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
     "productName" : "Castle",
     "price" : 15.0,
     "category" : "Toys"
@@ -2602,30 +830,10 @@
   "city" : "Braila",
   "niceScore" : 7.0,
   "giftsPreferences" : [ "Toys", "Board Games" ],
-  "averageScore" : 5.25,
-  "niceScoreHistory" : [ 0.0, 7.0, 7.0, 7.0, 7.0, 7.0 ],
-  "assignedBudget" : 67.20336269015212,
+  "averageScore" : 7.0,
+  "niceScoreHistory" : [ 7.0 ],
+  "assignedBudget" : 87.84615384615384,
   "receivedGifts" : [ {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
     "productName" : "Castle",
     "price" : 15.0,
     "category" : "Toys"
@@ -2642,18 +850,10 @@
   "city" : "Bucuresti",
   "niceScore" : 10.0,
   "giftsPreferences" : [ "Board Games", "Books" ],
-  "averageScore" : 5.0,
-  "niceScoreHistory" : [ 0.0, 10.0, 10.0, 10.0 ],
-  "assignedBudget" : 57.55219582433405,
+  "averageScore" : 10.0,
+  "niceScoreHistory" : [ 10.0 ],
+  "assignedBudget" : 102.88288288288288,
   "receivedGifts" : [ {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
     "productName" : "Uno",
     "price" : 10.0,
     "category" : "Board Games"
@@ -2670,66 +870,10 @@
   "city" : "Brasov",
   "niceScore" : 9.0,
   "giftsPreferences" : [ "Sweets", "Books" ],
-  "averageScore" : 7.888888888888889,
-  "niceScoreHistory" : [ 0.0, 9.0, 9.0, 8.0, 9.0, 9.0, 9.0, 9.0, 9.0, 9.0 ],
-  "assignedBudget" : 120.1613123718387,
+  "averageScore" : 8.5,
+  "niceScoreHistory" : [ 9.0, 8.0 ],
+  "assignedBudget" : 110.76842105263158,
   "receivedGifts" : [ {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
     "productName" : "Gummy Bears",
     "price" : 10.0,
     "category" : "Sweets"
@@ -2746,70 +890,10 @@
   "city" : "Constanta",
   "niceScore" : 4.0,
   "giftsPreferences" : [ "Sweets", "Board Games", "Books", "Toys" ],
-  "averageScore" : 3.888888888888889,
-  "niceScoreHistory" : [ 0.0, 4.0, 4.0, 4.0, 4.0, 4.0, 4.0, 4.0, 4.0 ],
-  "assignedBudget" : 59.188213484242354,
+  "averageScore" : 4.0,
+  "niceScoreHistory" : [ 4.0 ],
+  "assignedBudget" : 52.126315789473686,
   "receivedGifts" : [ {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
     "productName" : "Gummy Bears",
     "price" : 10.0,
     "category" : "Sweets"
@@ -2830,34 +914,10 @@
   "city" : "Brasov",
   "niceScore" : 6.0,
   "giftsPreferences" : [ "Board Games" ],
-  "averageScore" : 5.833333333333333,
-  "niceScoreHistory" : [ 0.0, 6.0, 6.0, 6.0, 6.0, 6.0, 6.0, 6.0, 6.0 ],
-  "assignedBudget" : 88.67849137510963,
+  "averageScore" : 6.0,
+  "niceScoreHistory" : [ 6.0 ],
+  "assignedBudget" : 78.18947368421053,
   "receivedGifts" : [ {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
     "productName" : "Uno",
     "price" : 10.0,
     "category" : "Board Games"
@@ -2870,58 +930,10 @@
   "city" : "Braila",
   "niceScore" : 8.0,
   "giftsPreferences" : [ "Sweets", "Board Games" ],
-  "averageScore" : 6.222222222222222,
-  "niceScoreHistory" : [ 0.0, 8.0, 8.0, 8.0, 8.0, 0.0, 8.0, 8.0, 8.0, 8.0 ],
-  "assignedBudget" : 94.07696035669285,
+  "averageScore" : 4.0,
+  "niceScoreHistory" : [ 8.0, 0.0 ],
+  "assignedBudget" : 52.126315789473686,
   "receivedGifts" : [ {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
     "productName" : "Gummy Bears",
     "price" : 10.0,
     "category" : "Sweets"
@@ -2938,58 +950,10 @@
   "city" : "Cluj-Napoca",
   "niceScore" : 8.0,
   "giftsPreferences" : [ "Toys", "Sweets" ],
-  "averageScore" : 7.0,
-  "niceScoreHistory" : [ 0.0, 8.0, 8.0, 8.0, 8.0, 8.0, 8.0, 8.0, 8.0 ],
-  "assignedBudget" : 105.46855983772821,
+  "averageScore" : 8.0,
+  "niceScoreHistory" : [ 8.0 ],
+  "assignedBudget" : 104.25263157894737,
   "receivedGifts" : [ {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
     "productName" : "Castle",
     "price" : 15.0,
     "category" : "Toys"
@@ -3006,30 +970,10 @@
   "city" : "Braila",
   "niceScore" : 7.0,
   "giftsPreferences" : [ "Toys", "Board Games" ],
-  "averageScore" : 6.533333333333333,
-  "niceScoreHistory" : [ 0.0, 7.0, 7.0, 7.0, 7.0, 7.0 ],
-  "assignedBudget" : 95.45554681353265,
+  "averageScore" : 7.0,
+  "niceScoreHistory" : [ 7.0 ],
+  "assignedBudget" : 91.22105263157896,
   "receivedGifts" : [ {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Castle",
-    "price" : 15.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
     "productName" : "Castle",
     "price" : 15.0,
     "category" : "Toys"
@@ -3046,18 +990,10 @@
   "city" : "Bucuresti",
   "niceScore" : 10.0,
   "giftsPreferences" : [ "Board Games", "Books" ],
-  "averageScore" : 6.666666666666667,
-  "niceScoreHistory" : [ 0.0, 10.0, 10.0, 10.0 ],
-  "assignedBudget" : 93.71688115064346,
+  "averageScore" : 10.0,
+  "niceScoreHistory" : [ 10.0 ],
+  "assignedBudget" : 130.31578947368422,
   "receivedGifts" : [ {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Diary of a Wimpy Kid",
-    "price" : 25.0,
-    "category" : "Books"
-  }, {
     "productName" : "Uno",
     "price" : 10.0,
     "category" : "Board Games"

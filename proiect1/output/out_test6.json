@@ -6,34 +6,10 @@
   "city" : "Braila",
   "niceScore" : 7.0,
   "giftsPreferences" : [ "Clothes", "Toys" ],
-  "averageScore" : 0.0,
-  "niceScoreHistory" : [ 0.0, 7.0, 7.0, 7.0, 7.0 ],
-  "assignedBudget" : 0.0,
-  "receivedGifts" : [ {
-    "productName" : "Dress",
-    "price" : 45.0,
-    "category" : "Clothes"
-  }, {
-    "productName" : "Doll",
-    "price" : 10.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Dress",
-    "price" : 45.0,
-    "category" : "Clothes"
-  }, {
-    "productName" : "Doll",
-    "price" : 10.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Dress",
-    "price" : 45.0,
-    "category" : "Clothes"
-  }, {
-    "productName" : "Doll",
-    "price" : 10.0,
-    "category" : "Toys"
-  } ]
+  "averageScore" : 7.0,
+  "niceScoreHistory" : [ 7.0 ],
+  "assignedBudget" : 10.0,
+  "receivedGifts" : [ ]
 }, {
   "id" : 1,
   "lastName" : "Cantemir",
@@ -42,26 +18,10 @@
   "city" : "Brasov",
   "niceScore" : 3.0,
   "giftsPreferences" : [ "Toys", "Board Games" ],
-  "averageScore" : 0.0,
-  "niceScoreHistory" : [ 0.0, 3.0, 3.0, 3.0, 3.0 ],
-  "assignedBudget" : 0.0,
-  "receivedGifts" : [ {
-    "productName" : "Doll",
-    "price" : 10.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Puzzle",
-    "price" : 50.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Doll",
-    "price" : 10.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Doll",
-    "price" : 10.0,
-    "category" : "Toys"
-  } ]
+  "averageScore" : 3.0,
+  "niceScoreHistory" : [ 3.0 ],
+  "assignedBudget" : 3.0,
+  "receivedGifts" : [ ]
 }, {
   "id" : 2,
   "lastName" : "Ionescu",
@@ -70,18 +30,10 @@
   "city" : "Oradea",
   "niceScore" : 6.0,
   "giftsPreferences" : [ "Books", "Sweets" ],
-  "averageScore" : 0.0,
-  "niceScoreHistory" : [ 0.0, 6.0, 6.0, 6.0 ],
-  "assignedBudget" : 0.0,
-  "receivedGifts" : [ {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  } ]
+  "averageScore" : 6.0,
+  "niceScoreHistory" : [ 6.0 ],
+  "assignedBudget" : 3.75,
+  "receivedGifts" : [ ]
 } ], [ {
   "id" : 0,
   "lastName" : "Popescu",
@@ -90,26 +42,10 @@
   "city" : "Braila",
   "niceScore" : 7.0,
   "giftsPreferences" : [ "Clothes", "Toys" ],
-  "averageScore" : 4.666666666666667,
-  "niceScoreHistory" : [ 0.0, 7.0, 7.0, 7.0, 7.0 ],
-  "assignedBudget" : 254.0,
+  "averageScore" : 7.0,
+  "niceScoreHistory" : [ 7.0 ],
+  "assignedBudget" : 111.125,
   "receivedGifts" : [ {
-    "productName" : "Dress",
-    "price" : 45.0,
-    "category" : "Clothes"
-  }, {
-    "productName" : "Doll",
-    "price" : 10.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Dress",
-    "price" : 45.0,
-    "category" : "Clothes"
-  }, {
-    "productName" : "Doll",
-    "price" : 10.0,
-    "category" : "Toys"
-  }, {
     "productName" : "Dress",
     "price" : 45.0,
     "category" : "Clothes"
@@ -126,22 +62,10 @@
   "city" : "Brasov",
   "niceScore" : 3.0,
   "giftsPreferences" : [ "Toys", "Board Games" ],
-  "averageScore" : 2.0,
-  "niceScoreHistory" : [ 0.0, 3.0, 3.0, 3.0, 3.0 ],
-  "assignedBudget" : 76.2,
+  "averageScore" : 3.0,
+  "niceScoreHistory" : [ 3.0 ],
+  "assignedBudget" : 47.625,
   "receivedGifts" : [ {
-    "productName" : "Doll",
-    "price" : 10.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Puzzle",
-    "price" : 50.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Doll",
-    "price" : 10.0,
-    "category" : "Toys"
-  }, {
     "productName" : "Doll",
     "price" : 10.0,
     "category" : "Toys"
@@ -154,14 +78,10 @@
   "city" : "Oradea",
   "niceScore" : 6.0,
   "giftsPreferences" : [ "Books", "Sweets" ],
-  "averageScore" : 4.0,
-  "niceScoreHistory" : [ 0.0, 6.0, 6.0, 6.0 ],
-  "assignedBudget" : 95.24999999999999,
+  "averageScore" : 6.0,
+  "niceScoreHistory" : [ 6.0 ],
+  "assignedBudget" : 95.25,
   "receivedGifts" : [ {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
     "productName" : "Gummy Bears",
     "price" : 10.0,
     "category" : "Sweets"
@@ -174,26 +94,10 @@
   "city" : "Braila",
   "niceScore" : 7.0,
   "giftsPreferences" : [ "Clothes", "Toys" ],
-  "averageScore" : 5.833333333333333,
-  "niceScoreHistory" : [ 0.0, 7.0, 7.0, 7.0, 7.0 ],
-  "assignedBudget" : 98.59154929577466,
+  "averageScore" : 7.0,
+  "niceScoreHistory" : [ 7.0 ],
+  "assignedBudget" : 87.5,
   "receivedGifts" : [ {
-    "productName" : "Dress",
-    "price" : 45.0,
-    "category" : "Clothes"
-  }, {
-    "productName" : "Doll",
-    "price" : 10.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Dress",
-    "price" : 45.0,
-    "category" : "Clothes"
-  }, {
-    "productName" : "Doll",
-    "price" : 10.0,
-    "category" : "Toys"
-  }, {
     "productName" : "Dress",
     "price" : 45.0,
     "category" : "Clothes"
@@ -210,22 +114,10 @@
   "city" : "Brasov",
   "niceScore" : 3.0,
   "giftsPreferences" : [ "Toys", "Board Games" ],
-  "averageScore" : 2.5,
-  "niceScoreHistory" : [ 0.0, 3.0, 3.0, 3.0, 3.0 ],
-  "assignedBudget" : 40.54054054054055,
+  "averageScore" : 3.0,
+  "niceScoreHistory" : [ 3.0 ],
+  "assignedBudget" : 37.5,
   "receivedGifts" : [ {
-    "productName" : "Doll",
-    "price" : 10.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Puzzle",
-    "price" : 50.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Doll",
-    "price" : 10.0,
-    "category" : "Toys"
-  }, {
     "productName" : "Doll",
     "price" : 10.0,
     "category" : "Toys"
@@ -238,14 +130,10 @@
   "city" : "Oradea",
   "niceScore" : 6.0,
   "giftsPreferences" : [ "Books", "Sweets" ],
-  "averageScore" : 5.0,
-  "niceScoreHistory" : [ 0.0, 6.0, 6.0, 6.0 ],
-  "assignedBudget" : 75.00000000000001,
+  "averageScore" : 6.0,
+  "niceScoreHistory" : [ 6.0 ],
+  "assignedBudget" : 75.0,
   "receivedGifts" : [ {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
     "productName" : "Gummy Bears",
     "price" : 10.0,
     "category" : "Sweets"
@@ -258,26 +146,10 @@
   "city" : "Braila",
   "niceScore" : 7.0,
   "giftsPreferences" : [ "Clothes", "Toys" ],
-  "averageScore" : 6.3,
-  "niceScoreHistory" : [ 0.0, 7.0, 7.0, 7.0, 7.0 ],
-  "assignedBudget" : 112.39772727272727,
+  "averageScore" : 7.0,
+  "niceScoreHistory" : [ 7.0 ],
+  "assignedBudget" : 109.89999999999999,
   "receivedGifts" : [ {
-    "productName" : "Dress",
-    "price" : 45.0,
-    "category" : "Clothes"
-  }, {
-    "productName" : "Doll",
-    "price" : 10.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Dress",
-    "price" : 45.0,
-    "category" : "Clothes"
-  }, {
-    "productName" : "Doll",
-    "price" : 10.0,
-    "category" : "Toys"
-  }, {
     "productName" : "Dress",
     "price" : 45.0,
     "category" : "Clothes"
@@ -294,22 +166,10 @@
   "city" : "Brasov",
   "niceScore" : 3.0,
   "giftsPreferences" : [ "Toys", "Board Games" ],
-  "averageScore" : 2.7,
-  "niceScoreHistory" : [ 0.0, 3.0, 3.0, 3.0, 3.0 ],
-  "assignedBudget" : 47.1,
+  "averageScore" : 3.0,
+  "niceScoreHistory" : [ 3.0 ],
+  "assignedBudget" : 47.099999999999994,
   "receivedGifts" : [ {
-    "productName" : "Doll",
-    "price" : 10.0,
-    "category" : "Toys"
-  }, {
-    "productName" : "Puzzle",
-    "price" : 50.0,
-    "category" : "Board Games"
-  }, {
-    "productName" : "Doll",
-    "price" : 10.0,
-    "category" : "Toys"
-  }, {
     "productName" : "Doll",
     "price" : 10.0,
     "category" : "Toys"
