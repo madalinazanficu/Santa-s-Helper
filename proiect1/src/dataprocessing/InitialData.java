@@ -2,7 +2,7 @@ package dataprocessing;
 import java.util.List;
 
 public final class InitialData {
-    private List<Child> children;
+    private List<ChildInput> children;
     private List<Gift> santaGiftsList;
     // List<Cities> citiesList;
 
@@ -11,11 +11,11 @@ public final class InitialData {
         this.santaGiftsList = null;
     }
 
-    public List<Child> getChildren() {
+    public List<ChildInput> getChildren() {
         return children;
     }
 
-    public void setChildren(final List<Child> children) {
+    public void setChildren(final List<ChildInput> children) {
         this.children = children;
     }
 

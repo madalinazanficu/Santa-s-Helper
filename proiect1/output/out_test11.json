@@ -1,477 +1,453 @@
-[ [ {
-  "id" : 0,
-  "lastName" : "Mihalache",
-  "firstName" : "Matei",
-  "age" : 10,
-  "city" : "Iasi",
-  "niceScore" : 7.0,
-  "giftsPreferences" : [ "Technology", "Sweets" ],
-  "averageScore" : 7.0,
-  "niceScoreHistory" : [ 7.0 ],
-  "assignedBudget" : 1065.0,
-  "receivedGifts" : [ {
-    "productName" : "Headphones",
-    "price" : 100.0,
-    "category" : "Technology"
+{
+  "annualChildren" : [ {
+    "children" : [ {
+      "id" : 0,
+      "lastName" : "Mihalache",
+      "firstName" : "Matei",
+      "city" : "Iasi",
+      "age" : 10,
+      "giftsPreferences" : [ "Technology", "Sweets" ],
+      "averageScore" : 7.0,
+      "niceScoreHistory" : [ 7.0 ],
+      "assignedBudget" : 232.96875,
+      "receivedGifts" : [ {
+        "productName" : "Headphones",
+        "price" : 100.0,
+        "category" : "Technology"
+      }, {
+        "productName" : "Gummy Bears",
+        "price" : 10.0,
+        "category" : "Sweets"
+      } ]
+    }, {
+      "id" : 1,
+      "lastName" : "Stoica",
+      "firstName" : "Tudor",
+      "city" : "Constanta",
+      "age" : 4,
+      "giftsPreferences" : [ "Board Games", "Sweets" ],
+      "averageScore" : 10.0,
+      "niceScoreHistory" : [ 2.0 ],
+      "assignedBudget" : 332.8125,
+      "receivedGifts" : [ {
+        "productName" : "Uno",
+        "price" : 10.0,
+        "category" : "Board Games"
+      }, {
+        "productName" : "Gummy Bears",
+        "price" : 10.0,
+        "category" : "Sweets"
+      } ]
+    }, {
+      "id" : 2,
+      "lastName" : "Stoica",
+      "firstName" : "Maria",
+      "city" : "Brasov",
+      "age" : 11,
+      "giftsPreferences" : [ "Sweets" ],
+      "averageScore" : 6.0,
+      "niceScoreHistory" : [ 6.0 ],
+      "assignedBudget" : 199.6875,
+      "receivedGifts" : [ {
+        "productName" : "Gummy Bears",
+        "price" : 10.0,
+        "category" : "Sweets"
+      } ]
+    }, {
+      "id" : 3,
+      "lastName" : "Popa",
+      "firstName" : "Tudor",
+      "city" : "Bucuresti",
+      "age" : 14,
+      "giftsPreferences" : [ "Technology" ],
+      "averageScore" : 6.0,
+      "niceScoreHistory" : [ 6.0 ],
+      "assignedBudget" : 199.6875,
+      "receivedGifts" : [ {
+        "productName" : "Headphones",
+        "price" : 100.0,
+        "category" : "Technology"
+      } ]
+    }, {
+      "id" : 5,
+      "lastName" : "Ionescu",
+      "firstName" : "Miruna",
+      "city" : "Timisoara",
+      "age" : 16,
+      "giftsPreferences" : [ "Board Games" ],
+      "averageScore" : 3.0,
+      "niceScoreHistory" : [ 3.0 ],
+      "assignedBudget" : 99.84375,
+      "receivedGifts" : [ {
+        "productName" : "Uno",
+        "price" : 10.0,
+        "category" : "Board Games"
+      } ]
+    } ]
   }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  } ]
-}, {
-  "id" : 1,
-  "lastName" : "Stoica",
-  "firstName" : "Tudor",
-  "age" : 4,
-  "city" : "Constanta",
-  "niceScore" : 2.0,
-  "giftsPreferences" : [ "Sweets", "Board Games" ],
-  "averageScore" : 10.0,
-  "niceScoreHistory" : [ 2.0, 0.0 ],
-  "assignedBudget" : 626.4705882352941,
-  "receivedGifts" : [ {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
+    "children" : [ {
+      "id" : 0,
+      "lastName" : "Mihalache",
+      "firstName" : "Matei",
+      "city" : "Iasi",
+      "age" : 11,
+      "giftsPreferences" : [ "Technology", "Sweets" ],
+      "averageScore" : 7.0,
+      "niceScoreHistory" : [ 7.0 ],
+      "assignedBudget" : 324.1304347826087,
+      "receivedGifts" : [ {
+        "productName" : "Headphones",
+        "price" : 100.0,
+        "category" : "Technology"
+      }, {
+        "productName" : "Gummy Bears",
+        "price" : 10.0,
+        "category" : "Sweets"
+      } ]
+    }, {
+      "id" : 1,
+      "lastName" : "Stoica",
+      "firstName" : "Tudor",
+      "city" : "Constanta",
+      "age" : 5,
+      "giftsPreferences" : [ "Board Games", "Sweets" ],
+      "averageScore" : 1.0,
+      "niceScoreHistory" : [ 2.0, 0.0 ],
+      "assignedBudget" : 46.30434782608695,
+      "receivedGifts" : [ {
+        "productName" : "Uno",
+        "price" : 10.0,
+        "category" : "Board Games"
+      }, {
+        "productName" : "Gummy Bears",
+        "price" : 10.0,
+        "category" : "Sweets"
+      } ]
+    }, {
+      "id" : 2,
+      "lastName" : "Stoica",
+      "firstName" : "Maria",
+      "city" : "Brasov",
+      "age" : 12,
+      "giftsPreferences" : [ "Sweets" ],
+      "averageScore" : 6.0,
+      "niceScoreHistory" : [ 6.0 ],
+      "assignedBudget" : 277.82608695652175,
+      "receivedGifts" : [ {
+        "productName" : "Gummy Bears",
+        "price" : 10.0,
+        "category" : "Sweets"
+      } ]
+    }, {
+      "id" : 3,
+      "lastName" : "Popa",
+      "firstName" : "Tudor",
+      "city" : "Bucuresti",
+      "age" : 15,
+      "giftsPreferences" : [ "Technology" ],
+      "averageScore" : 6.0,
+      "niceScoreHistory" : [ 6.0 ],
+      "assignedBudget" : 277.82608695652175,
+      "receivedGifts" : [ {
+        "productName" : "Headphones",
+        "price" : 100.0,
+        "category" : "Technology"
+      } ]
+    }, {
+      "id" : 5,
+      "lastName" : "Ionescu",
+      "firstName" : "Miruna",
+      "city" : "Timisoara",
+      "age" : 17,
+      "giftsPreferences" : [ "Board Games" ],
+      "averageScore" : 3.0,
+      "niceScoreHistory" : [ 3.0 ],
+      "assignedBudget" : 138.91304347826087,
+      "receivedGifts" : [ {
+        "productName" : "Uno",
+        "price" : 10.0,
+        "category" : "Board Games"
+      } ]
+    } ]
   }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  } ]
-}, {
-  "id" : 2,
-  "lastName" : "Stoica",
-  "firstName" : "Maria",
-  "age" : 11,
-  "city" : "Brasov",
-  "niceScore" : 6.0,
-  "giftsPreferences" : [ "Sweets" ],
-  "averageScore" : 6.0,
-  "niceScoreHistory" : [ 6.0 ],
-  "assignedBudget" : 277.82608695652175,
-  "receivedGifts" : [ {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  } ]
-}, {
-  "id" : 3,
-  "lastName" : "Popa",
-  "firstName" : "Tudor",
-  "age" : 14,
-  "city" : "Bucuresti",
-  "niceScore" : 6.0,
-  "giftsPreferences" : [ "Technology" ],
-  "averageScore" : 6.0,
-  "niceScoreHistory" : [ 6.0 ],
-  "assignedBudget" : 220.34482758620692,
-  "receivedGifts" : [ {
-    "productName" : "Headphones",
-    "price" : 100.0,
-    "category" : "Technology"
-  } ]
-}, {
-  "id" : 4,
-  "lastName" : "Pop",
-  "firstName" : "Matei",
-  "age" : 20,
-  "city" : "Braila",
-  "niceScore" : 2.0,
-  "giftsPreferences" : [ "Board Games", "Books" ],
-  "averageScore" : 0.0,
-  "niceScoreHistory" : [ 2.0 ],
-  "assignedBudget" : null,
-  "receivedGifts" : [ ]
-}, {
-  "id" : 5,
-  "lastName" : "Ionescu",
-  "firstName" : "Miruna",
-  "age" : 16,
-  "city" : "Timisoara",
-  "niceScore" : 3.0,
-  "giftsPreferences" : [ "Board Games" ],
-  "averageScore" : 3.0,
-  "niceScoreHistory" : [ 3.0 ],
-  "assignedBudget" : 99.84375,
-  "receivedGifts" : [ {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  } ]
-} ], [ {
-  "id" : 0,
-  "lastName" : "Mihalache",
-  "firstName" : "Matei",
-  "age" : 11,
-  "city" : "Iasi",
-  "niceScore" : 7.0,
-  "giftsPreferences" : [ "Technology", "Sweets" ],
-  "averageScore" : 7.0,
-  "niceScoreHistory" : [ 7.0 ],
-  "assignedBudget" : 232.96875,
-  "receivedGifts" : [ {
-    "productName" : "Headphones",
-    "price" : 100.0,
-    "category" : "Technology"
+    "children" : [ {
+      "id" : 0,
+      "lastName" : "Mihalache",
+      "firstName" : "Matei",
+      "city" : "Iasi",
+      "age" : 12,
+      "giftsPreferences" : [ "Technology", "Sweets" ],
+      "averageScore" : 7.0,
+      "niceScoreHistory" : [ 7.0 ],
+      "assignedBudget" : 324.1304347826087,
+      "receivedGifts" : [ {
+        "productName" : "Headphones",
+        "price" : 100.0,
+        "category" : "Technology"
+      }, {
+        "productName" : "Gummy Bears",
+        "price" : 10.0,
+        "category" : "Sweets"
+      } ]
+    }, {
+      "id" : 1,
+      "lastName" : "Stoica",
+      "firstName" : "Tudor",
+      "city" : "Constanta",
+      "age" : 6,
+      "giftsPreferences" : [ "Sweets", "Board Games" ],
+      "averageScore" : 1.0,
+      "niceScoreHistory" : [ 2.0, 0.0 ],
+      "assignedBudget" : 46.30434782608695,
+      "receivedGifts" : [ {
+        "productName" : "Gummy Bears",
+        "price" : 10.0,
+        "category" : "Sweets"
+      }, {
+        "productName" : "Uno",
+        "price" : 10.0,
+        "category" : "Board Games"
+      } ]
+    }, {
+      "id" : 2,
+      "lastName" : "Stoica",
+      "firstName" : "Maria",
+      "city" : "Brasov",
+      "age" : 13,
+      "giftsPreferences" : [ "Sweets" ],
+      "averageScore" : 6.0,
+      "niceScoreHistory" : [ 6.0 ],
+      "assignedBudget" : 277.82608695652175,
+      "receivedGifts" : [ {
+        "productName" : "Gummy Bears",
+        "price" : 10.0,
+        "category" : "Sweets"
+      } ]
+    }, {
+      "id" : 3,
+      "lastName" : "Popa",
+      "firstName" : "Tudor",
+      "city" : "Bucuresti",
+      "age" : 16,
+      "giftsPreferences" : [ "Technology" ],
+      "averageScore" : 6.0,
+      "niceScoreHistory" : [ 6.0 ],
+      "assignedBudget" : 277.82608695652175,
+      "receivedGifts" : [ {
+        "productName" : "Headphones",
+        "price" : 100.0,
+        "category" : "Technology"
+      } ]
+    }, {
+      "id" : 5,
+      "lastName" : "Ionescu",
+      "firstName" : "Miruna",
+      "city" : "Timisoara",
+      "age" : 18,
+      "giftsPreferences" : [ "Board Games" ],
+      "averageScore" : 3.0,
+      "niceScoreHistory" : [ 3.0 ],
+      "assignedBudget" : 138.91304347826087,
+      "receivedGifts" : [ {
+        "productName" : "Uno",
+        "price" : 10.0,
+        "category" : "Board Games"
+      } ]
+    } ]
   }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  } ]
-}, {
-  "id" : 1,
-  "lastName" : "Stoica",
-  "firstName" : "Tudor",
-  "age" : 5,
-  "city" : "Constanta",
-  "niceScore" : 2.0,
-  "giftsPreferences" : [ "Sweets", "Board Games" ],
-  "averageScore" : 1.0,
-  "niceScoreHistory" : [ 2.0, 0.0 ],
-  "assignedBudget" : 46.30434782608695,
-  "receivedGifts" : [ {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
+    "children" : [ {
+      "id" : 0,
+      "lastName" : "Mihalache",
+      "firstName" : "Matei",
+      "city" : "Iasi",
+      "age" : 13,
+      "giftsPreferences" : [ "Technology", "Sweets" ],
+      "averageScore" : 7.0,
+      "niceScoreHistory" : [ 7.0 ],
+      "assignedBudget" : 595.0,
+      "receivedGifts" : [ {
+        "productName" : "Headphones",
+        "price" : 100.0,
+        "category" : "Technology"
+      }, {
+        "productName" : "Gummy Bears",
+        "price" : 10.0,
+        "category" : "Sweets"
+      } ]
+    }, {
+      "id" : 1,
+      "lastName" : "Stoica",
+      "firstName" : "Tudor",
+      "city" : "Constanta",
+      "age" : 7,
+      "giftsPreferences" : [ "Sweets", "Board Games" ],
+      "averageScore" : 1.0,
+      "niceScoreHistory" : [ 2.0, 0.0 ],
+      "assignedBudget" : 85.0,
+      "receivedGifts" : [ {
+        "productName" : "Gummy Bears",
+        "price" : 10.0,
+        "category" : "Sweets"
+      }, {
+        "productName" : "Uno",
+        "price" : 10.0,
+        "category" : "Board Games"
+      } ]
+    }, {
+      "id" : 2,
+      "lastName" : "Stoica",
+      "firstName" : "Maria",
+      "city" : "Brasov",
+      "age" : 14,
+      "giftsPreferences" : [ "Sweets" ],
+      "averageScore" : 6.0,
+      "niceScoreHistory" : [ 6.0 ],
+      "assignedBudget" : 510.0,
+      "receivedGifts" : [ {
+        "productName" : "Gummy Bears",
+        "price" : 10.0,
+        "category" : "Sweets"
+      } ]
+    }, {
+      "id" : 3,
+      "lastName" : "Popa",
+      "firstName" : "Tudor",
+      "city" : "Bucuresti",
+      "age" : 17,
+      "giftsPreferences" : [ "Technology" ],
+      "averageScore" : 6.0,
+      "niceScoreHistory" : [ 6.0 ],
+      "assignedBudget" : 510.0,
+      "receivedGifts" : [ {
+        "productName" : "Headphones",
+        "price" : 100.0,
+        "category" : "Technology"
+      } ]
+    } ]
   }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  } ]
-}, {
-  "id" : 2,
-  "lastName" : "Stoica",
-  "firstName" : "Maria",
-  "age" : 12,
-  "city" : "Brasov",
-  "niceScore" : 6.0,
-  "giftsPreferences" : [ "Sweets" ],
-  "averageScore" : 6.0,
-  "niceScoreHistory" : [ 6.0 ],
-  "assignedBudget" : 277.82608695652175,
-  "receivedGifts" : [ {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  } ]
-}, {
-  "id" : 3,
-  "lastName" : "Popa",
-  "firstName" : "Tudor",
-  "age" : 15,
-  "city" : "Bucuresti",
-  "niceScore" : 6.0,
-  "giftsPreferences" : [ "Technology" ],
-  "averageScore" : 6.0,
-  "niceScoreHistory" : [ 6.0 ],
-  "assignedBudget" : 277.82608695652175,
-  "receivedGifts" : [ {
-    "productName" : "Headphones",
-    "price" : 100.0,
-    "category" : "Technology"
-  } ]
-}, {
-  "id" : 5,
-  "lastName" : "Ionescu",
-  "firstName" : "Miruna",
-  "age" : 17,
-  "city" : "Timisoara",
-  "niceScore" : 3.0,
-  "giftsPreferences" : [ "Board Games" ],
-  "averageScore" : 3.0,
-  "niceScoreHistory" : [ 3.0 ],
-  "assignedBudget" : 138.91304347826087,
-  "receivedGifts" : [ {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  } ]
-} ], [ {
-  "id" : 0,
-  "lastName" : "Mihalache",
-  "firstName" : "Matei",
-  "age" : 12,
-  "city" : "Iasi",
-  "niceScore" : 7.0,
-  "giftsPreferences" : [ "Technology", "Sweets" ],
-  "averageScore" : 7.0,
-  "niceScoreHistory" : [ 7.0 ],
-  "assignedBudget" : 324.1304347826087,
-  "receivedGifts" : [ {
-    "productName" : "Headphones",
-    "price" : 100.0,
-    "category" : "Technology"
+    "children" : [ {
+      "id" : 0,
+      "lastName" : "Mihalache",
+      "firstName" : "Matei",
+      "city" : "Iasi",
+      "age" : 14,
+      "giftsPreferences" : [ "Technology", "Sweets" ],
+      "averageScore" : 7.0,
+      "niceScoreHistory" : [ 7.0 ],
+      "assignedBudget" : 435.75,
+      "receivedGifts" : [ {
+        "productName" : "Headphones",
+        "price" : 100.0,
+        "category" : "Technology"
+      }, {
+        "productName" : "Gummy Bears",
+        "price" : 10.0,
+        "category" : "Sweets"
+      } ]
+    }, {
+      "id" : 1,
+      "lastName" : "Stoica",
+      "firstName" : "Tudor",
+      "city" : "Constanta",
+      "age" : 8,
+      "giftsPreferences" : [ "Sweets", "Board Games" ],
+      "averageScore" : 1.0,
+      "niceScoreHistory" : [ 2.0, 0.0 ],
+      "assignedBudget" : 62.25,
+      "receivedGifts" : [ {
+        "productName" : "Gummy Bears",
+        "price" : 10.0,
+        "category" : "Sweets"
+      }, {
+        "productName" : "Uno",
+        "price" : 10.0,
+        "category" : "Board Games"
+      } ]
+    }, {
+      "id" : 2,
+      "lastName" : "Stoica",
+      "firstName" : "Maria",
+      "city" : "Brasov",
+      "age" : 15,
+      "giftsPreferences" : [ "Sweets" ],
+      "averageScore" : 6.0,
+      "niceScoreHistory" : [ 6.0 ],
+      "assignedBudget" : 373.5,
+      "receivedGifts" : [ {
+        "productName" : "Gummy Bears",
+        "price" : 10.0,
+        "category" : "Sweets"
+      } ]
+    }, {
+      "id" : 3,
+      "lastName" : "Popa",
+      "firstName" : "Tudor",
+      "city" : "Bucuresti",
+      "age" : 18,
+      "giftsPreferences" : [ "Technology" ],
+      "averageScore" : 6.0,
+      "niceScoreHistory" : [ 6.0 ],
+      "assignedBudget" : 373.5,
+      "receivedGifts" : [ {
+        "productName" : "Headphones",
+        "price" : 100.0,
+        "category" : "Technology"
+      } ]
+    } ]
   }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
+    "children" : [ {
+      "id" : 0,
+      "lastName" : "Mihalache",
+      "firstName" : "Matei",
+      "city" : "Iasi",
+      "age" : 15,
+      "giftsPreferences" : [ "Technology", "Sweets" ],
+      "averageScore" : 7.0,
+      "niceScoreHistory" : [ 7.0 ],
+      "assignedBudget" : 350.0,
+      "receivedGifts" : [ {
+        "productName" : "Headphones",
+        "price" : 100.0,
+        "category" : "Technology"
+      }, {
+        "productName" : "Gummy Bears",
+        "price" : 10.0,
+        "category" : "Sweets"
+      } ]
+    }, {
+      "id" : 1,
+      "lastName" : "Stoica",
+      "firstName" : "Tudor",
+      "city" : "Constanta",
+      "age" : 9,
+      "giftsPreferences" : [ "Sweets", "Board Games" ],
+      "averageScore" : 1.0,
+      "niceScoreHistory" : [ 2.0, 0.0 ],
+      "assignedBudget" : 50.0,
+      "receivedGifts" : [ {
+        "productName" : "Gummy Bears",
+        "price" : 10.0,
+        "category" : "Sweets"
+      }, {
+        "productName" : "Uno",
+        "price" : 10.0,
+        "category" : "Board Games"
+      } ]
+    }, {
+      "id" : 2,
+      "lastName" : "Stoica",
+      "firstName" : "Maria",
+      "city" : "Brasov",
+      "age" : 16,
+      "giftsPreferences" : [ "Sweets" ],
+      "averageScore" : 6.0,
+      "niceScoreHistory" : [ 6.0 ],
+      "assignedBudget" : 300.0,
+      "receivedGifts" : [ {
+        "productName" : "Gummy Bears",
+        "price" : 10.0,
+        "category" : "Sweets"
+      } ]
+    } ]
   } ]
-}, {
-  "id" : 1,
-  "lastName" : "Stoica",
-  "firstName" : "Tudor",
-  "age" : 6,
-  "city" : "Constanta",
-  "niceScore" : 2.0,
-  "giftsPreferences" : [ "Sweets", "Board Games" ],
-  "averageScore" : 1.0,
-  "niceScoreHistory" : [ 2.0, 0.0 ],
-  "assignedBudget" : 46.30434782608695,
-  "receivedGifts" : [ {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  } ]
-}, {
-  "id" : 2,
-  "lastName" : "Stoica",
-  "firstName" : "Maria",
-  "age" : 13,
-  "city" : "Brasov",
-  "niceScore" : 6.0,
-  "giftsPreferences" : [ "Sweets" ],
-  "averageScore" : 6.0,
-  "niceScoreHistory" : [ 6.0 ],
-  "assignedBudget" : 277.82608695652175,
-  "receivedGifts" : [ {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  } ]
-}, {
-  "id" : 3,
-  "lastName" : "Popa",
-  "firstName" : "Tudor",
-  "age" : 16,
-  "city" : "Bucuresti",
-  "niceScore" : 6.0,
-  "giftsPreferences" : [ "Technology" ],
-  "averageScore" : 6.0,
-  "niceScoreHistory" : [ 6.0 ],
-  "assignedBudget" : 277.82608695652175,
-  "receivedGifts" : [ {
-    "productName" : "Headphones",
-    "price" : 100.0,
-    "category" : "Technology"
-  } ]
-}, {
-  "id" : 5,
-  "lastName" : "Ionescu",
-  "firstName" : "Miruna",
-  "age" : 18,
-  "city" : "Timisoara",
-  "niceScore" : 3.0,
-  "giftsPreferences" : [ "Board Games" ],
-  "averageScore" : 3.0,
-  "niceScoreHistory" : [ 3.0 ],
-  "assignedBudget" : 138.91304347826087,
-  "receivedGifts" : [ {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  } ]
-} ], [ {
-  "id" : 0,
-  "lastName" : "Mihalache",
-  "firstName" : "Matei",
-  "age" : 13,
-  "city" : "Iasi",
-  "niceScore" : 7.0,
-  "giftsPreferences" : [ "Technology", "Sweets" ],
-  "averageScore" : 7.0,
-  "niceScoreHistory" : [ 7.0 ],
-  "assignedBudget" : 595.0,
-  "receivedGifts" : [ {
-    "productName" : "Headphones",
-    "price" : 100.0,
-    "category" : "Technology"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  } ]
-}, {
-  "id" : 1,
-  "lastName" : "Stoica",
-  "firstName" : "Tudor",
-  "age" : 7,
-  "city" : "Constanta",
-  "niceScore" : 2.0,
-  "giftsPreferences" : [ "Sweets", "Board Games" ],
-  "averageScore" : 1.0,
-  "niceScoreHistory" : [ 2.0, 0.0 ],
-  "assignedBudget" : 85.0,
-  "receivedGifts" : [ {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  } ]
-}, {
-  "id" : 2,
-  "lastName" : "Stoica",
-  "firstName" : "Maria",
-  "age" : 14,
-  "city" : "Brasov",
-  "niceScore" : 6.0,
-  "giftsPreferences" : [ "Sweets" ],
-  "averageScore" : 6.0,
-  "niceScoreHistory" : [ 6.0 ],
-  "assignedBudget" : 510.0,
-  "receivedGifts" : [ {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  } ]
-}, {
-  "id" : 3,
-  "lastName" : "Popa",
-  "firstName" : "Tudor",
-  "age" : 17,
-  "city" : "Bucuresti",
-  "niceScore" : 6.0,
-  "giftsPreferences" : [ "Technology" ],
-  "averageScore" : 6.0,
-  "niceScoreHistory" : [ 6.0 ],
-  "assignedBudget" : 510.0,
-  "receivedGifts" : [ {
-    "productName" : "Headphones",
-    "price" : 100.0,
-    "category" : "Technology"
-  } ]
-} ], [ {
-  "id" : 0,
-  "lastName" : "Mihalache",
-  "firstName" : "Matei",
-  "age" : 14,
-  "city" : "Iasi",
-  "niceScore" : 7.0,
-  "giftsPreferences" : [ "Technology", "Sweets" ],
-  "averageScore" : 7.0,
-  "niceScoreHistory" : [ 7.0 ],
-  "assignedBudget" : 435.75,
-  "receivedGifts" : [ {
-    "productName" : "Headphones",
-    "price" : 100.0,
-    "category" : "Technology"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  } ]
-}, {
-  "id" : 1,
-  "lastName" : "Stoica",
-  "firstName" : "Tudor",
-  "age" : 8,
-  "city" : "Constanta",
-  "niceScore" : 2.0,
-  "giftsPreferences" : [ "Sweets", "Board Games" ],
-  "averageScore" : 1.0,
-  "niceScoreHistory" : [ 2.0, 0.0 ],
-  "assignedBudget" : 62.25,
-  "receivedGifts" : [ {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  } ]
-}, {
-  "id" : 2,
-  "lastName" : "Stoica",
-  "firstName" : "Maria",
-  "age" : 15,
-  "city" : "Brasov",
-  "niceScore" : 6.0,
-  "giftsPreferences" : [ "Sweets" ],
-  "averageScore" : 6.0,
-  "niceScoreHistory" : [ 6.0 ],
-  "assignedBudget" : 373.5,
-  "receivedGifts" : [ {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  } ]
-}, {
-  "id" : 3,
-  "lastName" : "Popa",
-  "firstName" : "Tudor",
-  "age" : 18,
-  "city" : "Bucuresti",
-  "niceScore" : 6.0,
-  "giftsPreferences" : [ "Technology" ],
-  "averageScore" : 6.0,
-  "niceScoreHistory" : [ 6.0 ],
-  "assignedBudget" : 373.5,
-  "receivedGifts" : [ {
-    "productName" : "Headphones",
-    "price" : 100.0,
-    "category" : "Technology"
-  } ]
-} ], [ {
-  "id" : 0,
-  "lastName" : "Mihalache",
-  "firstName" : "Matei",
-  "age" : 15,
-  "city" : "Iasi",
-  "niceScore" : 7.0,
-  "giftsPreferences" : [ "Technology", "Sweets" ],
-  "averageScore" : 7.0,
-  "niceScoreHistory" : [ 7.0 ],
-  "assignedBudget" : 350.0,
-  "receivedGifts" : [ {
-    "productName" : "Headphones",
-    "price" : 100.0,
-    "category" : "Technology"
-  }, {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  } ]
-}, {
-  "id" : 1,
-  "lastName" : "Stoica",
-  "firstName" : "Tudor",
-  "age" : 9,
-  "city" : "Constanta",
-  "niceScore" : 2.0,
-  "giftsPreferences" : [ "Sweets", "Board Games" ],
-  "averageScore" : 1.0,
-  "niceScoreHistory" : [ 2.0, 0.0 ],
-  "assignedBudget" : 50.0,
-  "receivedGifts" : [ {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  }, {
-    "productName" : "Uno",
-    "price" : 10.0,
-    "category" : "Board Games"
-  } ]
-}, {
-  "id" : 2,
-  "lastName" : "Stoica",
-  "firstName" : "Maria",
-  "age" : 16,
-  "city" : "Brasov",
-  "niceScore" : 6.0,
-  "giftsPreferences" : [ "Sweets" ],
-  "averageScore" : 6.0,
-  "niceScoreHistory" : [ 6.0 ],
-  "assignedBudget" : 300.0,
-  "receivedGifts" : [ {
-    "productName" : "Gummy Bears",
-    "price" : 10.0,
-    "category" : "Sweets"
-  } ]
-} ] ]
+}

@@ -1,74 +1,80 @@
-package dataprocessing;
+package datawriting;
 
+import dataprocessing.ChildInput;
+import dataprocessing.Gift;
 import enums.Category;
 import enums.Cities;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public final class Child {
-    // every child has an id
+public class ChildOutput {
     private Integer id;
-
-    // every child has lastName
     private String lastName;
-
-    // every child has firstName
     private String firstName;
-
-    // every child has age
-    private int age;
-
-    // every child is from a city
     private Cities city;
-
-    // every child has a goodness score
-    private Double niceScore;
-
-    // every child has a list of wishes
+    private int age;
     private List<Category> giftsPreferences;
-
-    // every child has an averageScore
     private Double averageScore;
-
-    // every child has a niceScoreHistory - nice score
     private List<Double> niceScoreHistory;
-
-    // every child has an assigned budget for presents - at round i
     private Double assignedBudget;
-
-    // every child has a list of received gifts at round i
     private List<Gift> receivedGifts;
 
-
-    public Child() {
-        this.id = id;
-        this.lastName = null;
-        this.firstName = null;
-        this.age = 0;
-        this.city = null;
-        this.niceScore = null;
-        this.giftsPreferences = null;
-        this.averageScore = 0.0;
-        this.niceScoreHistory = new ArrayList<>();
-        this.assignedBudget = null;
-        this.receivedGifts = new ArrayList<>();
-    }
-
     // COPY-CONSTRCTOR
-    public Child(final Child newChild) {
+    public ChildOutput(final ChildOutput newChild) {
         this.id = newChild.getId();
         this.lastName = newChild.getLastName();
         this.firstName = newChild.getFirstName();
         this.age = newChild.getAge();
         this.city = newChild.getCity();
-        this.niceScore = newChild.getNiceScore();
-        this.giftsPreferences = newChild.getGiftsPreferences();
+
+        // deep-copy pe lista
+        List<Category> newGiftPreference = newChild.getGiftsPreferences();
+        this.giftsPreferences = new ArrayList<>();
+        this.giftsPreferences.addAll(newGiftPreference);
+
         this.averageScore = newChild.getAverageScore();
-        this.niceScoreHistory = newChild.getNiceScoreHistory();
+
+        // deep-copy pe lista
+        List<Double> newNiceScoreHistory = newChild.getNiceScoreHistory();
+        this.niceScoreHistory = new ArrayList<>();
+        this.niceScoreHistory.addAll(newNiceScoreHistory);
+
         this.assignedBudget = newChild.getAssignedBudget();
-        this.receivedGifts = newChild.getReceivedGifts();
-        //this.niceScoreHistory.add(niceScore);
+
+        // deep-copy pe lista
+        List<Gift> newReceivedGifts = newChild.getReceivedGifts();
+        this.receivedGifts = new ArrayList<>();
+        this.receivedGifts.addAll(newReceivedGifts);
+    }
+
+    public ChildOutput(final ChildInput newChild) {
+        this.id = newChild.getId();
+        this.lastName = newChild.getLastName();
+        this.firstName = newChild.getFirstName();
+        this.age = newChild.getAge();
+        this.city = newChild.getCity();
+        this.giftsPreferences = newChild.getGiftsPreferences();
+        this.averageScore = newChild.getNiceScore();
+        this.niceScoreHistory = new ArrayList<>();
+        this.assignedBudget = 0.0;
+        this.receivedGifts = new ArrayList<>();
+    }
+
+    public ChildOutput(final Integer id, final String lastName, final String firstName,
+                       final Cities city, final int age, final List<Category> giftsPreferences,
+                       final Double averageScore, final List<Double> niceScoreHistory,
+                       final Double assignedBudget, final List<Gift> receivedGifts) {
+        this.id = id;
+        this.lastName = lastName;
+        this.firstName = firstName;
+        this.city = city;
+        this.age = age;
+        this.giftsPreferences = giftsPreferences;
+        this.averageScore = averageScore;
+        this.niceScoreHistory = niceScoreHistory;
+        this.assignedBudget = assignedBudget;
+        this.receivedGifts = receivedGifts;
     }
 
     public Integer getId() {
@@ -95,14 +101,6 @@ public final class Child {
         this.firstName = firstName;
     }
 
-    public int getAge() {
-        return age;
-    }
-
-    public void setAge(final int age) {
-        this.age = age;
-    }
-
     public Cities getCity() {
         return city;
     }
@@ -111,12 +109,12 @@ public final class Child {
         this.city = city;
     }
 
-    public Double getNiceScore() {
-        return niceScore;
+    public int getAge() {
+        return age;
     }
 
-    public void setNiceScore(final Double niceScore) {
-        this.niceScore = niceScore;
+    public void setAge(final int age) {
+        this.age = age;
     }
 
     public List<Category> getGiftsPreferences() {
@@ -125,6 +123,14 @@ public final class Child {
 
     public void setGiftsPreferences(final List<Category> giftsPreferences) {
         this.giftsPreferences = giftsPreferences;
+    }
+
+    public Double getAverageScore() {
+        return averageScore;
+    }
+
+    public void setAverageScore(final Double averageScore) {
+        this.averageScore = averageScore;
     }
 
     public List<Double> getNiceScoreHistory() {
@@ -151,20 +157,13 @@ public final class Child {
         this.receivedGifts = receivedGifts;
     }
 
-    public Double getAverageScore() {
-        return averageScore;
-    }
-
-    public void setAverageScore(final Double averageScore) {
-        this.averageScore = averageScore;
-    }
-
     /**
      * Method used for incrementing the age of the child every year
      */
     public void incrementAge() {
         this.age = this.age + 1;
     }
+
 
     /**
      * Method used for adding a new nice score at the history of nice scores
@@ -189,6 +188,7 @@ public final class Child {
         this.giftsPreferences.add(0, preference);
     }
 
+
     /**
      * Method user for adding a new gift in child's receivedGifts list
      * @param gift the gift needed to be added
@@ -197,15 +197,15 @@ public final class Child {
         this.receivedGifts.add(gift);
     }
 
+
     @Override
     public String toString() {
-        return "Child{" +
+        return "ChildOutputFormat{" +
                 "id=" + id +
                 ", lastName='" + lastName + '\'' +
                 ", firstName='" + firstName + '\'' +
-                ", age=" + age +
                 ", city=" + city +
-                ", niceScore=" + niceScore +
+                ", age=" + age +
                 ", giftsPreferences=" + giftsPreferences +
                 ", averageScore=" + averageScore +
                 ", niceScoreHistory=" + niceScoreHistory +

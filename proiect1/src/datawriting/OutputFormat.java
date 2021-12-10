@@ -1,58 +1,35 @@
 package datawriting;
 
-import dataprocessing.Child;
-
 import java.util.ArrayList;
 import java.util.List;
 
 
-// Informatii ce trebuie scrise la ooutput
+// Informatii ce trebuie scrise la output
+// la fiecare runda se va adauga in final Result, o noua lista de copii
 public final class OutputFormat {
 
-    private List<ArrayList<Child>> finalResult = new ArrayList<ArrayList<Child>>();
+    private AnnualChildrenFormat annualChildrenFormat;
     private static OutputFormat instance = null;
 
-//    public OutputFormat(final List<Child> children) {
-//        this.children = children;
-//    }
-//
-//    public List<Child> getChildren() {
-//        return children;
-//    }
-//
-//    public void setChildren(final List<Child> children) {
-//        this.children = children;
-//    }
     public static OutputFormat getInstance() {
         if (instance == null) {
             instance = new OutputFormat();
         }
         return instance;
     }
-    public void clearOutputFormat() {
-        finalResult.clear();
+    public void clear() {
+        annualChildrenFormat = null;
     }
-
 
     private OutputFormat() {
     }
 
-    public void addNewRoundArray(final List<Child> children) {
-        ArrayList<Child> c = new ArrayList<>();
-        for (Child  child : children) {
-            c.add(new Child(child));
-        }
-        finalResult.add(c);
+    public AnnualChildrenFormat getAnnualChildrenFormat() {
+        return annualChildrenFormat;
     }
 
-    public List<ArrayList<Child>> getFinalResult() {
-        return finalResult;
+    public void setAnnualChildrenFormat(AnnualChildrenFormat annualChildrenFormat) {
+        this.annualChildrenFormat = annualChildrenFormat;
     }
 
-    @Override
-    public String toString() {
-        return "OutputFormat{" +
-                "finalResult=" + finalResult +
-                '}';
-    }
 }

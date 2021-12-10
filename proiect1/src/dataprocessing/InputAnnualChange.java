@@ -2,10 +2,10 @@ package dataprocessing;
 
 import java.util.List;
 
-public final class AnnualChange {
+public final class InputAnnualChange {
     private Double newSantaBudget;
     private List<Gift> newGifts;
-    private List<Child> newChildren;
+    private List<ChildInput> newChildren;
     private List<ChildUpdate> childrenUpdates;
 
     public Double getNewSantaBudget() {
@@ -24,11 +24,11 @@ public final class AnnualChange {
         this.newGifts = newGifts;
     }
 
-    public List<Child> getNewChildren() {
+    public List<ChildInput> getNewChildren() {
         return newChildren;
     }
 
-    public void setNewChildren(final List<Child> newChildren) {
+    public void setNewChildren(final List<ChildInput> newChildren) {
         this.newChildren = newChildren;
     }
 

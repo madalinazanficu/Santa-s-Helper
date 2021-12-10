@@ -1,11 +1,11 @@
 package strategy;
 
-import dataprocessing.Child;
+import datawriting.ChildOutput;
 
 public final class BabyStrategy implements AverageScoreStrategy {
-    private Child child;
+    private ChildOutput child;
 
-    public BabyStrategy(final Child child) {
+    public BabyStrategy(final ChildOutput child) {
         this.child = child;
     }
 

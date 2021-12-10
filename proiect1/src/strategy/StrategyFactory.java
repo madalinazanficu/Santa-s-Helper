@@ -1,10 +1,10 @@
 package strategy;
 
 import common.Constants;
-import dataprocessing.Child;
+import datawriting.ChildOutput;
 
 public class StrategyFactory {
-    public static AverageScoreStrategy createStrategy(final Child child) {
+    public static AverageScoreStrategy createStrategy(final ChildOutput child) {
         AverageScoreStrategy strategy = null;
         if (child.getAge() < Constants.BABY_AGE) {
             strategy = new BabyStrategy(child);
