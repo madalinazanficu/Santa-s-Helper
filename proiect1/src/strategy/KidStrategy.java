@@ -1,13 +1,13 @@
 package strategy;
 
-import dataprocessing.Child;
+import datawriting.ChildOutput;
 
 import java.util.List;
 
 public final class KidStrategy implements AverageScoreStrategy {
-    private Child child;
+    private ChildOutput child;
 
-    public KidStrategy(final Child child) {
+    public KidStrategy(final ChildOutput child) {
         this.child = child;
     }
 

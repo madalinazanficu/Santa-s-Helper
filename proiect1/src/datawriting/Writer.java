@@ -28,6 +28,6 @@ public final class Writer {
         objectMapper.setVisibility(PropertyAccessor.FIELD, JsonAutoDetect.Visibility.ANY);
 
         ObjectWriter objectWriter = objectMapper.writer(new DefaultPrettyPrinter());
-        objectWriter.writeValue(new File(outputPath), OutputFormat.getInstance().getFinalResult());
+        objectWriter.writeValue(new File(outputPath), OutputFormat.getInstance().getAnnualChildrenFormat());
     }
 }

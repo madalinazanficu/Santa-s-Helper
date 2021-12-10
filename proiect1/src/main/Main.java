@@ -33,7 +33,7 @@ public final class Main {
         File inputDirectory = new File(Constants.INPUT_PATH);
 
         // path-ul catre directorul out
-        Path path = Paths.get(Constants.OUT_PATH);
+        Path path = Paths.get(Constants.RESULT_PATH);
 
         // daca nu exista path catre directorul out => ne creeaza fizic
         // (in calculator) director la path-ul respectiv
@@ -42,7 +42,7 @@ public final class Main {
         }
 
         // instanta pentru directorul de out
-        File outputDirectory = new File(Constants.OUT_PATH);
+        File outputDirectory = new File(Constants.RESULT_PATH);
 
 
         for (File file : Objects.requireNonNull(outputDirectory.listFiles())) {
@@ -53,7 +53,7 @@ public final class Main {
 
         // se itereaza prin lista de fisiere ale directorului de input
         for (File file : Objects.requireNonNull(inputDirectory.listFiles())) {
-            String filepath = Constants.OUTPUT_PATH + file.getName();
+            String filepath = Constants.OUT_PATH + file.getName();
             File out = new File(filepath);
             boolean isCreated = out.createNewFile();
             if (isCreated) {
@@ -71,7 +71,7 @@ public final class Main {
     public static void action(final String filePath1,
                               final String filePath2) throws IOException {
 
-        OutputFormat.getInstance().clearOutputFormat();
+        OutputFormat.getInstance().clear();
 
         InputLoader inputLoader = new InputLoader(filePath1);
         System.out.println(filePath1);
@@ -89,12 +89,15 @@ public final class Main {
         santaClaus.clearSantaClaus();
 
         // the initial information that will be updated
-        santaClaus.setSantaBudget(input.getSantaBudget());
-        santaClaus.setChildren(input.getInitialData().getChildren());
-        santaClaus.setSantaGiftList(input.getInitialData().getSantaGiftsList());
+        santaClaus.setSantaBudget(input);
+        santaClaus.setChildren(input);
+        santaClaus.setSantaGiftList(input);
 
         OutputFormat outputFormat = OutputFormat.getInstance();
-        Solver solver = new Solver(input.getNumberOfYears(), input.getAnnualChanges());
+
+        Solver solver = new Solver();
+        solver.setNumberOfYears(input);
+        solver.setAnnualChanges(input);
         solver.solve();
 
         Writer fileWriter = new Writer(filePath2);

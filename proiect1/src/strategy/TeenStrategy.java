@@ -1,13 +1,13 @@
 package strategy;
 
-import dataprocessing.Child;
+import datawriting.ChildOutput;
 
 import java.util.List;
 
 public final class TeenStrategy implements AverageScoreStrategy {
-    private Child child;
+    private ChildOutput child;
 
-    public TeenStrategy(final Child child) {
+    public TeenStrategy(final ChildOutput child) {
         this.child = child;
     }
 

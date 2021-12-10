@@ -2,7 +2,7 @@ package common;
 
 public final class Constants {
     public static final String INPUT_PATH = "tests/";
-    public static final String OUT_PATH = "output";
+    public static final String RESULT_PATH = "output";
 
     public static final String NUMBEROFYEARS = "numberOfYears";
     public static final String SANTABUDGET = "santaBudget";
@@ -13,9 +13,8 @@ public final class Constants {
     public static final int KID_AGE = 12;
     public static final int TEEN_AGE = 18;
 
-
-
-    public static final String OUTPUT_PATH = "output/out_";
+    public static final String OUT_PATH = "output/out_";
+    public static final String OUTPUT_PATH = "output/out_test";
     public static final String REF_PATH = "ref/ref_test";
     public static final String FILE_EXTENSION = ".json";
     public static final Integer SMALL_TEST_POINTS = 2;

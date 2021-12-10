@@ -1,13 +1,13 @@
 package observer;
 
 import common.Constants;
-import dataprocessing.AnnualChange;
-import dataprocessing.Child;
-import dataprocessing.ChildUpdate;
-import dataprocessing.Gift;
+import dataprocessing.*;
+import datawriting.AnnualChange;
+import datawriting.ChildOutput;
 import enums.Category;
 
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
 
 // Require updates
@@ -20,7 +20,7 @@ public final class SantaClaus implements Update {
     // the budget unit
     private Double budgetUnit;
 
-    private List<Child> children;
+    private List<ChildOutput> children;
 
     // the list of gifts available
     private List<Gift> santaGiftList;
@@ -66,22 +66,19 @@ public final class SantaClaus implements Update {
      * Added the children with age <18
      * @param newChildren the new children needed to be added in the list
      */
-    public void updateChildrenList(final List<Child> newChildren) {
+    public void updateChildrenList(final List<ChildOutput> newChildren) {
 
         // cresc varsta copiilor cu 1 an
-        for (Child child : children) {
+        for (ChildOutput child : children) {
             child.incrementAge();
         }
-
         // daca au peste 18 ani ii scot din lista
         children.removeIf(x->x.getAge() > Constants.TEEN_AGE);
 
         // adaug copii din noua lista <=> daca au sub 18 ani
-        for (Child newChild : newChildren) {
+        for (ChildOutput newChild : newChildren) {
             if (newChild.getAge() < 18) {
-                Child myChild = new Child(newChild);
-                myChild.getNiceScoreHistory().add(myChild.getNiceScore());
-                this.children.add(myChild);
+                this.children.add(newChild);
             }
         }
     }
@@ -104,7 +101,7 @@ public final class SantaClaus implements Update {
             Integer id = childUpdate.getId();
 
             // iterez in lista de copii si caut copilul cu id-ul specific
-            for (Child child : children) {
+            for (ChildOutput child : children) {
 
                 // pe acest copil o sa fac update
                 if (child.getId().equals(id)) {
@@ -116,6 +113,8 @@ public final class SantaClaus implements Update {
                     }
                     // se adauga noile preferinte pentru runda curenta
                     List<Category> newGiftsPreferences = childUpdate.getGiftsPreferences();
+                    Collections.reverse(newGiftsPreferences);
+
                     List<Category> oldGiftsPreferences = child.getGiftsPreferences();
 
                     // se itereaza prin lista noua de preferinte
@@ -145,7 +144,7 @@ public final class SantaClaus implements Update {
 
     public void computeBudgetUnit() {
         Double totalScore = 0.0;
-        for (Child child : children) {
+        for (ChildOutput child : children) {
             Double averageScore = child.getAverageScore();
             totalScore += averageScore;
         }
@@ -162,27 +161,33 @@ public final class SantaClaus implements Update {
         return santaBudget;
     }
 
-    public void setSantaBudget(final Double santaBudget) {
-        this.santaBudget = santaBudget;
+    public void setSantaBudget(final InputData input) {
+        this.santaBudget = input.getSantaBudget();
     }
 
-    public List<Child> getChildren() {
+    public List<ChildOutput> getChildren() {
         return children;
     }
 
-    public void setChildren(final List<Child> children) {
-        for (Child child : children) {
-            child.getNiceScoreHistory().add(child.getNiceScore());
+    public void setChildren(final InputData input) {
+        List<ChildOutput> childrenOutputFormat = new ArrayList<>();
+        List<ChildInput> childInputFormat = input.getInitialData().getChildren();
+
+        for (ChildInput child : childInputFormat) {
+            ChildOutput newChild = new ChildOutput(child);
+            if (newChild.getAge() <= Constants.TEEN_AGE) {
+                childrenOutputFormat.add(newChild);
+                newChild.addNiceScoreHistory(child.getNiceScore());
+            }
         }
-        this.children = children;
+        this.children = childrenOutputFormat;
+    }
+    public void setSantaGiftList(InputData input) {
+        this.santaGiftList = input.getInitialData().getSantaGiftsList();
     }
 
     public List<Gift> getSantaGiftList() {
         return santaGiftList;
-    }
-
-    public void setSantaGiftList(final List<Gift> santaGiftList) {
-        this.santaGiftList = santaGiftList;
     }
 
     public Double getBudgetUnit() {
