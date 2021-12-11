@@ -2,70 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d662010a-d6c5-4bb5-92a6-5b13c2206c94" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/dataprocessing/ChildInput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/datawriting/AnnualChange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/datawriting/AnnualChildrenFormat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/datawriting/ChildrenOutputFormat.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/checkstyle.txt" beforeDir="false" afterPath="$PROJECT_DIR$/checkstyle.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/proiect1/checker/Checker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proiect1/checker/Checker.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/proiect1/common/Constants.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proiect1/common/Constants.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/proiect1/database/Database.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proiect1/database/Database.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/proiect1/dataprocessing/AnnualChange.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/proiect1/dataprocessing/Child.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/proiect1/dataprocessing/InitialData.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proiect1/dataprocessing/InitialData.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/proiect1/dataprocessing/InputData.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proiect1/dataprocessing/InputData.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/proiect1/datawriting/OutputFormat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proiect1/datawriting/OutputFormat.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/proiect1/datawriting/Writer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proiect1/datawriting/Writer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/proiect1/main/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proiect1/main/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/proiect1/main/Solver.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proiect1/main/Solver.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/proiect1/observer/SantaClaus.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proiect1/observer/SantaClaus.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/proiect1/observer/Update.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proiect1/observer/Update.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/proiect1/strategy/BabyStrategy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proiect1/strategy/BabyStrategy.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/proiect1/strategy/KidStrategy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proiect1/strategy/KidStrategy.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/proiect1/strategy/StrategyFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proiect1/strategy/StrategyFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/proiect1/strategy/TeenStrategy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proiect1/strategy/TeenStrategy.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/out_test1.json" beforeDir="false" afterPath="$PROJECT_DIR$/output/out_test1.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/out_test10.json" beforeDir="false" afterPath="$PROJECT_DIR$/output/out_test10.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/out_test11.json" beforeDir="false" afterPath="$PROJECT_DIR$/output/out_test11.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/out_test12.json" beforeDir="false" afterPath="$PROJECT_DIR$/output/out_test12.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/out_test13.json" beforeDir="false" afterPath="$PROJECT_DIR$/output/out_test13.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/out_test14.json" beforeDir="false" afterPath="$PROJECT_DIR$/output/out_test14.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/out_test15.json" beforeDir="false" afterPath="$PROJECT_DIR$/output/out_test15.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/out_test16.json" beforeDir="false" afterPath="$PROJECT_DIR$/output/out_test16.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/out_test17.json" beforeDir="false" afterPath="$PROJECT_DIR$/output/out_test17.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/out_test18.json" beforeDir="false" afterPath="$PROJECT_DIR$/output/out_test18.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/out_test19.json" beforeDir="false" afterPath="$PROJECT_DIR$/output/out_test19.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/out_test2.json" beforeDir="false" afterPath="$PROJECT_DIR$/output/out_test2.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/out_test20.json" beforeDir="false" afterPath="$PROJECT_DIR$/output/out_test20.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/out_test21.json" beforeDir="false" afterPath="$PROJECT_DIR$/output/out_test21.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/out_test22.json" beforeDir="false" afterPath="$PROJECT_DIR$/output/out_test22.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/out_test23.json" beforeDir="false" afterPath="$PROJECT_DIR$/output/out_test23.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/out_test24.json" beforeDir="false" afterPath="$PROJECT_DIR$/output/out_test24.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/out_test25.json" beforeDir="false" afterPath="$PROJECT_DIR$/output/out_test25.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/out_test3.json" beforeDir="false" afterPath="$PROJECT_DIR$/output/out_test3.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/out_test4.json" beforeDir="false" afterPath="$PROJECT_DIR$/output/out_test4.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/out_test5.json" beforeDir="false" afterPath="$PROJECT_DIR$/output/out_test5.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/out_test6.json" beforeDir="false" afterPath="$PROJECT_DIR$/output/out_test6.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/out_test7.json" beforeDir="false" afterPath="$PROJECT_DIR$/output/out_test7.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/out_test8.json" beforeDir="false" afterPath="$PROJECT_DIR$/output/out_test8.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/out_test9.json" beforeDir="false" afterPath="$PROJECT_DIR$/output/out_test9.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/common/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/Constants.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/database/Database.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/database/Database.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dataprocessing/AnnualChange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dataprocessing/InputAnnualChange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dataprocessing/Child.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datawriting/ChildOutput.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dataprocessing/InitialData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dataprocessing/InitialData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dataprocessing/InputData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dataprocessing/InputData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/datawriting/OutputFormat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datawriting/OutputFormat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/datawriting/Writer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datawriting/Writer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Solver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Solver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/observer/SantaClaus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/observer/SantaClaus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/observer/Update.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/observer/Update.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/strategy/BabyStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/strategy/BabyStrategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/strategy/KidStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/strategy/KidStrategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/strategy/StrategyFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/strategy/StrategyFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/strategy/TeenStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/strategy/TeenStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ref/ref_test25.json" beforeDir="false" afterPath="$PROJECT_DIR$/ref/ref_test25.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,7 +77,8 @@
       <workItem from="1639121997560" duration="4181000" />
       <workItem from="1639126194373" duration="1096000" />
       <workItem from="1639127305777" duration="3941000" />
-      <workItem from="1639165916354" duration="10620000" />
+      <workItem from="1639165916354" duration="11436000" />
+      <workItem from="1639220816502" duration="870000" />
     </task>
     <servers />
   </component>
