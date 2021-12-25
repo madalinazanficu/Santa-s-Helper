@@ -1,34 +1,38 @@
-package datawriting;
+package outputfiles;
 
-import java.util.ArrayList;
-import java.util.List;
-
-
-// Informatii ce trebuie scrise la output
-// la fiecare runda se va adauga in final Result, o noua lista de copii
+/**
+ * Database that maintain the information requested at output
+ * The AnnualChildrenFormat keeps numberOfYears lists of children
+ */
 public final class OutputFormat {
 
     private AnnualChildrenFormat annualChildrenFormat;
     private static OutputFormat instance = null;
 
+    private OutputFormat() { }
+
+    /**
+     * @return the instance of the database
+     */
     public static OutputFormat getInstance() {
         if (instance == null) {
             instance = new OutputFormat();
         }
         return instance;
     }
+
+    /**
+     * Method used for clearing the database for every test case
+     */
     public void clear() {
         annualChildrenFormat = null;
-    }
-
-    private OutputFormat() {
     }
 
     public AnnualChildrenFormat getAnnualChildrenFormat() {
         return annualChildrenFormat;
     }
 
-    public void setAnnualChildrenFormat(AnnualChildrenFormat annualChildrenFormat) {
+    public void setAnnualChildrenFormat(final AnnualChildrenFormat annualChildrenFormat) {
         this.annualChildrenFormat = annualChildrenFormat;
     }
 

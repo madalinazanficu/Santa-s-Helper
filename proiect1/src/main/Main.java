@@ -2,12 +2,12 @@ package main;
 
 import checker.Checker;
 import common.Constants;
-import database.Database;
-import dataprocessing.InputData;
-import dataprocessing.InputLoader;
-import datawriting.OutputFormat;
-import datawriting.Writer;
+import inputfiles.InputData;
+import inputfiles.InputLoader;
+import outputfiles.OutputFormat;
+import outputfiles.Writer;
 import observer.SantaClaus;
+import observer.Solver;
 
 import java.io.File;
 import java.io.IOException;
@@ -32,26 +32,21 @@ public final class Main {
     public static void main(final String[] args) throws IOException {
         File inputDirectory = new File(Constants.INPUT_PATH);
 
-        // path-ul catre directorul out
+        // the path to the result directory
         Path path = Paths.get(Constants.RESULT_PATH);
 
-        // daca nu exista path catre directorul out => ne creeaza fizic
-        // (in calculator) director la path-ul respectiv
         if (!Files.exists(path)) {
             Files.createDirectories(path);
         }
 
-        // instanta pentru directorul de out
         File outputDirectory = new File(Constants.RESULT_PATH);
-
-
         for (File file : Objects.requireNonNull(outputDirectory.listFiles())) {
             if (!file.delete()) {
                 System.out.println("error");
             }
         }
 
-        // se itereaza prin lista de fisiere ale directorului de input
+        // iterate through the list of files of the input directory to apply the required action
         for (File file : Objects.requireNonNull(inputDirectory.listFiles())) {
             String filepath = Constants.OUT_PATH + file.getName();
             File out = new File(filepath);
@@ -60,7 +55,7 @@ public final class Main {
                 action(file.getAbsolutePath(), filepath);
             }
         }
-        // apelarea checker-ului
+        // checker call
         Checker.calculateScore();
     }
     /**
@@ -70,39 +65,32 @@ public final class Main {
      */
     public static void action(final String filePath1,
                               final String filePath2) throws IOException {
-
+        // clear the output format database for every test
         OutputFormat.getInstance().clear();
 
+        // load the input data from every test file and read it
         InputLoader inputLoader = new InputLoader(filePath1);
-        System.out.println(filePath1);
         InputData input = inputLoader.readData();
 
-        // not require modification on fields
-        Database database = Database.getInstance();
-        database.clearDatabase();
-
-        database.setNumberOfYears(input.getNumberOfYears());
-        database.setAnnualChanges(input.getAnnualChanges());
-
-        // require modification on fields
+        // database used for keeping santa specific info that will be updated every round
         SantaClaus santaClaus = SantaClaus.getInstance();
         santaClaus.clearSantaClaus();
 
-        // the initial information that will be updated
+        // set the initial information used in Round0
         santaClaus.setSantaBudget(input);
         santaClaus.setChildren(input);
         santaClaus.setSantaGiftList(input);
 
+        // database used for writing the output format
         OutputFormat outputFormat = OutputFormat.getInstance();
 
+        // responsible class for solving the rounds
         Solver solver = new Solver();
         solver.setNumberOfYears(input);
         solver.setAnnualChanges(input);
         solver.solve();
 
         Writer fileWriter = new Writer(filePath2);
-        fileWriter.write(outputFormat);
-
-        //TODO add here the entry point to your implementation
+        fileWriter.write();
     }
 }

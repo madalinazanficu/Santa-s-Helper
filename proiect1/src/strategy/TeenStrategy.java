@@ -1,11 +1,11 @@
 package strategy;
 
-import datawriting.ChildOutput;
+import outputfiles.ChildOutput;
 
 import java.util.List;
 
 public final class TeenStrategy implements AverageScoreStrategy {
-    private ChildOutput child;
+    private final ChildOutput child;
 
     public TeenStrategy(final ChildOutput child) {
         this.child = child;
@@ -13,8 +13,8 @@ public final class TeenStrategy implements AverageScoreStrategy {
 
     @Override
     public void computeAverageScore() {
-        Double sum = 0.0;
-        Double avg = 0.0;
+        double sum = 0.0;
+        double avg = 0.0;
         List<Double> niceScoreHistory = this.child.getNiceScoreHistory();
         int n = niceScoreHistory.size();
         int imp = (n * (n + 1)) / 2;

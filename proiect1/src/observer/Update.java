@@ -1,7 +1,10 @@
 package observer;
 
-import datawriting.AnnualChange;
+import outputfiles.AnnualChange;
 
 public interface Update {
-    public void update(final AnnualChange annualChangeData);
+    /**
+     * @param annualChangeData the annual updated data
+     */
+    void update(AnnualChange annualChangeData);
 }

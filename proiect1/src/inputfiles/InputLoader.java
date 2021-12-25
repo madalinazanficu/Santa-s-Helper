@@ -1,4 +1,4 @@
-package dataprocessing;
+package inputfiles;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 
@@ -15,12 +15,10 @@ public final class InputLoader {
         this.inputPath = inputPath;
     }
 
-    public String getInputPath() {
-        return inputPath;
-    }
-
     /**
-     * @return
+     * Method used to read the data from JSON file
+     * Map the fields of the InputData class to JSON file fields
+     * @return the input data
      * @throws IOException
      */
     public InputData readData() throws IOException {

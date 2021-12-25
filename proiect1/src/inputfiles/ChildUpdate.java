@@ -1,15 +1,15 @@
-package dataprocessing;
+package inputfiles;
 
 import enums.Category;
 
 import java.util.List;
 
 public final class ChildUpdate {
-    // every child has an id / use this to detect the changes for a child
+    // every child has an id
     private Integer id;
     // brand new nice score
     private Double niceScore;
-    // new wish list
+    // new wishlist
     private List<Category> giftsPreferences;
 
     public ChildUpdate() {

@@ -1,32 +1,33 @@
-package datawriting;
+package outputfiles;
 
-import dataprocessing.ChildInput;
-import dataprocessing.ChildUpdate;
-import dataprocessing.Gift;
-import dataprocessing.InputAnnualChange;
+import inputfiles.ChildInput;
+import inputfiles.ChildUpdate;
+import inputfiles.Gift;
+import inputfiles.InputAnnualChange;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class AnnualChange {
+public final class AnnualChange {
     private Double newSantaBudget;
     private List<Gift> newGifts;
     private List<ChildOutput> newChildren;
     private List<ChildUpdate> childrenUpdates;
 
-    public AnnualChange(InputAnnualChange annualChange) {
+    public AnnualChange(final InputAnnualChange annualChange) {
         this.newSantaBudget = annualChange.getNewSantaBudget();
         this.newGifts = annualChange.getNewGifts();
 
-        // Tranform copilul din inputFormat in OutputFormat
-        List<ChildOutput> newChildren = new ArrayList<>();
+        // Transform the child format from InputFormat to OutputFormat
+        List<ChildOutput> newChildrenList = new ArrayList<>();
         List<ChildInput> children = annualChange.getNewChildren();
+
         for (ChildInput child : children) {
             ChildOutput newChild = new ChildOutput(child);
             newChild.addNiceScoreHistory(child.getNiceScore());
-            newChildren.add(newChild);
+            newChildrenList.add(newChild);
         }
-        this.newChildren = newChildren;
+        this.newChildren = newChildrenList;
         this.childrenUpdates = annualChange.getChildrenUpdates();
     }
 
@@ -50,8 +51,8 @@ public class AnnualChange {
         return newChildren;
     }
 
-    public void setNewChildren(final List<ChildOutput> newChildren) {
-        this.newChildren = newChildren;
+    public void setNewChildren(final List<ChildOutput> children) {
+        this.newChildren = children;
     }
 
     public List<ChildUpdate> getChildrenUpdates() {

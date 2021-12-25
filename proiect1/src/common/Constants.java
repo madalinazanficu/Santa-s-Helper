@@ -12,6 +12,7 @@ public final class Constants {
     public static final int BABY_AGE = 5;
     public static final int KID_AGE = 12;
     public static final int TEEN_AGE = 18;
+    public static final double BABY_AVERAGE_SCORE = 10;
 
     public static final String OUT_PATH = "output/out_";
     public static final String OUTPUT_PATH = "output/out_test";

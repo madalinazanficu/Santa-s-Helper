@@ -1,9 +1,17 @@
 package strategy;
 
 import common.Constants;
-import datawriting.ChildOutput;
+import outputfiles.ChildOutput;
 
-public class StrategyFactory {
+public final class StrategyFactory {
+
+    private StrategyFactory() { }
+
+    /**
+     * Method used for generating different strategies of computing the average score for a child
+     * @param child to compute the average score for a specific child
+     * @return the chosen age based strategy
+     */
     public static AverageScoreStrategy createStrategy(final ChildOutput child) {
         AverageScoreStrategy strategy = null;
         if (child.getAge() < Constants.BABY_AGE) {
