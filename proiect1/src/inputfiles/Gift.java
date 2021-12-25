@@ -1,4 +1,4 @@
-package dataprocessing;
+package inputfiles;
 
 import enums.Category;
 
@@ -16,12 +16,6 @@ public final class Gift {
         this.productName = newGift.getProductName();
         this.price = newGift.getPrice();
         this.category = newGift.getCategory();
-    }
-
-    public Gift(final String productName, final Double price, final Category category) {
-        this.productName = productName;
-        this.price = price;
-        this.category = category;
     }
 
     public String getProductName() {

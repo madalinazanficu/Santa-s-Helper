@@ -1,6 +1,6 @@
 package strategy;
 
-import datawriting.ChildOutput;
+import outputfiles.ChildOutput;
 
 import java.util.List;
 

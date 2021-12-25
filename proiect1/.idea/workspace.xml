@@ -2,8 +2,58 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d662010a-d6c5-4bb5-92a6-5b13c2206c94" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/outputfiles/AnnualChildrenFormat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/outputfiles/ChildrenOutputFormat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ref/ref_test25.json" beforeDir="false" afterPath="$PROJECT_DIR$/ref/ref_test25.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkstyle.txt" beforeDir="false" afterPath="$PROJECT_DIR$/checkstyle.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/proiect1/common/Constants.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proiect1/common/Constants.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/proiect1/database/Database.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/proiect1/dataprocessing/ChildInput.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/proiect1/dataprocessing/ChildUpdate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/proiect1/dataprocessing/Gift.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/proiect1/dataprocessing/InitialData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/proiect1/dataprocessing/InputAnnualChange.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/proiect1/dataprocessing/InputData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/proiect1/dataprocessing/InputLoader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/proiect1/datawriting/AnnualChange.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/proiect1/datawriting/AnnualChildrenFormat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/proiect1/datawriting/ChildOutput.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/proiect1/datawriting/ChildrenOutputFormat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/proiect1/datawriting/OutputFormat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/proiect1/datawriting/Writer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/proiect1/main/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proiect1/main/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/proiect1/main/Solver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/proiect1/observer/SantaClaus.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proiect1/observer/SantaClaus.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/proiect1/observer/Update.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proiect1/observer/Update.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/proiect1/strategy/BabyStrategy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proiect1/strategy/BabyStrategy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/proiect1/strategy/KidStrategy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proiect1/strategy/KidStrategy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/proiect1/strategy/StrategyFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proiect1/strategy/StrategyFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/proiect1/strategy/TeenStrategy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/proiect1/strategy/TeenStrategy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/database/Database.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataprocessing/ChildInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inputfiles/ChildInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataprocessing/ChildUpdate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inputfiles/ChildUpdate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataprocessing/Gift.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inputfiles/Gift.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataprocessing/InitialData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inputfiles/InitialData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataprocessing/InputAnnualChange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inputfiles/InputAnnualChange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataprocessing/InputData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inputfiles/InputData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataprocessing/InputLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inputfiles/InputLoader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/datawriting/AnnualChange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/outputfiles/AnnualChange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/datawriting/AnnualChildrenFormat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/datawriting/ChildOutput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/outputfiles/ChildOutput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/datawriting/ChildrenOutputFormat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/datawriting/OutputFormat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/outputfiles/OutputFormat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/datawriting/Writer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/outputfiles/Writer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Solver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/observer/Solver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/observer/SantaClaus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/observer/SantaClaus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/observer/Update.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/observer/Update.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/strategy/AverageScoreStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/strategy/AverageScoreStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/strategy/BabyStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/strategy/BabyStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/strategy/KidStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/strategy/KidStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/strategy/StrategyFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/strategy/StrategyFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/strategy/TeenStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/strategy/TeenStrategy.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,13 +89,19 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="observer" />
+      <recent name="main" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.Main" />
       <module name="proiect1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.*" />
+          <option name="PATTERN" value="observer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,7 +134,12 @@
       <workItem from="1639126194373" duration="1096000" />
       <workItem from="1639127305777" duration="3941000" />
       <workItem from="1639165916354" duration="11436000" />
-      <workItem from="1639220816502" duration="870000" />
+      <workItem from="1639220816502" duration="949000" />
+      <workItem from="1639262187106" duration="6000" />
+      <workItem from="1640285683632" duration="8334000" />
+      <workItem from="1640356247216" duration="6088000" />
+      <workItem from="1640372629992" duration="7756000" />
+      <workItem from="1640458031404" duration="1239000" />
     </task>
     <servers />
   </component>

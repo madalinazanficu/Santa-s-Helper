@@ -1,4 +1,4 @@
-package dataprocessing;
+package inputfiles;
 
 import enums.Category;
 import enums.Cities;
@@ -27,7 +27,6 @@ public final class ChildInput {
     // every child has a list of wishes
     private List<Category> giftsPreferences;
 
-
     public ChildInput() {
         this.id = id;
         this.lastName = null;
@@ -37,8 +36,6 @@ public final class ChildInput {
         this.niceScore = null;
         this.giftsPreferences = null;
     }
-
-    // COPY-CONSTRCTOR
     public ChildInput(final ChildInput newChild) {
         this.id = newChild.getId();
         this.lastName = newChild.getLastName();
@@ -107,14 +104,14 @@ public final class ChildInput {
 
     @Override
     public String toString() {
-        return "Child{" +
-                "id=" + id +
-                ", lastName='" + lastName + '\'' +
-                ", firstName='" + firstName + '\'' +
-                ", age=" + age +
-                ", city=" + city +
-                ", niceScore=" + niceScore +
-                ", giftsPreferences=" + giftsPreferences +
-                '}';
+        return "Child{"
+                + "id=" + id
+                + ", lastName='" + lastName + '\''
+                + ", firstName='" + firstName + '\''
+                + ", age=" + age
+                + ", city=" + city
+                + ", niceScore=" + niceScore
+                + ", giftsPreferences=" + giftsPreferences
+                + '}';
     }
 }

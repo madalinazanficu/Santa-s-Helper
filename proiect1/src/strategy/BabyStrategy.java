@@ -1,6 +1,7 @@
 package strategy;
 
-import datawriting.ChildOutput;
+import common.Constants;
+import outputfiles.ChildOutput;
 
 public final class BabyStrategy implements AverageScoreStrategy {
     private ChildOutput child;
@@ -11,6 +12,6 @@ public final class BabyStrategy implements AverageScoreStrategy {
 
     @Override
     public void computeAverageScore() {
-        this.child.setAverageScore(10.0);
+        this.child.setAverageScore(Constants.BABY_AVERAGE_SCORE);
     }
 }

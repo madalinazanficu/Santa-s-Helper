@@ -2,7 +2,7 @@ package strategy;
 
 public interface AverageScoreStrategy {
     /**
-     *  Implemented by KidStrategy/TeenStrategy/BabyStratedy in order to apply Strategy pattern
+     *  Implemented by KidStrategy/TeenStrategy/BabyStrategy in order to apply Strategy pattern
      */
-    public void computeAverageScore();
+    void computeAverageScore();
 }
