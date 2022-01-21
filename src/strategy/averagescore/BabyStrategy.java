@@ -1,10 +1,10 @@
-package strategy;
+package strategy.averagescore;
 
 import common.Constants;
 import outputfiles.ChildOutput;
 
 public final class BabyStrategy implements AverageScoreStrategy {
-    private ChildOutput child;
+    private final ChildOutput child;
 
     public BabyStrategy(final ChildOutput child) {
         this.child = child;

@@ -9,7 +9,7 @@ public final class Gift {
     private Double price;
     private Category category;
 
-    // the new feature added -> quantity for the gift category
+    // quantity of the gift
     @JsonProperty(access = JsonProperty.Access.WRITE_ONLY)
     private Integer quantity;
 

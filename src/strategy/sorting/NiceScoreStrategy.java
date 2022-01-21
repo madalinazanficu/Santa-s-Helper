@@ -1,11 +1,11 @@
-package strategy.assignGifts;
+package strategy.sorting;
 
 import outputfiles.ChildOutput;
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 
-public class NiceScoreStrategy implements AssignGiftsStrategy {
+public class NiceScoreStrategy implements SortingStrategy {
     private List<ChildOutput> childrenList;
 
     public NiceScoreStrategy(final List<ChildOutput> childrenList) {
@@ -15,10 +15,9 @@ public class NiceScoreStrategy implements AssignGiftsStrategy {
     /**
      * Sort the list of children in decreasing order by their average score
      * If the average score of two children is equal, sort them in increasing order by their id
-     * @return the sorted list
      */
     @Override
-    public List<ChildOutput> sortChildrenList() {
+    public void sortChildrenList() {
         Collections.sort(childrenList, new Comparator<ChildOutput>() {
             @Override
             public int compare(final ChildOutput o1, final ChildOutput o2) {
@@ -34,6 +33,5 @@ public class NiceScoreStrategy implements AssignGiftsStrategy {
                 return -1;
             }
         });
-        return childrenList;
     }
 }

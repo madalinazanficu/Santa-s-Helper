@@ -28,12 +28,13 @@ public final class SantaClaus implements Update {
     // the budget unit
     private Double budgetUnit;
 
+    // the list of children
     private List<ChildOutput> children;
 
     // the list of gifts available
     private List<Gift> santaGiftList;
 
-    // new update for the strategy
+    // the strategy of sharing gifts
     private CityStrategyEnum strategy;
 
     /**
@@ -66,7 +67,7 @@ public final class SantaClaus implements Update {
     }
 
     /**
-     * Method used for updating santa information for the current year
+     * Update santa information for the current year
      * @param annualChange the changes applied for teh current year
      */
     @Override
@@ -88,7 +89,7 @@ public final class SantaClaus implements Update {
     }
 
     /**
-     * Method used for updating the list of children
+     * Update the list of children
      * Added only the children with age <18
      * @param newChildren the new children needed to be added in the list
      */
@@ -110,7 +111,7 @@ public final class SantaClaus implements Update {
     }
 
     /**
-     * Method used for updating santa's gifts list
+     * Update santa's gifts list
      * Added only the gifts that are not in the initial list
      * @param newSantaGiftList the new gifts needed to be added in the list
      */
@@ -123,7 +124,7 @@ public final class SantaClaus implements Update {
     }
 
     /**
-     * Method used for updating information for specific children
+     * Update information for specific children
      * @param childrenUpdates the list of updated available for the childrens
      */
     public void updateSpecificChildren(final List<ChildUpdate> childrenUpdates) {
@@ -169,7 +170,7 @@ public final class SantaClaus implements Update {
     }
 
     /**
-     * Method used for updating the santa budget for the current year
+     * Update santa budget for the current year
      * @param newSantaBudget the value to update the santaBudget
      */
     public void updateBudget(final Double newSantaBudget) {
@@ -177,14 +178,14 @@ public final class SantaClaus implements Update {
     }
 
     /**
-     * Method used for updating the budget unit for the current year
+     * Update the budget unit for the current year
      */
     public void updateBudgetUnit() {
         computeBudgetUnit();
     }
 
     /**
-     * Method used for computing the budget unit for the current year
+     * Compute the budget unit for the current year
      */
     public void computeBudgetUnit() {
         Double totalScore = 0.0;
@@ -212,10 +213,10 @@ public final class SantaClaus implements Update {
     }
 
     /**
-     * Method used for setting database's list of children
+     * Set database's list of children
      * Transform every child from childInputFormat to childOutputFormat
      * Added in the list only the children eligible to receive presents
-     * @param input information to extract the list od childrem
+     * @param input information to extract the list od children
      */
     public void setChildren(final InputData input) {
         List<ChildOutput> childrenOutputFormat = new ArrayList<>();
@@ -239,7 +240,7 @@ public final class SantaClaus implements Update {
     }
 
     /**
-     * Method used for getting the santa budgetUnit
+     * Get santa budgetUnit
      * @return the budgetUnit of the santa
      */
     public Double getBudgetUnit() {

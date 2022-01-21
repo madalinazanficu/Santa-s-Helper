@@ -17,8 +17,6 @@ public final class Constants {
     public static final Double PERCENTAGE = 30.0;
     public static final Double PERCENT = 100.0;
 
-
-    // INITIAL
      public static final String OUT_PATH = "output/out_";
      public static final String OUTPUT_PATH = "output/out_test";
 

@@ -1,4 +1,4 @@
-package strategy.assignGifts;
+package strategy.sorting;
 
 import outputfiles.ChildOutput;
 
@@ -6,8 +6,8 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 
-public class IdStrategy implements AssignGiftsStrategy {
-    private List<ChildOutput> childrenList;
+public class IdStrategy implements SortingStrategy {
+    private final List<ChildOutput> childrenList;
 
     public IdStrategy(final List<ChildOutput> childrenList) {
         this.childrenList = childrenList;
@@ -15,11 +15,9 @@ public class IdStrategy implements AssignGiftsStrategy {
 
     /**
      * Sort the list of children in increasing order by their id
-     * @return the sorted list of children by id criteria
      */
     @Override
-    public List<ChildOutput> sortChildrenList() {
+    public void sortChildrenList() {
         Collections.sort(this.childrenList, Comparator.comparing(ChildOutput::getId));
-        return this.childrenList;
     }
 }

@@ -1,12 +1,10 @@
 package inputfiles;
-import enums.Cities;
 
 import java.util.List;
 
 public final class InitialData {
     private List<ChildInput> children;
     private List<Gift> santaGiftsList;
-    private List<Cities> citiesList;
 
     public InitialData() {
         this.children = null;

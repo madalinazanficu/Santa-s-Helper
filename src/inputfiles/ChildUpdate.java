@@ -12,6 +12,7 @@ public final class ChildUpdate {
     private Double niceScore;
     // new wishlist
     private List<Category> giftsPreferences;
+    // new elf
     private ElvesType elf;
 
     public ChildUpdate() {

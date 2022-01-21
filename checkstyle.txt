@@ -1,17 +1,2 @@
 Starting audit...
-[ERROR] /home/madalina/proiect1-etapa1-oop/Santa-s-Helper/proiect1/./src/main/Main.java:52: Line is longer than 100 characters (found 104). [LineLength]
-[ERROR] /home/madalina/proiect1-etapa1-oop/Santa-s-Helper/proiect1/./src/strategy/assignGifts/AssignGiftsStrategy.java:8:5: Missing a Javadoc comment. [MissingJavadocMethod]
-[ERROR] /home/madalina/proiect1-etapa1-oop/Santa-s-Helper/proiect1/./src/strategy/assignGifts/NiceScoreCityStrategy.java:5:17: Using the '.*' form of import should be avoided - java.util.*. [AvoidStarImport]
-[ERROR] /home/madalina/proiect1-etapa1-oop/Santa-s-Helper/proiect1/./src/strategy/KidStrategy.java:27:56: '100' is a magic number. [MagicNumber]
-[ERROR] /home/madalina/proiect1-etapa1-oop/Santa-s-Helper/proiect1/./src/strategy/KidStrategy.java:28:20: '10.0' is a magic number. [MagicNumber]
-[ERROR] /home/madalina/proiect1-etapa1-oop/Santa-s-Helper/proiect1/./src/strategy/KidStrategy.java:29:19: '10.0' is a magic number. [MagicNumber]
-[ERROR] /home/madalina/proiect1-etapa1-oop/Santa-s-Helper/proiect1/./src/strategy/TeenStrategy.java:28:56: '100' is a magic number. [MagicNumber]
-[ERROR] /home/madalina/proiect1-etapa1-oop/Santa-s-Helper/proiect1/./src/strategy/TeenStrategy.java:29:20: '10.0' is a magic number. [MagicNumber]
-[ERROR] /home/madalina/proiect1-etapa1-oop/Santa-s-Helper/proiect1/./src/strategy/TeenStrategy.java:30:19: '10.0' is a magic number. [MagicNumber]
-[ERROR] /home/madalina/proiect1-etapa1-oop/Santa-s-Helper/proiect1/./src/observer/Solver.java:25:8: Unused import - java.util.function.Consumer. [UnusedImports]
-[ERROR] /home/madalina/proiect1-etapa1-oop/Santa-s-Helper/proiect1/./src/observer/Solver.java:155:5: Missing a Javadoc comment. [MissingJavadocMethod]
-[ERROR] /home/madalina/proiect1-etapa1-oop/Santa-s-Helper/proiect1/./src/observer/Solver.java:162:49: '(' should be on the previous line. [MethodParamPad]
-[ERROR] /home/madalina/proiect1-etapa1-oop/Santa-s-Helper/proiect1/./src/observer/Solver.java:226:5: Missing a Javadoc comment. [MissingJavadocMethod]
-[ERROR] /home/madalina/proiect1-etapa1-oop/Santa-s-Helper/proiect1/./src/observer/Solver.java:226:17: Name 'YellowElf' must match pattern '^[a-z][a-zA-Z0-9]*$'. [MethodName]
 Audit done.
-Checkstyle ends with 14 errors.

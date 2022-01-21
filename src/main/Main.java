@@ -47,17 +47,14 @@ public final class Main {
         }
 
         // iterate through the list of files of the input directory to apply the required action
-//        for (File file : Objects.requireNonNull(inputDirectory.listFiles())) {
-            for (int i = 1; i <= Constants.TESTS_NUMBER; i++) {
-                File inputFile = new File(Constants.INPUT_PATH + "test" + i + Constants.FILE_EXTENSION);
-                // String filepath = Constants.OUT_PATH + file.getName();
-
-                File out = new File(Constants.OUTPUT_PATH + i + Constants.FILE_EXTENSION);
-                boolean isCreated = out.createNewFile();
-                if (isCreated) {
-                    // if (i == 28)
-                        action(inputFile.getAbsolutePath(), out.getAbsolutePath());
-                }
+        for (int i = 1; i <= Constants.TESTS_NUMBER; i++) {
+            File inputFile = new File(Constants.INPUT_PATH + "test" + i
+                                        + Constants.FILE_EXTENSION);
+            File out = new File(Constants.OUTPUT_PATH + i + Constants.FILE_EXTENSION);
+            boolean isCreated = out.createNewFile();
+            if (isCreated) {
+                action(inputFile.getAbsolutePath(), out.getAbsolutePath());
+            }
         }
         // checker call
         Checker.calculateScore();

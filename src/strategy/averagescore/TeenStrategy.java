@@ -1,5 +1,6 @@
-package strategy;
+package strategy.averagescore;
 
+import common.Constants;
 import outputfiles.ChildOutput;
 
 import java.util.List;
@@ -25,9 +26,9 @@ public final class TeenStrategy implements AverageScoreStrategy {
             avg = sum / imp;
         }
         // added the niceScoreBonus to formula
-        avg = avg +  avg * child.getNiceScoreBonus() / 100;
-        if (avg >= 10.0) {
-            avg = 10.0;
+        avg = avg +  avg * child.getNiceScoreBonus() / Constants.PERCENT;
+        if (avg >= Constants.BABY_AVERAGE_SCORE) {
+            avg = Constants.BABY_AVERAGE_SCORE;
         }
         child.setAverageScore(avg);
     }

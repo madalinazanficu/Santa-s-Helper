@@ -2,11 +2,13 @@ package outputfiles;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.JsonProperty;
+import common.Constants;
 import enums.ElvesType;
 import inputfiles.ChildInput;
 import inputfiles.Gift;
 import enums.Category;
 import enums.Cities;
+import observer.SantaClaus;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -227,5 +229,24 @@ public final class ChildOutput {
 
     public void setElf(final ElvesType elf) {
         this.elf = elf;
+    }
+
+    /**
+     *  Compute the budget for every child
+     *  Taking into consideration the BLACK AND PINK elf changes
+     */
+    public void computeBudget() {
+        // compute the budget that santa allocated for the current child
+        Double budgetUnit = SantaClaus.getInstance().getBudgetUnit();
+        double childBudget = this.getAverageScore() * budgetUnit;
+        // depending on each child's elf, the budget could be modified
+        if (this.getElf().equals(ElvesType.BLACK)) {
+            childBudget = childBudget - childBudget * Constants.PERCENTAGE / Constants.PERCENT;
+        }
+        if (this.getElf().equals(ElvesType.PINK)) {
+            childBudget = childBudget + childBudget * Constants.PERCENTAGE / Constants.PERCENT;
+        }
+        // assigned the computed budget to the child
+        this.setAssignedBudget(childBudget);
     }
 }

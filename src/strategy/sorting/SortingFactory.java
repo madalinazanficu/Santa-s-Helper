@@ -1,12 +1,12 @@
-package strategy.assignGifts;
+package strategy.sorting;
 
 import enums.CityStrategyEnum;
 import outputfiles.ChildOutput;
 
 import java.util.List;
 
-public final class AssignGiftsFactory {
-    private AssignGiftsFactory() { }
+public final class SortingFactory {
+    private SortingFactory() { }
 
     /**
      * Generating different strategies of sorting the list of children
@@ -15,9 +15,9 @@ public final class AssignGiftsFactory {
      * @param children the list of children that will be sorted
      * @return the sorting strategy applied
      */
-    public static AssignGiftsStrategy createStrategy(final CityStrategyEnum strategyEnum,
-                                                     final List<ChildOutput> children) {
-        AssignGiftsStrategy strategy = null;
+    public static SortingStrategy createStrategy(final CityStrategyEnum strategyEnum,
+                                                 final List<ChildOutput> children) {
+        SortingStrategy strategy = null;
         if (strategyEnum.equals(CityStrategyEnum.ID)) {
             strategy = new IdStrategy(children);
         }
